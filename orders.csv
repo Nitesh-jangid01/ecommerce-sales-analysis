@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,channel,status,city,discount_pct
+ORD00001,CUST0257,2022-06-04,Organic,Cancelled,Chennai,0
+ORD00002,CUST0044,2023-06-01,Email,Processing,Delhi,10
+ORD00003,CUST0082,2023-01-08,Paid Search,Delivered,Hyderabad,10
+ORD00004,CUST0172,2022-03-09,Paid Search,Delivered,Kolkata,15
+ORD00005,CUST0042,2023-08-20,Paid Search,Delivered,Delhi,15
+ORD00006,CUST0305,2023-12-27,Social Media,Delivered,Chennai,0
+ORD00007,CUST0344,2023-12-21,Social Media,Delivered,Hyderabad,0
+ORD00008,CUST0159,2022-07-04,Paid Search,Delivered,Ahmedabad,0
+ORD00009,CUST0152,2022-04-14,Paid Search,Returned,Ahmedabad,0
+ORD00010,CUST0193,2022-06-07,Social Media,Delivered,Hyderabad,0
+ORD00011,CUST0023,2023-02-25,Direct,Delivered,Delhi,15
+ORD00012,CUST0123,2022-11-13,Social Media,Delivered,Hyderabad,5
+ORD00013,CUST0271,2023-03-05,Email,Delivered,Hyderabad,0
+ORD00014,CUST0247,2023-01-16,Email,Cancelled,Delhi,0
+ORD00015,CUST0391,2022-06-14,Email,Delivered,Ahmedabad,0
+ORD00016,CUST0213,2022-02-24,Direct,Delivered,Bangalore,0
+ORD00017,CUST0172,2022-05-30,Direct,Delivered,Kolkata,0
+ORD00018,CUST0230,2023-09-23,Organic,Delivered,Hyderabad,0
+ORD00019,CUST0482,2023-09-16,Paid Search,Delivered,Kolkata,5
+ORD00020,CUST0057,2023-05-27,Social Media,Delivered,Kolkata,0
+ORD00021,CUST0220,2022-01-02,Organic,Delivered,Mumbai,10
+ORD00022,CUST0279,2023-06-04,Direct,Delivered,Indore,5
+ORD00023,CUST0130,2022-01-17,Organic,Delivered,Delhi,0
+ORD00024,CUST0069,2022-02-15,Organic,Returned,Kolkata,5
+ORD00025,CUST0094,2022-05-19,Email,Delivered,Indore,0
+ORD00026,CUST0023,2022-07-24,Direct,Delivered,Delhi,10
+ORD00027,CUST0130,2022-02-07,Direct,Delivered,Delhi,15
+ORD00028,CUST0064,2023-01-12,Direct,Delivered,Kolkata,0
+ORD00029,CUST0474,2023-06-16,Paid Search,Delivered,Chennai,0
+ORD00030,CUST0053,2022-03-23,Paid Search,Delivered,Hyderabad,0
+ORD00031,CUST0229,2022-02-13,Social Media,Returned,Delhi,0
+ORD00032,CUST0208,2023-01-08,Email,Delivered,Hyderabad,5
+ORD00033,CUST0035,2022-08-30,Organic,Delivered,Ahmedabad,5
+ORD00034,CUST0391,2022-03-20,Paid Search,Delivered,Ahmedabad,0
+ORD00035,CUST0377,2022-07-10,Paid Search,Delivered,Mumbai,5
+ORD00036,CUST0470,2023-05-18,Direct,Delivered,Pune,15
+ORD00037,CUST0415,2023-11-30,Organic,Delivered,Kolkata,0
+ORD00038,CUST0475,2023-12-19,Social Media,Delivered,Pune,0
+ORD00039,CUST0405,2023-05-21,Social Media,Delivered,Bangalore,10
+ORD00040,CUST0314,2022-03-30,Paid Search,Delivered,Jaipur,5
+ORD00041,CUST0211,2023-02-24,Direct,Delivered,Jaipur,5
+ORD00042,CUST0349,2023-06-14,Social Media,Delivered,Chennai,0
+ORD00043,CUST0426,2022-05-08,Organic,Processing,Kolkata,0
+ORD00044,CUST0459,2022-10-18,Organic,Processing,Ahmedabad,0
+ORD00045,CUST0321,2022-11-07,Social Media,Delivered,Kolkata,10
+ORD00046,CUST0088,2023-11-06,Email,Delivered,Kolkata,0
+ORD00047,CUST0334,2022-08-04,Direct,Delivered,Delhi,15
+ORD00048,CUST0208,2022-11-01,Paid Search,Delivered,Hyderabad,0
+ORD00049,CUST0442,2022-11-23,Paid Search,Delivered,Pune,0
+ORD00050,CUST0137,2023-04-06,Organic,Processing,Pune,10
+ORD00051,CUST0493,2022-06-13,Paid Search,Returned,Chennai,5
+ORD00052,CUST0451,2022-11-12,Paid Search,Delivered,Bangalore,10
+ORD00053,CUST0254,2023-09-04,Paid Search,Cancelled,Mumbai,15
+ORD00054,CUST0206,2022-02-22,Paid Search,Delivered,Pune,5
+ORD00055,CUST0423,2023-10-01,Direct,Delivered,Ahmedabad,0
+ORD00056,CUST0481,2023-01-10,Social Media,Delivered,Delhi,0
+ORD00057,CUST0366,2022-12-08,Direct,Delivered,Mumbai,10
+ORD00058,CUST0379,2022-11-03,Social Media,Delivered,Chennai,0
+ORD00059,CUST0170,2023-11-21,Social Media,Returned,Hyderabad,15
+ORD00060,CUST0323,2022-01-28,Social Media,Delivered,Jaipur,10
+ORD00061,CUST0370,2023-09-27,Organic,Processing,Kolkata,0
+ORD00062,CUST0215,2022-06-05,Email,Cancelled,Ahmedabad,15
+ORD00063,CUST0266,2022-08-01,Paid Search,Processing,Hyderabad,5
+ORD00064,CUST0182,2023-11-24,Direct,Delivered,Kolkata,0
+ORD00065,CUST0361,2022-08-01,Direct,Returned,Chennai,0
+ORD00066,CUST0279,2023-01-24,Paid Search,Delivered,Indore,15
+ORD00067,CUST0132,2023-05-06,Social Media,Processing,Pune,15
+ORD00068,CUST0056,2023-09-23,Social Media,Delivered,Bangalore,15
+ORD00069,CUST0052,2023-02-28,Social Media,Delivered,Pune,10
+ORD00070,CUST0479,2023-05-03,Paid Search,Delivered,Kolkata,0
+ORD00071,CUST0379,2022-02-08,Organic,Cancelled,Chennai,5
+ORD00072,CUST0480,2022-10-24,Paid Search,Delivered,Pune,0
+ORD00073,CUST0233,2023-10-19,Paid Search,Returned,Bangalore,0
+ORD00074,CUST0132,2022-07-10,Paid Search,Delivered,Pune,15
+ORD00075,CUST0090,2023-09-18,Organic,Delivered,Kolkata,0
+ORD00076,CUST0004,2022-09-25,Direct,Delivered,Mumbai,15
+ORD00077,CUST0185,2023-12-11,Organic,Delivered,Pune,5
+ORD00078,CUST0473,2023-12-22,Direct,Delivered,Indore,10
+ORD00079,CUST0245,2022-06-06,Email,Cancelled,Chennai,10
+ORD00080,CUST0387,2023-09-03,Paid Search,Delivered,Delhi,0
+ORD00081,CUST0058,2022-03-05,Organic,Delivered,Ahmedabad,10
+ORD00082,CUST0349,2022-07-30,Paid Search,Delivered,Chennai,5
+ORD00083,CUST0345,2022-11-12,Paid Search,Delivered,Bangalore,0
+ORD00084,CUST0038,2022-02-16,Direct,Processing,Bangalore,0
+ORD00085,CUST0093,2022-05-19,Paid Search,Delivered,Ahmedabad,15
+ORD00086,CUST0061,2022-07-02,Email,Returned,Pune,0
+ORD00087,CUST0218,2023-06-29,Paid Search,Delivered,Hyderabad,15
+ORD00088,CUST0315,2022-01-17,Organic,Delivered,Hyderabad,10
+ORD00089,CUST0447,2022-02-19,Paid Search,Delivered,Chennai,0
+ORD00090,CUST0258,2022-10-24,Social Media,Delivered,Pune,15
+ORD00091,CUST0155,2022-05-27,Paid Search,Delivered,Ahmedabad,10
+ORD00092,CUST0321,2023-11-27,Direct,Delivered,Kolkata,10
+ORD00093,CUST0077,2022-11-04,Organic,Delivered,Bangalore,15
+ORD00094,CUST0212,2023-03-03,Paid Search,Delivered,Bangalore,0
+ORD00095,CUST0048,2023-07-03,Paid Search,Delivered,Kolkata,0
+ORD00096,CUST0412,2023-08-25,Direct,Delivered,Kolkata,0
+ORD00097,CUST0493,2022-05-01,Email,Delivered,Chennai,0
+ORD00098,CUST0239,2023-07-01,Social Media,Delivered,Jaipur,0
+ORD00099,CUST0469,2022-07-28,Social Media,Delivered,Hyderabad,0
+ORD00100,CUST0479,2023-08-22,Organic,Delivered,Kolkata,0
+ORD00101,CUST0173,2022-09-21,Paid Search,Delivered,Pune,0
+ORD00102,CUST0251,2022-07-08,Organic,Returned,Hyderabad,15
+ORD00103,CUST0392,2022-01-07,Organic,Delivered,Mumbai,0
+ORD00104,CUST0317,2023-10-16,Social Media,Delivered,Indore,0
+ORD00105,CUST0147,2022-01-18,Social Media,Delivered,Delhi,10
+ORD00106,CUST0408,2023-02-11,Direct,Delivered,Ahmedabad,0
+ORD00107,CUST0116,2022-11-04,Direct,Delivered,Chennai,0
+ORD00108,CUST0208,2023-01-24,Organic,Delivered,Hyderabad,5
+ORD00109,CUST0440,2022-04-08,Organic,Cancelled,Bangalore,10
+ORD00110,CUST0139,2022-02-17,Direct,Cancelled,Mumbai,10
+ORD00111,CUST0017,2022-07-03,Organic,Returned,Ahmedabad,5
+ORD00112,CUST0289,2022-09-04,Email,Delivered,Ahmedabad,15
+ORD00113,CUST0499,2022-12-21,Paid Search,Returned,Jaipur,0
+ORD00114,CUST0394,2023-09-21,Paid Search,Processing,Pune,5
+ORD00115,CUST0222,2022-07-10,Email,Delivered,Pune,0
+ORD00116,CUST0402,2023-10-12,Paid Search,Delivered,Hyderabad,0
+ORD00117,CUST0185,2022-10-04,Organic,Delivered,Pune,10
+ORD00118,CUST0263,2023-02-22,Organic,Delivered,Chennai,10
+ORD00119,CUST0402,2022-11-29,Email,Delivered,Hyderabad,10
+ORD00120,CUST0351,2023-01-25,Paid Search,Delivered,Chennai,0
+ORD00121,CUST0142,2023-03-08,Paid Search,Processing,Delhi,15
+ORD00122,CUST0316,2022-07-20,Direct,Delivered,Bangalore,10
+ORD00123,CUST0221,2023-10-29,Social Media,Delivered,Pune,5
+ORD00124,CUST0494,2023-02-12,Social Media,Processing,Kolkata,0
+ORD00125,CUST0419,2023-02-07,Social Media,Delivered,Delhi,15
+ORD00126,CUST0237,2023-12-27,Paid Search,Delivered,Jaipur,5
+ORD00127,CUST0072,2023-10-11,Organic,Delivered,Indore,5
+ORD00128,CUST0246,2023-08-20,Social Media,Returned,Delhi,0
+ORD00129,CUST0469,2022-03-29,Organic,Delivered,Hyderabad,0
+ORD00130,CUST0314,2022-02-15,Organic,Delivered,Jaipur,0
+ORD00131,CUST0298,2023-12-06,Paid Search,Returned,Kolkata,10
+ORD00132,CUST0078,2022-12-20,Organic,Delivered,Delhi,0
+ORD00133,CUST0426,2022-05-26,Email,Delivered,Kolkata,0
+ORD00134,CUST0370,2023-12-15,Email,Delivered,Kolkata,0
+ORD00135,CUST0477,2022-09-07,Paid Search,Delivered,Delhi,5
+ORD00136,CUST0323,2022-07-08,Paid Search,Delivered,Jaipur,10
+ORD00137,CUST0304,2023-03-16,Paid Search,Delivered,Hyderabad,0
+ORD00138,CUST0188,2022-11-30,Paid Search,Cancelled,Mumbai,10
+ORD00139,CUST0306,2023-02-02,Email,Delivered,Jaipur,15
+ORD00140,CUST0044,2023-11-20,Organic,Delivered,Delhi,0
+ORD00141,CUST0262,2023-02-02,Paid Search,Delivered,Mumbai,10
+ORD00142,CUST0086,2023-05-17,Email,Delivered,Jaipur,0
+ORD00143,CUST0100,2023-01-29,Email,Delivered,Chennai,0
+ORD00144,CUST0150,2022-02-03,Organic,Delivered,Kolkata,15
+ORD00145,CUST0058,2023-08-10,Email,Returned,Ahmedabad,0
+ORD00146,CUST0422,2022-02-12,Email,Delivered,Kolkata,0
+ORD00147,CUST0179,2022-03-31,Organic,Delivered,Jaipur,15
+ORD00148,CUST0220,2022-06-19,Email,Returned,Mumbai,10
+ORD00149,CUST0144,2023-09-04,Paid Search,Delivered,Indore,10
+ORD00150,CUST0070,2023-02-26,Direct,Delivered,Ahmedabad,0
+ORD00151,CUST0075,2023-12-30,Email,Delivered,Delhi,0
+ORD00152,CUST0322,2023-03-01,Paid Search,Delivered,Kolkata,15
+ORD00153,CUST0298,2022-01-03,Direct,Delivered,Kolkata,15
+ORD00154,CUST0436,2022-03-06,Paid Search,Returned,Delhi,0
+ORD00155,CUST0437,2023-05-12,Organic,Delivered,Indore,5
+ORD00156,CUST0226,2023-04-13,Organic,Delivered,Chennai,0
+ORD00157,CUST0155,2022-06-12,Paid Search,Delivered,Ahmedabad,15
+ORD00158,CUST0321,2022-11-09,Organic,Delivered,Kolkata,0
+ORD00159,CUST0068,2023-08-31,Paid Search,Delivered,Chennai,0
+ORD00160,CUST0356,2022-05-16,Email,Delivered,Delhi,0
+ORD00161,CUST0397,2022-05-17,Social Media,Delivered,Hyderabad,0
+ORD00162,CUST0370,2022-08-07,Social Media,Delivered,Kolkata,0
+ORD00163,CUST0072,2022-05-07,Organic,Delivered,Indore,0
+ORD00164,CUST0312,2022-10-19,Email,Cancelled,Kolkata,0
+ORD00165,CUST0311,2023-06-06,Paid Search,Delivered,Bangalore,0
+ORD00166,CUST0058,2022-09-04,Direct,Delivered,Ahmedabad,0
+ORD00167,CUST0216,2023-01-10,Direct,Returned,Indore,0
+ORD00168,CUST0008,2022-09-26,Direct,Delivered,Ahmedabad,0
+ORD00169,CUST0257,2023-03-02,Social Media,Delivered,Chennai,0
+ORD00170,CUST0472,2022-07-28,Paid Search,Delivered,Pune,15
+ORD00171,CUST0034,2022-11-14,Organic,Cancelled,Chennai,0
+ORD00172,CUST0159,2023-11-14,Email,Delivered,Ahmedabad,0
+ORD00173,CUST0268,2023-06-14,Email,Cancelled,Ahmedabad,15
+ORD00174,CUST0414,2023-03-16,Email,Delivered,Mumbai,0
+ORD00175,CUST0185,2022-02-26,Organic,Returned,Pune,10
+ORD00176,CUST0380,2023-06-06,Direct,Delivered,Pune,0
+ORD00177,CUST0187,2023-01-28,Organic,Returned,Indore,15
+ORD00178,CUST0215,2022-08-18,Paid Search,Returned,Ahmedabad,10
+ORD00179,CUST0345,2022-02-23,Social Media,Delivered,Bangalore,5
+ORD00180,CUST0444,2022-10-17,Paid Search,Delivered,Kolkata,0
+ORD00181,CUST0319,2022-09-06,Email,Delivered,Chennai,0
+ORD00182,CUST0120,2023-07-09,Direct,Processing,Ahmedabad,0
+ORD00183,CUST0373,2022-11-11,Social Media,Delivered,Delhi,5
+ORD00184,CUST0498,2022-05-26,Direct,Delivered,Jaipur,15
+ORD00185,CUST0044,2023-08-18,Organic,Returned,Delhi,0
+ORD00186,CUST0291,2022-03-05,Paid Search,Delivered,Jaipur,5
+ORD00187,CUST0232,2022-10-06,Organic,Returned,Mumbai,0
+ORD00188,CUST0085,2023-04-06,Paid Search,Returned,Chennai,5
+ORD00189,CUST0047,2022-06-11,Social Media,Delivered,Delhi,0
+ORD00190,CUST0128,2022-12-31,Paid Search,Processing,Indore,0
+ORD00191,CUST0282,2022-09-13,Organic,Returned,Ahmedabad,0
+ORD00192,CUST0032,2022-08-16,Paid Search,Delivered,Jaipur,15
+ORD00193,CUST0301,2022-09-23,Direct,Delivered,Kolkata,15
+ORD00194,CUST0415,2022-05-12,Email,Returned,Kolkata,0
+ORD00195,CUST0483,2023-04-18,Direct,Delivered,Pune,15
+ORD00196,CUST0255,2022-01-31,Organic,Delivered,Bangalore,0
+ORD00197,CUST0318,2023-09-24,Paid Search,Cancelled,Chennai,5
+ORD00198,CUST0144,2023-01-28,Social Media,Returned,Indore,0
+ORD00199,CUST0407,2022-01-20,Social Media,Delivered,Bangalore,10
+ORD00200,CUST0093,2022-01-27,Direct,Returned,Ahmedabad,0
+ORD00201,CUST0393,2023-08-22,Organic,Delivered,Jaipur,10
+ORD00202,CUST0392,2022-08-13,Organic,Delivered,Mumbai,15
+ORD00203,CUST0361,2023-12-19,Social Media,Delivered,Chennai,5
+ORD00204,CUST0252,2022-02-08,Organic,Delivered,Bangalore,10
+ORD00205,CUST0001,2022-12-06,Paid Search,Delivered,Delhi,0
+ORD00206,CUST0076,2023-08-24,Email,Cancelled,Kolkata,0
+ORD00207,CUST0483,2023-11-10,Paid Search,Processing,Pune,15
+ORD00208,CUST0163,2022-06-28,Email,Delivered,Jaipur,15
+ORD00209,CUST0091,2022-01-02,Organic,Delivered,Bangalore,10
+ORD00210,CUST0480,2023-05-24,Organic,Delivered,Pune,0
+ORD00211,CUST0454,2022-04-01,Organic,Delivered,Bangalore,0
+ORD00212,CUST0001,2022-02-19,Direct,Delivered,Delhi,5
+ORD00213,CUST0425,2023-05-06,Organic,Returned,Delhi,0
+ORD00214,CUST0134,2022-04-18,Organic,Delivered,Indore,15
+ORD00215,CUST0281,2022-04-06,Email,Delivered,Delhi,15
+ORD00216,CUST0081,2022-02-24,Organic,Delivered,Bangalore,15
+ORD00217,CUST0370,2023-07-08,Organic,Delivered,Kolkata,10
+ORD00218,CUST0028,2023-01-05,Organic,Returned,Pune,15
+ORD00219,CUST0246,2022-07-24,Organic,Delivered,Delhi,0
+ORD00220,CUST0433,2022-04-29,Paid Search,Delivered,Delhi,0
+ORD00221,CUST0095,2023-01-15,Paid Search,Delivered,Hyderabad,0
+ORD00222,CUST0386,2023-12-15,Social Media,Returned,Chennai,5
+ORD00223,CUST0117,2023-07-21,Paid Search,Delivered,Kolkata,10
+ORD00224,CUST0444,2023-05-02,Organic,Cancelled,Kolkata,15
+ORD00225,CUST0293,2023-06-14,Paid Search,Processing,Indore,0
+ORD00226,CUST0065,2022-02-13,Direct,Delivered,Mumbai,10
+ORD00227,CUST0045,2023-02-02,Paid Search,Cancelled,Jaipur,15
+ORD00228,CUST0058,2023-03-01,Social Media,Returned,Ahmedabad,0
+ORD00229,CUST0400,2022-04-14,Direct,Delivered,Pune,15
+ORD00230,CUST0243,2022-02-08,Organic,Delivered,Pune,15
+ORD00231,CUST0203,2022-12-06,Paid Search,Delivered,Chennai,0
+ORD00232,CUST0419,2022-11-07,Direct,Delivered,Delhi,0
+ORD00233,CUST0227,2022-11-25,Social Media,Delivered,Jaipur,0
+ORD00234,CUST0389,2023-06-13,Email,Delivered,Kolkata,15
+ORD00235,CUST0400,2023-06-21,Organic,Returned,Pune,0
+ORD00236,CUST0017,2023-04-13,Paid Search,Delivered,Ahmedabad,0
+ORD00237,CUST0259,2023-02-11,Organic,Delivered,Chennai,10
+ORD00238,CUST0091,2023-05-01,Email,Delivered,Bangalore,0
+ORD00239,CUST0084,2023-08-09,Social Media,Delivered,Chennai,0
+ORD00240,CUST0263,2022-01-21,Direct,Delivered,Chennai,10
+ORD00241,CUST0115,2022-09-16,Paid Search,Cancelled,Mumbai,0
+ORD00242,CUST0239,2022-11-06,Direct,Processing,Jaipur,0
+ORD00243,CUST0145,2022-11-02,Organic,Processing,Hyderabad,15
+ORD00244,CUST0442,2022-10-11,Paid Search,Delivered,Pune,0
+ORD00245,CUST0339,2022-11-24,Social Media,Processing,Indore,0
+ORD00246,CUST0199,2022-02-06,Email,Delivered,Indore,15
+ORD00247,CUST0184,2023-06-04,Direct,Delivered,Hyderabad,0
+ORD00248,CUST0133,2023-07-27,Social Media,Delivered,Hyderabad,0
+ORD00249,CUST0216,2022-12-06,Paid Search,Delivered,Indore,0
+ORD00250,CUST0484,2023-09-28,Direct,Delivered,Bangalore,15
+ORD00251,CUST0272,2022-11-02,Direct,Delivered,Bangalore,10
+ORD00252,CUST0093,2022-03-24,Social Media,Delivered,Ahmedabad,0
+ORD00253,CUST0251,2022-04-01,Social Media,Delivered,Hyderabad,5
+ORD00254,CUST0020,2023-07-01,Direct,Cancelled,Indore,10
+ORD00255,CUST0347,2022-01-05,Direct,Delivered,Hyderabad,0
+ORD00256,CUST0302,2022-11-10,Organic,Processing,Hyderabad,5
+ORD00257,CUST0306,2023-06-21,Paid Search,Cancelled,Jaipur,0
+ORD00258,CUST0010,2022-08-22,Organic,Delivered,Chennai,10
+ORD00259,CUST0188,2023-12-30,Direct,Delivered,Mumbai,10
+ORD00260,CUST0025,2023-09-01,Organic,Returned,Jaipur,0
+ORD00261,CUST0060,2023-03-03,Paid Search,Delivered,Hyderabad,15
+ORD00262,CUST0216,2023-11-09,Social Media,Delivered,Indore,15
+ORD00263,CUST0215,2022-04-18,Organic,Delivered,Ahmedabad,0
+ORD00264,CUST0103,2022-09-27,Paid Search,Delivered,Kolkata,10
+ORD00265,CUST0353,2023-05-08,Social Media,Cancelled,Ahmedabad,10
+ORD00266,CUST0487,2022-04-03,Email,Cancelled,Delhi,15
+ORD00267,CUST0234,2022-10-31,Email,Cancelled,Chennai,0
+ORD00268,CUST0219,2022-04-29,Email,Delivered,Ahmedabad,0
+ORD00269,CUST0332,2022-06-24,Paid Search,Delivered,Bangalore,0
+ORD00270,CUST0206,2023-02-14,Direct,Returned,Pune,15
+ORD00271,CUST0372,2022-03-02,Direct,Delivered,Chennai,10
+ORD00272,CUST0093,2023-09-18,Direct,Cancelled,Ahmedabad,15
+ORD00273,CUST0455,2023-02-26,Paid Search,Delivered,Ahmedabad,15
+ORD00274,CUST0290,2022-08-18,Email,Delivered,Chennai,15
+ORD00275,CUST0178,2023-11-11,Organic,Delivered,Chennai,0
+ORD00276,CUST0039,2023-05-19,Organic,Delivered,Ahmedabad,15
+ORD00277,CUST0041,2023-04-16,Direct,Delivered,Chennai,0
+ORD00278,CUST0053,2023-02-18,Email,Returned,Hyderabad,10
+ORD00279,CUST0106,2023-11-02,Email,Delivered,Chennai,10
+ORD00280,CUST0187,2023-04-09,Email,Delivered,Indore,0
+ORD00281,CUST0425,2023-10-11,Email,Delivered,Delhi,0
+ORD00282,CUST0381,2023-02-24,Social Media,Delivered,Jaipur,5
+ORD00283,CUST0235,2022-07-15,Organic,Delivered,Chennai,15
+ORD00284,CUST0235,2023-11-06,Social Media,Delivered,Chennai,5
+ORD00285,CUST0474,2023-06-05,Organic,Returned,Chennai,0
+ORD00286,CUST0308,2023-09-13,Direct,Cancelled,Bangalore,0
+ORD00287,CUST0497,2022-10-29,Social Media,Cancelled,Ahmedabad,10
+ORD00288,CUST0365,2023-07-21,Social Media,Delivered,Mumbai,0
+ORD00289,CUST0364,2023-10-28,Social Media,Delivered,Bangalore,0
+ORD00290,CUST0246,2023-08-20,Direct,Delivered,Delhi,0
+ORD00291,CUST0075,2022-02-24,Paid Search,Returned,Delhi,0
+ORD00292,CUST0129,2022-05-30,Email,Delivered,Chennai,10
+ORD00293,CUST0184,2023-04-09,Direct,Delivered,Hyderabad,0
+ORD00294,CUST0332,2023-07-29,Paid Search,Delivered,Bangalore,5
+ORD00295,CUST0495,2023-07-20,Email,Delivered,Jaipur,5
+ORD00296,CUST0467,2023-10-11,Email,Delivered,Mumbai,15
+ORD00297,CUST0091,2023-12-01,Direct,Delivered,Bangalore,0
+ORD00298,CUST0021,2023-03-15,Organic,Returned,Pune,0
+ORD00299,CUST0480,2022-06-08,Direct,Delivered,Pune,15
+ORD00300,CUST0432,2023-11-09,Social Media,Delivered,Jaipur,15
+ORD00301,CUST0490,2022-07-08,Social Media,Delivered,Ahmedabad,10
+ORD00302,CUST0048,2022-12-24,Social Media,Delivered,Kolkata,0
+ORD00303,CUST0272,2023-05-02,Social Media,Delivered,Bangalore,15
+ORD00304,CUST0471,2023-09-29,Direct,Delivered,Indore,0
+ORD00305,CUST0277,2022-10-17,Social Media,Returned,Delhi,10
+ORD00306,CUST0229,2023-05-14,Direct,Delivered,Delhi,10
+ORD00307,CUST0486,2022-04-09,Social Media,Delivered,Bangalore,0
+ORD00308,CUST0397,2022-08-07,Email,Cancelled,Hyderabad,15
+ORD00309,CUST0352,2022-06-07,Email,Delivered,Delhi,0
+ORD00310,CUST0092,2022-09-15,Email,Cancelled,Delhi,5
+ORD00311,CUST0231,2023-10-08,Social Media,Delivered,Ahmedabad,15
+ORD00312,CUST0300,2022-02-16,Direct,Delivered,Indore,15
+ORD00313,CUST0311,2022-03-30,Paid Search,Delivered,Bangalore,5
+ORD00314,CUST0070,2023-02-05,Social Media,Cancelled,Ahmedabad,15
+ORD00315,CUST0284,2023-07-23,Organic,Delivered,Chennai,10
+ORD00316,CUST0157,2022-08-04,Direct,Delivered,Kolkata,0
+ORD00317,CUST0100,2022-04-28,Social Media,Delivered,Chennai,10
+ORD00318,CUST0282,2022-03-16,Organic,Delivered,Ahmedabad,5
+ORD00319,CUST0344,2023-11-03,Social Media,Cancelled,Hyderabad,0
+ORD00320,CUST0169,2023-09-24,Social Media,Delivered,Kolkata,0
+ORD00321,CUST0161,2022-09-10,Social Media,Delivered,Bangalore,0
+ORD00322,CUST0376,2022-12-06,Paid Search,Delivered,Pune,15
+ORD00323,CUST0457,2023-07-06,Direct,Delivered,Mumbai,0
+ORD00324,CUST0324,2022-02-01,Social Media,Delivered,Hyderabad,10
+ORD00325,CUST0201,2022-08-17,Social Media,Delivered,Pune,10
+ORD00326,CUST0435,2023-09-21,Organic,Delivered,Kolkata,10
+ORD00327,CUST0447,2022-05-30,Organic,Delivered,Chennai,0
+ORD00328,CUST0465,2023-01-05,Direct,Delivered,Chennai,15
+ORD00329,CUST0135,2023-08-16,Paid Search,Delivered,Chennai,0
+ORD00330,CUST0193,2022-08-17,Email,Cancelled,Hyderabad,0
+ORD00331,CUST0118,2022-03-20,Organic,Delivered,Mumbai,0
+ORD00332,CUST0416,2022-12-05,Social Media,Delivered,Mumbai,10
+ORD00333,CUST0332,2023-02-25,Organic,Delivered,Bangalore,0
+ORD00334,CUST0323,2023-06-09,Social Media,Delivered,Jaipur,0
+ORD00335,CUST0265,2023-02-20,Email,Delivered,Ahmedabad,0
+ORD00336,CUST0111,2023-04-05,Email,Delivered,Ahmedabad,10
+ORD00337,CUST0136,2022-06-21,Social Media,Delivered,Indore,5
+ORD00338,CUST0104,2023-06-20,Organic,Cancelled,Delhi,10
+ORD00339,CUST0048,2023-05-09,Social Media,Delivered,Kolkata,15
+ORD00340,CUST0268,2023-03-07,Social Media,Delivered,Ahmedabad,5
+ORD00341,CUST0412,2023-12-15,Organic,Delivered,Kolkata,0
+ORD00342,CUST0146,2023-09-05,Email,Delivered,Pune,10
+ORD00343,CUST0336,2022-07-30,Organic,Delivered,Jaipur,0
+ORD00344,CUST0290,2023-01-10,Organic,Delivered,Chennai,10
+ORD00345,CUST0287,2023-07-23,Email,Delivered,Pune,0
+ORD00346,CUST0229,2023-12-18,Social Media,Returned,Delhi,10
+ORD00347,CUST0351,2023-12-25,Paid Search,Delivered,Chennai,0
+ORD00348,CUST0242,2023-09-07,Paid Search,Delivered,Pune,15
+ORD00349,CUST0267,2022-10-21,Email,Delivered,Jaipur,5
+ORD00350,CUST0104,2023-11-04,Social Media,Delivered,Delhi,0
+ORD00351,CUST0019,2023-01-04,Direct,Delivered,Delhi,0
+ORD00352,CUST0343,2023-02-09,Email,Delivered,Pune,0
+ORD00353,CUST0469,2023-08-20,Organic,Processing,Hyderabad,5
+ORD00354,CUST0134,2022-06-29,Social Media,Delivered,Indore,0
+ORD00355,CUST0129,2023-12-12,Email,Processing,Chennai,5
+ORD00356,CUST0247,2022-04-30,Email,Delivered,Delhi,15
+ORD00357,CUST0490,2022-12-28,Email,Delivered,Ahmedabad,0
+ORD00358,CUST0345,2022-12-17,Direct,Delivered,Bangalore,0
+ORD00359,CUST0458,2023-08-11,Direct,Delivered,Jaipur,15
+ORD00360,CUST0124,2022-09-29,Email,Returned,Kolkata,0
+ORD00361,CUST0062,2022-03-22,Direct,Returned,Jaipur,0
+ORD00362,CUST0445,2022-10-09,Paid Search,Returned,Ahmedabad,0
+ORD00363,CUST0482,2023-07-08,Paid Search,Cancelled,Kolkata,0
+ORD00364,CUST0500,2022-05-04,Social Media,Delivered,Hyderabad,0
+ORD00365,CUST0096,2023-07-16,Direct,Delivered,Ahmedabad,0
+ORD00366,CUST0215,2023-12-19,Paid Search,Delivered,Ahmedabad,0
+ORD00367,CUST0417,2022-04-13,Paid Search,Delivered,Indore,0
+ORD00368,CUST0413,2022-01-10,Organic,Cancelled,Kolkata,15
+ORD00369,CUST0369,2022-11-20,Organic,Delivered,Kolkata,0
+ORD00370,CUST0430,2023-10-07,Email,Delivered,Pune,0
+ORD00371,CUST0286,2022-09-21,Paid Search,Delivered,Delhi,10
+ORD00372,CUST0333,2023-10-27,Paid Search,Delivered,Pune,5
+ORD00373,CUST0456,2022-03-22,Direct,Cancelled,Bangalore,15
+ORD00374,CUST0293,2023-02-19,Organic,Delivered,Indore,0
+ORD00375,CUST0150,2023-12-29,Paid Search,Delivered,Kolkata,0
+ORD00376,CUST0495,2023-04-07,Email,Delivered,Jaipur,15
+ORD00377,CUST0086,2023-02-11,Organic,Cancelled,Jaipur,10
+ORD00378,CUST0014,2023-02-11,Paid Search,Delivered,Kolkata,15
+ORD00379,CUST0159,2022-08-23,Paid Search,Delivered,Ahmedabad,10
+ORD00380,CUST0018,2023-11-11,Paid Search,Cancelled,Mumbai,0
+ORD00381,CUST0497,2023-12-16,Paid Search,Delivered,Ahmedabad,10
+ORD00382,CUST0328,2023-10-17,Social Media,Returned,Bangalore,5
+ORD00383,CUST0134,2022-06-09,Email,Returned,Indore,0
+ORD00384,CUST0005,2023-12-06,Email,Returned,Hyderabad,10
+ORD00385,CUST0097,2023-02-26,Email,Delivered,Ahmedabad,5
+ORD00386,CUST0321,2022-09-03,Social Media,Delivered,Kolkata,0
+ORD00387,CUST0149,2022-04-24,Social Media,Delivered,Pune,0
+ORD00388,CUST0096,2022-04-15,Paid Search,Delivered,Ahmedabad,0
+ORD00389,CUST0112,2022-12-17,Direct,Delivered,Hyderabad,0
+ORD00390,CUST0137,2023-02-06,Paid Search,Delivered,Pune,0
+ORD00391,CUST0425,2022-01-13,Email,Delivered,Delhi,5
+ORD00392,CUST0378,2022-02-04,Email,Delivered,Jaipur,0
+ORD00393,CUST0349,2022-11-16,Organic,Processing,Chennai,10
+ORD00394,CUST0327,2022-11-02,Direct,Delivered,Bangalore,0
+ORD00395,CUST0223,2022-11-29,Email,Delivered,Jaipur,5
+ORD00396,CUST0005,2022-02-13,Email,Delivered,Hyderabad,5
+ORD00397,CUST0477,2023-10-03,Paid Search,Delivered,Delhi,10
+ORD00398,CUST0065,2023-05-15,Email,Returned,Mumbai,5
+ORD00399,CUST0011,2023-12-07,Direct,Delivered,Delhi,5
+ORD00400,CUST0251,2022-07-14,Paid Search,Delivered,Hyderabad,10
+ORD00401,CUST0036,2023-06-28,Email,Delivered,Bangalore,5
+ORD00402,CUST0260,2023-01-24,Social Media,Delivered,Delhi,10
+ORD00403,CUST0370,2022-03-06,Email,Delivered,Kolkata,0
+ORD00404,CUST0057,2022-04-09,Email,Delivered,Kolkata,0
+ORD00405,CUST0055,2023-05-13,Social Media,Returned,Delhi,15
+ORD00406,CUST0320,2023-12-20,Social Media,Delivered,Jaipur,0
+ORD00407,CUST0240,2023-10-17,Social Media,Processing,Chennai,5
+ORD00408,CUST0407,2023-12-27,Social Media,Delivered,Bangalore,15
+ORD00409,CUST0428,2022-11-08,Direct,Delivered,Indore,15
+ORD00410,CUST0273,2023-01-30,Social Media,Delivered,Delhi,0
+ORD00411,CUST0286,2023-03-02,Social Media,Delivered,Delhi,5
+ORD00412,CUST0341,2023-03-14,Email,Delivered,Chennai,10
+ORD00413,CUST0337,2022-06-11,Direct,Delivered,Ahmedabad,0
+ORD00414,CUST0166,2023-09-16,Organic,Returned,Bangalore,15
+ORD00415,CUST0493,2023-04-09,Direct,Delivered,Chennai,10
+ORD00416,CUST0114,2022-08-08,Email,Cancelled,Delhi,10
+ORD00417,CUST0080,2022-04-07,Paid Search,Delivered,Mumbai,0
+ORD00418,CUST0128,2022-08-27,Social Media,Delivered,Indore,0
+ORD00419,CUST0167,2023-05-10,Direct,Delivered,Delhi,0
+ORD00420,CUST0154,2022-02-08,Paid Search,Returned,Chennai,5
+ORD00421,CUST0435,2023-09-09,Email,Delivered,Kolkata,0
+ORD00422,CUST0022,2022-11-23,Social Media,Delivered,Hyderabad,15
+ORD00423,CUST0498,2023-04-02,Paid Search,Returned,Jaipur,0
+ORD00424,CUST0173,2022-03-26,Paid Search,Delivered,Pune,10
+ORD00425,CUST0247,2023-07-27,Social Media,Delivered,Delhi,10
+ORD00426,CUST0127,2022-09-06,Email,Delivered,Indore,10
+ORD00427,CUST0058,2023-11-19,Paid Search,Delivered,Ahmedabad,0
+ORD00428,CUST0421,2023-03-29,Direct,Delivered,Chennai,15
+ORD00429,CUST0388,2022-03-29,Organic,Processing,Bangalore,0
+ORD00430,CUST0008,2022-12-18,Paid Search,Delivered,Ahmedabad,0
+ORD00431,CUST0276,2022-08-05,Email,Delivered,Chennai,10
+ORD00432,CUST0356,2023-12-17,Social Media,Delivered,Delhi,0
+ORD00433,CUST0088,2022-03-03,Social Media,Delivered,Kolkata,15
+ORD00434,CUST0339,2022-10-05,Paid Search,Cancelled,Indore,5
+ORD00435,CUST0364,2022-04-12,Social Media,Delivered,Bangalore,10
+ORD00436,CUST0012,2022-02-10,Paid Search,Delivered,Pune,15
+ORD00437,CUST0178,2023-12-02,Organic,Processing,Chennai,10
+ORD00438,CUST0132,2023-02-01,Direct,Delivered,Pune,0
+ORD00439,CUST0337,2022-05-21,Paid Search,Processing,Ahmedabad,10
+ORD00440,CUST0352,2022-08-21,Direct,Cancelled,Delhi,0
+ORD00441,CUST0335,2022-05-22,Paid Search,Delivered,Kolkata,10
+ORD00442,CUST0466,2022-05-29,Social Media,Processing,Chennai,0
+ORD00443,CUST0430,2022-05-30,Paid Search,Processing,Pune,5
+ORD00444,CUST0227,2023-10-15,Organic,Delivered,Jaipur,10
+ORD00445,CUST0291,2023-09-20,Organic,Delivered,Jaipur,0
+ORD00446,CUST0069,2023-05-30,Direct,Delivered,Kolkata,0
+ORD00447,CUST0210,2022-01-16,Social Media,Delivered,Delhi,0
+ORD00448,CUST0444,2023-09-24,Paid Search,Returned,Kolkata,10
+ORD00449,CUST0202,2023-09-19,Organic,Delivered,Pune,0
+ORD00450,CUST0266,2023-07-05,Social Media,Delivered,Hyderabad,0
+ORD00451,CUST0453,2022-11-08,Paid Search,Cancelled,Indore,15
+ORD00452,CUST0425,2023-10-24,Organic,Delivered,Delhi,15
+ORD00453,CUST0166,2023-04-07,Paid Search,Cancelled,Bangalore,0
+ORD00454,CUST0047,2022-09-14,Email,Delivered,Delhi,0
+ORD00455,CUST0231,2023-10-12,Paid Search,Returned,Ahmedabad,10
+ORD00456,CUST0282,2023-01-25,Organic,Delivered,Ahmedabad,15
+ORD00457,CUST0084,2022-05-29,Organic,Delivered,Chennai,15
+ORD00458,CUST0321,2022-07-05,Organic,Delivered,Kolkata,10
+ORD00459,CUST0007,2023-04-15,Social Media,Delivered,Kolkata,0
+ORD00460,CUST0210,2023-03-29,Social Media,Delivered,Delhi,10
+ORD00461,CUST0318,2023-10-06,Organic,Delivered,Chennai,0
+ORD00462,CUST0342,2023-08-15,Organic,Processing,Pune,0
+ORD00463,CUST0339,2023-12-10,Social Media,Processing,Indore,0
+ORD00464,CUST0189,2023-01-24,Paid Search,Delivered,Indore,0
+ORD00465,CUST0069,2022-05-05,Social Media,Delivered,Kolkata,10
+ORD00466,CUST0374,2023-10-07,Email,Delivered,Bangalore,15
+ORD00467,CUST0219,2023-09-16,Direct,Delivered,Ahmedabad,0
+ORD00468,CUST0267,2023-10-10,Organic,Delivered,Jaipur,0
+ORD00469,CUST0321,2022-05-01,Direct,Delivered,Kolkata,0
+ORD00470,CUST0413,2023-10-15,Organic,Delivered,Kolkata,0
+ORD00471,CUST0260,2023-07-18,Social Media,Delivered,Delhi,15
+ORD00472,CUST0427,2022-06-29,Paid Search,Delivered,Indore,5
+ORD00473,CUST0070,2023-05-09,Direct,Delivered,Ahmedabad,0
+ORD00474,CUST0476,2022-02-27,Paid Search,Delivered,Jaipur,0
+ORD00475,CUST0410,2022-12-29,Paid Search,Delivered,Kolkata,5
+ORD00476,CUST0274,2022-06-19,Email,Delivered,Jaipur,0
+ORD00477,CUST0450,2022-09-01,Organic,Delivered,Ahmedabad,0
+ORD00478,CUST0468,2022-04-05,Direct,Delivered,Bangalore,0
+ORD00479,CUST0398,2022-12-02,Organic,Processing,Delhi,10
+ORD00480,CUST0106,2022-02-07,Organic,Processing,Chennai,15
+ORD00481,CUST0456,2022-02-17,Email,Delivered,Bangalore,0
+ORD00482,CUST0389,2022-11-16,Organic,Delivered,Kolkata,0
+ORD00483,CUST0061,2022-10-07,Organic,Processing,Pune,10
+ORD00484,CUST0106,2023-07-10,Organic,Delivered,Chennai,0
+ORD00485,CUST0037,2022-11-15,Organic,Delivered,Mumbai,15
+ORD00486,CUST0028,2022-03-30,Direct,Delivered,Pune,15
+ORD00487,CUST0160,2022-12-07,Social Media,Delivered,Chennai,5
+ORD00488,CUST0048,2023-12-17,Social Media,Returned,Kolkata,5
+ORD00489,CUST0133,2023-01-08,Email,Cancelled,Hyderabad,5
+ORD00490,CUST0058,2022-12-26,Email,Delivered,Ahmedabad,0
+ORD00491,CUST0408,2022-04-20,Email,Delivered,Ahmedabad,5
+ORD00492,CUST0318,2022-09-07,Organic,Delivered,Chennai,15
+ORD00493,CUST0402,2023-03-22,Organic,Delivered,Hyderabad,15
+ORD00494,CUST0059,2023-08-30,Organic,Processing,Kolkata,0
+ORD00495,CUST0395,2023-01-24,Organic,Delivered,Pune,0
+ORD00496,CUST0388,2022-05-31,Paid Search,Delivered,Bangalore,5
+ORD00497,CUST0349,2022-11-21,Paid Search,Processing,Chennai,5
+ORD00498,CUST0299,2022-01-09,Paid Search,Delivered,Pune,0
+ORD00499,CUST0057,2022-10-16,Paid Search,Delivered,Kolkata,15
+ORD00500,CUST0365,2023-01-27,Social Media,Delivered,Mumbai,0
+ORD00501,CUST0079,2022-10-23,Organic,Delivered,Delhi,15
+ORD00502,CUST0224,2022-05-20,Social Media,Delivered,Jaipur,5
+ORD00503,CUST0310,2023-03-12,Paid Search,Returned,Delhi,5
+ORD00504,CUST0096,2023-03-11,Paid Search,Delivered,Ahmedabad,15
+ORD00505,CUST0138,2023-02-25,Paid Search,Delivered,Chennai,10
+ORD00506,CUST0073,2023-06-24,Social Media,Delivered,Jaipur,0
+ORD00507,CUST0340,2023-11-16,Social Media,Returned,Delhi,0
+ORD00508,CUST0028,2022-12-18,Paid Search,Cancelled,Pune,10
+ORD00509,CUST0170,2023-03-08,Organic,Delivered,Hyderabad,10
+ORD00510,CUST0402,2023-08-01,Social Media,Delivered,Hyderabad,15
+ORD00511,CUST0014,2022-10-21,Direct,Delivered,Kolkata,0
+ORD00512,CUST0008,2022-04-25,Email,Delivered,Ahmedabad,0
+ORD00513,CUST0401,2023-12-19,Email,Cancelled,Ahmedabad,0
+ORD00514,CUST0305,2022-06-07,Organic,Delivered,Chennai,15
+ORD00515,CUST0432,2022-12-20,Paid Search,Returned,Jaipur,0
+ORD00516,CUST0238,2023-02-13,Organic,Delivered,Jaipur,5
+ORD00517,CUST0446,2023-03-22,Direct,Delivered,Mumbai,15
+ORD00518,CUST0493,2023-06-27,Direct,Delivered,Chennai,5
+ORD00519,CUST0471,2023-10-30,Email,Delivered,Indore,10
+ORD00520,CUST0384,2022-09-05,Social Media,Processing,Chennai,0
+ORD00521,CUST0345,2022-01-09,Paid Search,Delivered,Bangalore,15
+ORD00522,CUST0180,2022-08-13,Organic,Delivered,Jaipur,10
+ORD00523,CUST0327,2022-05-05,Direct,Delivered,Bangalore,15
+ORD00524,CUST0290,2022-07-09,Organic,Delivered,Chennai,15
+ORD00525,CUST0328,2023-04-10,Direct,Returned,Bangalore,0
+ORD00526,CUST0142,2022-03-05,Direct,Delivered,Delhi,5
+ORD00527,CUST0202,2022-07-02,Organic,Delivered,Pune,5
+ORD00528,CUST0038,2022-03-14,Direct,Delivered,Bangalore,15
+ORD00529,CUST0200,2022-09-30,Direct,Delivered,Bangalore,10
+ORD00530,CUST0245,2023-03-23,Social Media,Delivered,Chennai,15
+ORD00531,CUST0479,2023-01-03,Organic,Processing,Kolkata,15
+ORD00532,CUST0437,2022-12-15,Paid Search,Returned,Indore,15
+ORD00533,CUST0091,2023-07-22,Social Media,Delivered,Bangalore,5
+ORD00534,CUST0323,2023-12-07,Paid Search,Delivered,Jaipur,0
+ORD00535,CUST0304,2022-09-02,Social Media,Delivered,Hyderabad,5
+ORD00536,CUST0173,2022-02-13,Social Media,Delivered,Pune,15
+ORD00537,CUST0120,2022-03-15,Organic,Delivered,Ahmedabad,5
+ORD00538,CUST0024,2022-09-06,Social Media,Cancelled,Kolkata,0
+ORD00539,CUST0088,2023-08-29,Email,Delivered,Kolkata,10
+ORD00540,CUST0113,2022-03-06,Email,Processing,Kolkata,15
+ORD00541,CUST0062,2023-12-02,Direct,Delivered,Jaipur,0
+ORD00542,CUST0172,2022-03-06,Organic,Delivered,Kolkata,15
+ORD00543,CUST0284,2022-06-18,Organic,Returned,Chennai,10
+ORD00544,CUST0042,2022-01-07,Direct,Delivered,Delhi,10
+ORD00545,CUST0214,2023-12-12,Social Media,Delivered,Ahmedabad,5
+ORD00546,CUST0020,2023-09-03,Social Media,Delivered,Indore,0
+ORD00547,CUST0003,2023-07-26,Direct,Processing,Kolkata,10
+ORD00548,CUST0260,2022-08-13,Paid Search,Delivered,Delhi,0
+ORD00549,CUST0082,2023-11-18,Social Media,Delivered,Hyderabad,5
+ORD00550,CUST0172,2023-09-24,Direct,Delivered,Kolkata,0
+ORD00551,CUST0459,2022-08-29,Organic,Delivered,Ahmedabad,0
+ORD00552,CUST0051,2022-08-31,Organic,Delivered,Pune,0
+ORD00553,CUST0233,2022-07-02,Organic,Delivered,Bangalore,0
+ORD00554,CUST0355,2023-08-06,Organic,Cancelled,Hyderabad,5
+ORD00555,CUST0088,2022-12-18,Social Media,Returned,Kolkata,15
+ORD00556,CUST0296,2023-07-21,Direct,Delivered,Bangalore,0
+ORD00557,CUST0429,2023-04-19,Email,Delivered,Indore,0
+ORD00558,CUST0457,2023-08-29,Direct,Delivered,Mumbai,0
+ORD00559,CUST0376,2023-06-01,Social Media,Delivered,Pune,15
+ORD00560,CUST0232,2023-05-23,Email,Delivered,Mumbai,5
+ORD00561,CUST0184,2022-10-30,Organic,Delivered,Hyderabad,0
+ORD00562,CUST0440,2023-08-08,Paid Search,Delivered,Bangalore,15
+ORD00563,CUST0095,2023-01-15,Organic,Cancelled,Hyderabad,0
+ORD00564,CUST0386,2022-10-04,Organic,Cancelled,Chennai,15
+ORD00565,CUST0485,2023-11-22,Paid Search,Delivered,Chennai,0
+ORD00566,CUST0332,2023-07-27,Email,Delivered,Bangalore,0
+ORD00567,CUST0277,2022-04-27,Organic,Delivered,Delhi,0
+ORD00568,CUST0349,2023-03-10,Paid Search,Delivered,Chennai,10
+ORD00569,CUST0273,2023-11-26,Email,Processing,Delhi,0
+ORD00570,CUST0042,2023-02-05,Organic,Delivered,Delhi,15
+ORD00571,CUST0078,2022-07-29,Paid Search,Delivered,Delhi,0
+ORD00572,CUST0178,2023-03-07,Organic,Delivered,Chennai,0
+ORD00573,CUST0297,2022-12-18,Social Media,Returned,Jaipur,5
+ORD00574,CUST0068,2022-11-10,Organic,Delivered,Chennai,0
+ORD00575,CUST0181,2022-10-19,Social Media,Delivered,Hyderabad,0
+ORD00576,CUST0083,2022-09-01,Direct,Delivered,Bangalore,5
+ORD00577,CUST0190,2022-07-08,Organic,Delivered,Chennai,0
+ORD00578,CUST0230,2023-07-07,Organic,Delivered,Hyderabad,5
+ORD00579,CUST0476,2022-11-24,Social Media,Delivered,Jaipur,15
+ORD00580,CUST0243,2022-10-24,Email,Cancelled,Pune,0
+ORD00581,CUST0375,2023-05-06,Social Media,Delivered,Indore,0
+ORD00582,CUST0317,2022-08-14,Social Media,Delivered,Indore,10
+ORD00583,CUST0043,2023-07-06,Paid Search,Delivered,Chennai,10
+ORD00584,CUST0185,2023-02-12,Paid Search,Delivered,Pune,0
+ORD00585,CUST0180,2022-11-12,Email,Delivered,Jaipur,5
+ORD00586,CUST0497,2023-03-11,Organic,Delivered,Ahmedabad,5
+ORD00587,CUST0388,2023-01-20,Paid Search,Cancelled,Bangalore,5
+ORD00588,CUST0285,2023-04-19,Email,Delivered,Kolkata,5
+ORD00589,CUST0428,2023-08-23,Paid Search,Delivered,Indore,0
+ORD00590,CUST0490,2023-10-18,Paid Search,Delivered,Ahmedabad,15
+ORD00591,CUST0392,2022-10-11,Social Media,Delivered,Mumbai,0
+ORD00592,CUST0419,2022-05-03,Organic,Delivered,Delhi,10
+ORD00593,CUST0237,2023-12-11,Organic,Delivered,Jaipur,15
+ORD00594,CUST0149,2022-10-26,Organic,Delivered,Pune,0
+ORD00595,CUST0386,2022-06-21,Email,Delivered,Chennai,15
+ORD00596,CUST0274,2023-08-17,Organic,Delivered,Jaipur,5
+ORD00597,CUST0053,2022-08-12,Email,Returned,Hyderabad,10
+ORD00598,CUST0426,2023-06-23,Paid Search,Delivered,Kolkata,0
+ORD00599,CUST0246,2022-12-23,Email,Cancelled,Delhi,10
+ORD00600,CUST0364,2022-11-08,Email,Delivered,Bangalore,15
+ORD00601,CUST0353,2022-08-21,Direct,Delivered,Ahmedabad,0
+ORD00602,CUST0388,2023-03-18,Organic,Returned,Bangalore,10
+ORD00603,CUST0031,2023-04-26,Paid Search,Delivered,Indore,15
+ORD00604,CUST0387,2022-04-09,Social Media,Delivered,Delhi,0
+ORD00605,CUST0344,2022-12-26,Organic,Delivered,Hyderabad,0
+ORD00606,CUST0179,2022-12-27,Email,Delivered,Jaipur,10
+ORD00607,CUST0051,2023-08-16,Organic,Delivered,Pune,0
+ORD00608,CUST0462,2023-07-05,Organic,Delivered,Ahmedabad,10
+ORD00609,CUST0244,2023-01-11,Direct,Delivered,Pune,0
+ORD00610,CUST0110,2023-06-11,Email,Delivered,Kolkata,5
+ORD00611,CUST0070,2023-05-23,Email,Delivered,Ahmedabad,5
+ORD00612,CUST0234,2023-09-07,Organic,Delivered,Chennai,5
+ORD00613,CUST0481,2023-11-27,Paid Search,Delivered,Delhi,5
+ORD00614,CUST0044,2022-05-03,Social Media,Processing,Delhi,15
+ORD00615,CUST0187,2022-07-23,Organic,Returned,Indore,15
+ORD00616,CUST0393,2023-08-19,Social Media,Delivered,Jaipur,5
+ORD00617,CUST0249,2023-06-08,Organic,Delivered,Chennai,5
+ORD00618,CUST0016,2022-04-12,Organic,Delivered,Ahmedabad,0
+ORD00619,CUST0310,2023-11-27,Social Media,Returned,Delhi,15
+ORD00620,CUST0104,2022-10-28,Paid Search,Cancelled,Delhi,10
+ORD00621,CUST0197,2023-04-06,Paid Search,Delivered,Mumbai,10
+ORD00622,CUST0085,2023-05-19,Paid Search,Delivered,Chennai,15
+ORD00623,CUST0277,2023-08-09,Organic,Delivered,Delhi,10
+ORD00624,CUST0393,2022-10-19,Organic,Returned,Jaipur,0
+ORD00625,CUST0392,2023-10-03,Paid Search,Delivered,Mumbai,0
+ORD00626,CUST0127,2022-08-29,Organic,Delivered,Indore,0
+ORD00627,CUST0167,2022-02-08,Social Media,Delivered,Delhi,0
+ORD00628,CUST0163,2023-01-22,Organic,Delivered,Jaipur,0
+ORD00629,CUST0086,2023-09-22,Paid Search,Returned,Jaipur,0
+ORD00630,CUST0136,2022-02-18,Organic,Delivered,Indore,0
+ORD00631,CUST0304,2022-12-11,Social Media,Delivered,Hyderabad,0
+ORD00632,CUST0259,2022-11-04,Paid Search,Delivered,Chennai,10
+ORD00633,CUST0452,2022-01-20,Organic,Processing,Delhi,15
+ORD00634,CUST0480,2023-10-16,Organic,Delivered,Pune,5
+ORD00635,CUST0351,2022-11-04,Organic,Delivered,Chennai,0
+ORD00636,CUST0308,2022-08-30,Organic,Returned,Bangalore,0
+ORD00637,CUST0217,2023-10-25,Organic,Delivered,Delhi,0
+ORD00638,CUST0338,2023-07-18,Organic,Delivered,Chennai,0
+ORD00639,CUST0161,2023-09-09,Direct,Delivered,Bangalore,0
+ORD00640,CUST0121,2022-04-25,Social Media,Delivered,Bangalore,10
+ORD00641,CUST0255,2022-04-03,Email,Delivered,Bangalore,10
+ORD00642,CUST0413,2022-08-30,Organic,Delivered,Kolkata,5
+ORD00643,CUST0274,2023-01-19,Social Media,Delivered,Jaipur,0
+ORD00644,CUST0451,2022-05-29,Email,Delivered,Bangalore,10
+ORD00645,CUST0410,2022-02-25,Paid Search,Delivered,Kolkata,15
+ORD00646,CUST0063,2023-07-02,Paid Search,Cancelled,Delhi,5
+ORD00647,CUST0047,2022-08-30,Direct,Delivered,Delhi,15
+ORD00648,CUST0444,2022-03-24,Email,Cancelled,Kolkata,0
+ORD00649,CUST0034,2022-12-27,Paid Search,Delivered,Chennai,0
+ORD00650,CUST0228,2023-10-19,Organic,Delivered,Chennai,10
+ORD00651,CUST0081,2022-09-13,Social Media,Returned,Bangalore,0
+ORD00652,CUST0448,2022-05-17,Email,Returned,Chennai,0
+ORD00653,CUST0094,2023-02-07,Direct,Cancelled,Indore,15
+ORD00654,CUST0499,2023-04-19,Direct,Delivered,Jaipur,10
+ORD00655,CUST0134,2022-06-02,Organic,Delivered,Indore,0
+ORD00656,CUST0270,2023-03-22,Organic,Delivered,Delhi,0
+ORD00657,CUST0067,2023-03-18,Direct,Delivered,Pune,15
+ORD00658,CUST0093,2023-02-23,Direct,Delivered,Ahmedabad,5
+ORD00659,CUST0299,2023-12-02,Direct,Processing,Pune,5
+ORD00660,CUST0363,2023-03-10,Organic,Delivered,Hyderabad,0
+ORD00661,CUST0481,2023-11-18,Paid Search,Delivered,Delhi,0
+ORD00662,CUST0344,2023-01-15,Organic,Delivered,Hyderabad,0
+ORD00663,CUST0477,2022-12-14,Social Media,Delivered,Delhi,0
+ORD00664,CUST0447,2022-10-15,Direct,Delivered,Chennai,0
+ORD00665,CUST0458,2022-06-18,Direct,Delivered,Jaipur,15
+ORD00666,CUST0097,2022-06-02,Organic,Delivered,Ahmedabad,0
+ORD00667,CUST0240,2023-03-23,Direct,Delivered,Chennai,0
+ORD00668,CUST0288,2023-05-12,Organic,Delivered,Delhi,0
+ORD00669,CUST0422,2022-10-07,Social Media,Delivered,Kolkata,5
+ORD00670,CUST0394,2023-05-26,Paid Search,Delivered,Pune,15
+ORD00671,CUST0202,2023-01-18,Paid Search,Delivered,Pune,5
+ORD00672,CUST0338,2023-05-07,Organic,Processing,Chennai,15
+ORD00673,CUST0376,2023-08-06,Organic,Delivered,Pune,0
+ORD00674,CUST0037,2023-07-15,Organic,Returned,Mumbai,5
+ORD00675,CUST0199,2023-02-17,Organic,Delivered,Indore,5
+ORD00676,CUST0309,2022-05-15,Social Media,Delivered,Kolkata,5
+ORD00677,CUST0308,2023-03-10,Paid Search,Delivered,Bangalore,0
+ORD00678,CUST0323,2023-03-13,Social Media,Processing,Jaipur,15
+ORD00679,CUST0332,2023-12-04,Social Media,Delivered,Bangalore,0
+ORD00680,CUST0224,2022-03-23,Direct,Returned,Jaipur,10
+ORD00681,CUST0283,2022-03-20,Organic,Delivered,Chennai,0
+ORD00682,CUST0339,2023-08-06,Organic,Delivered,Indore,0
+ORD00683,CUST0092,2022-07-06,Paid Search,Delivered,Delhi,5
+ORD00684,CUST0175,2022-07-11,Email,Delivered,Indore,15
+ORD00685,CUST0274,2022-01-19,Organic,Delivered,Jaipur,5
+ORD00686,CUST0355,2023-02-19,Social Media,Processing,Hyderabad,15
+ORD00687,CUST0070,2022-01-15,Organic,Processing,Ahmedabad,0
+ORD00688,CUST0333,2022-05-29,Social Media,Returned,Pune,0
+ORD00689,CUST0395,2023-04-20,Organic,Delivered,Pune,0
+ORD00690,CUST0228,2023-05-12,Organic,Delivered,Chennai,5
+ORD00691,CUST0323,2024-01-01,Social Media,Delivered,Jaipur,0
+ORD00692,CUST0263,2023-08-29,Organic,Delivered,Chennai,10
+ORD00693,CUST0456,2023-04-30,Social Media,Delivered,Bangalore,5
+ORD00694,CUST0224,2022-01-22,Organic,Delivered,Jaipur,0
+ORD00695,CUST0301,2023-12-03,Social Media,Delivered,Kolkata,0
+ORD00696,CUST0492,2023-03-03,Direct,Delivered,Jaipur,0
+ORD00697,CUST0045,2023-11-15,Social Media,Delivered,Jaipur,5
+ORD00698,CUST0286,2022-02-18,Direct,Delivered,Delhi,0
+ORD00699,CUST0424,2023-05-31,Organic,Delivered,Kolkata,10
+ORD00700,CUST0062,2023-07-30,Direct,Returned,Jaipur,0
+ORD00701,CUST0459,2022-06-04,Organic,Processing,Ahmedabad,5
+ORD00702,CUST0500,2022-04-19,Social Media,Delivered,Hyderabad,0
+ORD00703,CUST0061,2022-07-30,Email,Returned,Pune,5
+ORD00704,CUST0332,2023-01-08,Email,Delivered,Bangalore,5
+ORD00705,CUST0175,2022-10-21,Paid Search,Returned,Indore,0
+ORD00706,CUST0126,2022-06-05,Paid Search,Delivered,Bangalore,5
+ORD00707,CUST0227,2022-05-30,Email,Processing,Jaipur,0
+ORD00708,CUST0162,2023-02-16,Paid Search,Delivered,Jaipur,15
+ORD00709,CUST0030,2023-10-09,Email,Cancelled,Pune,15
+ORD00710,CUST0005,2022-10-14,Paid Search,Delivered,Hyderabad,10
+ORD00711,CUST0334,2023-03-29,Social Media,Returned,Delhi,0
+ORD00712,CUST0172,2023-02-04,Paid Search,Delivered,Kolkata,10
+ORD00713,CUST0175,2023-10-13,Direct,Delivered,Indore,0
+ORD00714,CUST0372,2023-03-09,Organic,Delivered,Chennai,15
+ORD00715,CUST0182,2022-05-07,Social Media,Delivered,Kolkata,0
+ORD00716,CUST0378,2022-01-06,Direct,Delivered,Jaipur,15
+ORD00717,CUST0180,2022-11-03,Social Media,Delivered,Jaipur,5
+ORD00718,CUST0054,2022-12-02,Paid Search,Delivered,Delhi,15
+ORD00719,CUST0042,2022-04-05,Direct,Delivered,Delhi,5
+ORD00720,CUST0190,2023-11-25,Direct,Delivered,Chennai,15
+ORD00721,CUST0375,2023-03-03,Organic,Delivered,Indore,0
+ORD00722,CUST0442,2023-06-26,Organic,Delivered,Pune,15
+ORD00723,CUST0484,2023-07-27,Direct,Delivered,Bangalore,0
+ORD00724,CUST0268,2022-06-06,Paid Search,Delivered,Ahmedabad,0
+ORD00725,CUST0015,2022-05-27,Paid Search,Processing,Delhi,0
+ORD00726,CUST0094,2023-05-16,Social Media,Delivered,Indore,0
+ORD00727,CUST0247,2023-08-10,Email,Delivered,Delhi,15
+ORD00728,CUST0259,2023-10-14,Organic,Delivered,Chennai,0
+ORD00729,CUST0199,2022-08-27,Direct,Delivered,Indore,15
+ORD00730,CUST0293,2023-10-08,Social Media,Delivered,Indore,10
+ORD00731,CUST0491,2023-08-07,Social Media,Delivered,Pune,15
+ORD00732,CUST0493,2022-01-20,Email,Returned,Chennai,10
+ORD00733,CUST0311,2022-11-25,Paid Search,Delivered,Bangalore,0
+ORD00734,CUST0047,2022-04-28,Organic,Delivered,Delhi,0
+ORD00735,CUST0079,2022-11-11,Direct,Delivered,Delhi,15
+ORD00736,CUST0164,2022-05-26,Direct,Cancelled,Ahmedabad,0
+ORD00737,CUST0122,2023-05-20,Paid Search,Delivered,Mumbai,5
+ORD00738,CUST0468,2022-01-20,Organic,Returned,Bangalore,15
+ORD00739,CUST0209,2023-04-02,Social Media,Delivered,Bangalore,0
+ORD00740,CUST0277,2022-06-22,Direct,Delivered,Delhi,0
+ORD00741,CUST0493,2023-09-28,Organic,Cancelled,Chennai,0
+ORD00742,CUST0195,2022-12-26,Social Media,Delivered,Indore,15
+ORD00743,CUST0036,2022-11-04,Social Media,Returned,Bangalore,15
+ORD00744,CUST0144,2023-03-19,Direct,Delivered,Indore,15
+ORD00745,CUST0134,2023-12-26,Paid Search,Delivered,Indore,10
+ORD00746,CUST0331,2022-01-03,Paid Search,Cancelled,Mumbai,15
+ORD00747,CUST0404,2023-10-27,Organic,Returned,Mumbai,15
+ORD00748,CUST0345,2022-05-07,Paid Search,Delivered,Bangalore,15
+ORD00749,CUST0190,2022-07-17,Email,Delivered,Chennai,15
+ORD00750,CUST0321,2022-11-07,Direct,Delivered,Kolkata,5
+ORD00751,CUST0311,2022-08-03,Direct,Delivered,Bangalore,0
+ORD00752,CUST0292,2023-05-28,Email,Delivered,Chennai,10
+ORD00753,CUST0066,2022-03-08,Direct,Cancelled,Mumbai,15
+ORD00754,CUST0435,2023-11-26,Social Media,Delivered,Kolkata,15
+ORD00755,CUST0453,2023-04-10,Social Media,Processing,Indore,0
+ORD00756,CUST0222,2023-02-21,Paid Search,Delivered,Pune,0
+ORD00757,CUST0143,2023-03-07,Paid Search,Cancelled,Hyderabad,0
+ORD00758,CUST0491,2022-03-18,Paid Search,Delivered,Pune,15
+ORD00759,CUST0246,2023-03-19,Email,Processing,Delhi,0
+ORD00760,CUST0056,2023-04-30,Organic,Delivered,Bangalore,0
+ORD00761,CUST0318,2023-03-26,Paid Search,Delivered,Chennai,0
+ORD00762,CUST0194,2022-11-17,Organic,Cancelled,Mumbai,5
+ORD00763,CUST0155,2023-09-18,Social Media,Delivered,Ahmedabad,5
+ORD00764,CUST0120,2023-09-06,Paid Search,Returned,Ahmedabad,10
+ORD00765,CUST0052,2022-12-14,Social Media,Delivered,Pune,0
+ORD00766,CUST0007,2023-09-02,Email,Delivered,Kolkata,10
+ORD00767,CUST0327,2023-06-06,Email,Delivered,Bangalore,0
+ORD00768,CUST0066,2022-11-16,Paid Search,Cancelled,Mumbai,0
+ORD00769,CUST0176,2022-10-26,Social Media,Delivered,Jaipur,0
+ORD00770,CUST0217,2022-12-19,Direct,Returned,Delhi,0
+ORD00771,CUST0244,2023-12-13,Social Media,Delivered,Pune,0
+ORD00772,CUST0233,2022-02-13,Social Media,Delivered,Bangalore,0
+ORD00773,CUST0414,2023-01-20,Email,Delivered,Mumbai,0
+ORD00774,CUST0016,2023-07-23,Paid Search,Delivered,Ahmedabad,10
+ORD00775,CUST0023,2022-01-31,Organic,Cancelled,Delhi,15
+ORD00776,CUST0434,2023-07-22,Organic,Returned,Bangalore,0
+ORD00777,CUST0071,2023-01-24,Direct,Delivered,Indore,0
+ORD00778,CUST0415,2023-01-17,Direct,Cancelled,Kolkata,15
+ORD00779,CUST0074,2022-05-14,Paid Search,Delivered,Delhi,10
+ORD00780,CUST0126,2022-02-17,Paid Search,Delivered,Bangalore,0
+ORD00781,CUST0408,2022-10-14,Direct,Cancelled,Ahmedabad,0
+ORD00782,CUST0402,2023-04-27,Social Media,Returned,Hyderabad,15
+ORD00783,CUST0192,2023-05-26,Social Media,Delivered,Ahmedabad,5
+ORD00784,CUST0327,2023-08-21,Organic,Delivered,Bangalore,0
+ORD00785,CUST0112,2022-11-10,Direct,Delivered,Hyderabad,10
+ORD00786,CUST0228,2023-06-16,Paid Search,Delivered,Chennai,5
+ORD00787,CUST0210,2023-01-12,Organic,Delivered,Delhi,15
+ORD00788,CUST0432,2023-05-29,Paid Search,Delivered,Jaipur,0
+ORD00789,CUST0185,2022-02-09,Social Media,Delivered,Pune,15
+ORD00790,CUST0098,2023-12-24,Email,Delivered,Chennai,0
+ORD00791,CUST0145,2022-12-21,Organic,Delivered,Hyderabad,0
+ORD00792,CUST0384,2022-08-03,Email,Delivered,Chennai,5
+ORD00793,CUST0220,2023-12-16,Organic,Delivered,Mumbai,0
+ORD00794,CUST0415,2023-11-06,Paid Search,Returned,Kolkata,15
+ORD00795,CUST0301,2022-01-24,Organic,Processing,Kolkata,0
+ORD00796,CUST0323,2023-09-10,Social Media,Delivered,Jaipur,0
+ORD00797,CUST0459,2022-11-08,Organic,Delivered,Ahmedabad,0
+ORD00798,CUST0309,2023-05-16,Organic,Cancelled,Kolkata,5
+ORD00799,CUST0106,2022-08-27,Paid Search,Delivered,Chennai,0
+ORD00800,CUST0201,2022-06-10,Social Media,Delivered,Pune,0
+ORD00801,CUST0490,2022-07-31,Paid Search,Returned,Ahmedabad,15
+ORD00802,CUST0310,2023-08-12,Email,Delivered,Delhi,0
+ORD00803,CUST0033,2023-02-13,Direct,Cancelled,Hyderabad,5
+ORD00804,CUST0021,2022-04-04,Email,Delivered,Pune,0
+ORD00805,CUST0213,2022-09-13,Email,Delivered,Bangalore,15
+ORD00806,CUST0292,2022-04-08,Paid Search,Delivered,Chennai,0
+ORD00807,CUST0370,2022-08-11,Direct,Delivered,Kolkata,0
+ORD00808,CUST0085,2022-09-16,Paid Search,Delivered,Chennai,15
+ORD00809,CUST0237,2023-01-26,Paid Search,Delivered,Jaipur,0
+ORD00810,CUST0344,2023-04-21,Social Media,Delivered,Hyderabad,5
+ORD00811,CUST0088,2022-01-19,Paid Search,Delivered,Kolkata,5
+ORD00812,CUST0040,2023-11-19,Paid Search,Delivered,Ahmedabad,0
+ORD00813,CUST0366,2022-02-05,Organic,Delivered,Mumbai,10
+ORD00814,CUST0367,2023-11-07,Social Media,Delivered,Delhi,10
+ORD00815,CUST0025,2023-01-22,Paid Search,Delivered,Jaipur,0
+ORD00816,CUST0015,2022-01-15,Social Media,Delivered,Delhi,0
+ORD00817,CUST0086,2022-02-15,Social Media,Delivered,Jaipur,0
+ORD00818,CUST0119,2022-08-07,Paid Search,Delivered,Bangalore,15
+ORD00819,CUST0007,2023-02-03,Organic,Returned,Kolkata,15
+ORD00820,CUST0023,2022-03-10,Email,Delivered,Delhi,0
+ORD00821,CUST0406,2023-08-06,Social Media,Processing,Delhi,15
+ORD00822,CUST0474,2023-12-12,Social Media,Cancelled,Chennai,0
+ORD00823,CUST0035,2022-12-10,Direct,Delivered,Ahmedabad,10
+ORD00824,CUST0380,2022-08-27,Organic,Returned,Pune,0
+ORD00825,CUST0122,2023-03-15,Organic,Delivered,Mumbai,0
+ORD00826,CUST0193,2022-07-29,Direct,Delivered,Hyderabad,5
+ORD00827,CUST0450,2022-12-03,Social Media,Returned,Ahmedabad,10
+ORD00828,CUST0417,2022-10-23,Email,Delivered,Indore,0
+ORD00829,CUST0277,2022-02-25,Social Media,Delivered,Delhi,5
+ORD00830,CUST0094,2023-03-29,Direct,Delivered,Indore,0
+ORD00831,CUST0325,2022-05-25,Organic,Delivered,Indore,0
+ORD00832,CUST0041,2023-03-13,Organic,Delivered,Chennai,0
+ORD00833,CUST0496,2023-10-13,Email,Delivered,Chennai,0
+ORD00834,CUST0086,2023-04-28,Paid Search,Delivered,Jaipur,5
+ORD00835,CUST0389,2022-11-04,Organic,Delivered,Kolkata,0
+ORD00836,CUST0193,2023-07-30,Paid Search,Delivered,Hyderabad,0
+ORD00837,CUST0372,2023-01-19,Paid Search,Delivered,Chennai,15
+ORD00838,CUST0472,2022-05-08,Email,Processing,Pune,15
+ORD00839,CUST0326,2023-12-07,Paid Search,Delivered,Indore,0
+ORD00840,CUST0472,2023-01-06,Social Media,Delivered,Pune,10
+ORD00841,CUST0484,2023-11-29,Social Media,Processing,Bangalore,0
+ORD00842,CUST0395,2022-04-05,Social Media,Delivered,Pune,5
+ORD00843,CUST0155,2023-05-28,Email,Cancelled,Ahmedabad,0
+ORD00844,CUST0417,2022-05-27,Paid Search,Delivered,Indore,0
+ORD00845,CUST0036,2023-12-15,Email,Delivered,Bangalore,0
+ORD00846,CUST0250,2022-07-06,Social Media,Delivered,Ahmedabad,0
+ORD00847,CUST0384,2022-07-07,Paid Search,Delivered,Chennai,10
+ORD00848,CUST0086,2022-03-23,Paid Search,Delivered,Jaipur,10
+ORD00849,CUST0345,2022-04-14,Paid Search,Processing,Bangalore,15
+ORD00850,CUST0405,2022-02-12,Social Media,Delivered,Bangalore,10
+ORD00851,CUST0493,2022-09-30,Paid Search,Delivered,Chennai,0
+ORD00852,CUST0205,2023-01-23,Direct,Returned,Mumbai,0
+ORD00853,CUST0446,2023-12-17,Social Media,Cancelled,Mumbai,0
+ORD00854,CUST0317,2023-12-04,Organic,Delivered,Indore,0
+ORD00855,CUST0497,2022-11-30,Email,Returned,Ahmedabad,0
+ORD00856,CUST0464,2022-04-13,Organic,Delivered,Ahmedabad,10
+ORD00857,CUST0255,2022-03-31,Direct,Delivered,Bangalore,5
+ORD00858,CUST0277,2022-09-04,Email,Delivered,Delhi,0
+ORD00859,CUST0367,2022-01-30,Direct,Returned,Delhi,0
+ORD00860,CUST0341,2023-05-03,Organic,Delivered,Chennai,15
+ORD00861,CUST0047,2023-12-10,Email,Delivered,Delhi,15
+ORD00862,CUST0381,2023-01-26,Organic,Delivered,Jaipur,0
+ORD00863,CUST0382,2022-04-29,Direct,Delivered,Pune,0
+ORD00864,CUST0275,2022-07-14,Email,Processing,Chennai,0
+ORD00865,CUST0114,2022-04-20,Organic,Processing,Delhi,0
+ORD00866,CUST0308,2022-10-18,Email,Returned,Bangalore,0
+ORD00867,CUST0159,2023-05-30,Direct,Delivered,Ahmedabad,5
+ORD00868,CUST0425,2022-08-09,Direct,Delivered,Delhi,15
+ORD00869,CUST0377,2022-02-23,Email,Delivered,Mumbai,15
+ORD00870,CUST0281,2023-02-06,Direct,Returned,Delhi,5
+ORD00871,CUST0145,2022-10-17,Social Media,Delivered,Hyderabad,0
+ORD00872,CUST0436,2023-12-28,Social Media,Delivered,Delhi,5
+ORD00873,CUST0112,2022-07-20,Email,Delivered,Hyderabad,15
+ORD00874,CUST0193,2023-03-14,Organic,Processing,Hyderabad,0
+ORD00875,CUST0264,2023-10-28,Social Media,Delivered,Delhi,0
+ORD00876,CUST0251,2022-11-06,Paid Search,Delivered,Hyderabad,15
+ORD00877,CUST0399,2023-04-20,Paid Search,Delivered,Ahmedabad,0
+ORD00878,CUST0466,2023-06-06,Social Media,Delivered,Chennai,0
+ORD00879,CUST0049,2023-08-31,Direct,Delivered,Pune,0
+ORD00880,CUST0051,2022-11-30,Direct,Returned,Pune,0
+ORD00881,CUST0417,2023-12-19,Social Media,Delivered,Indore,10
+ORD00882,CUST0033,2023-06-16,Email,Processing,Hyderabad,0
+ORD00883,CUST0442,2023-09-06,Paid Search,Delivered,Pune,0
+ORD00884,CUST0106,2023-10-31,Paid Search,Returned,Chennai,0
+ORD00885,CUST0153,2023-01-08,Organic,Delivered,Kolkata,10
+ORD00886,CUST0274,2023-04-01,Social Media,Delivered,Jaipur,0
+ORD00887,CUST0262,2022-08-03,Email,Delivered,Mumbai,0
+ORD00888,CUST0154,2022-08-09,Organic,Delivered,Chennai,0
+ORD00889,CUST0217,2022-03-18,Direct,Delivered,Delhi,0
+ORD00890,CUST0482,2023-12-13,Organic,Delivered,Kolkata,15
+ORD00891,CUST0099,2023-01-17,Organic,Processing,Hyderabad,5
+ORD00892,CUST0494,2023-09-11,Organic,Delivered,Kolkata,10
+ORD00893,CUST0169,2023-10-18,Direct,Returned,Kolkata,0
+ORD00894,CUST0141,2022-01-11,Direct,Delivered,Indore,0
+ORD00895,CUST0090,2023-06-24,Paid Search,Delivered,Kolkata,15
+ORD00896,CUST0139,2023-09-15,Organic,Delivered,Mumbai,5
+ORD00897,CUST0177,2023-11-26,Organic,Delivered,Jaipur,0
+ORD00898,CUST0291,2022-10-01,Email,Processing,Jaipur,15
+ORD00899,CUST0348,2023-09-16,Direct,Returned,Bangalore,10
+ORD00900,CUST0483,2022-08-23,Direct,Delivered,Pune,0
+ORD00901,CUST0040,2022-09-03,Social Media,Delivered,Ahmedabad,0
+ORD00902,CUST0476,2023-05-20,Social Media,Processing,Jaipur,0
+ORD00903,CUST0255,2023-06-12,Organic,Delivered,Bangalore,15
+ORD00904,CUST0366,2023-03-12,Direct,Returned,Mumbai,10
+ORD00905,CUST0311,2023-04-05,Social Media,Delivered,Bangalore,0
+ORD00906,CUST0264,2022-12-28,Paid Search,Delivered,Delhi,0
+ORD00907,CUST0468,2023-11-27,Direct,Cancelled,Bangalore,0
+ORD00908,CUST0151,2022-09-29,Social Media,Delivered,Indore,0
+ORD00909,CUST0423,2022-02-06,Paid Search,Delivered,Ahmedabad,0
+ORD00910,CUST0180,2022-07-10,Paid Search,Delivered,Jaipur,10
+ORD00911,CUST0004,2022-06-09,Paid Search,Delivered,Mumbai,0
+ORD00912,CUST0225,2023-11-04,Paid Search,Delivered,Bangalore,15
+ORD00913,CUST0021,2022-05-17,Organic,Delivered,Pune,5
+ORD00914,CUST0251,2023-07-18,Paid Search,Returned,Hyderabad,5
+ORD00915,CUST0068,2022-04-23,Organic,Delivered,Chennai,10
+ORD00916,CUST0393,2023-12-02,Email,Delivered,Jaipur,10
+ORD00917,CUST0223,2023-05-07,Email,Delivered,Jaipur,0
+ORD00918,CUST0128,2022-10-15,Paid Search,Delivered,Indore,15
+ORD00919,CUST0102,2023-05-01,Email,Delivered,Delhi,0
+ORD00920,CUST0323,2023-10-12,Organic,Delivered,Jaipur,0
+ORD00921,CUST0010,2023-09-24,Organic,Delivered,Chennai,0
+ORD00922,CUST0119,2022-08-16,Social Media,Delivered,Bangalore,0
+ORD00923,CUST0144,2022-12-26,Organic,Delivered,Indore,15
+ORD00924,CUST0144,2023-09-14,Organic,Processing,Indore,0
+ORD00925,CUST0156,2022-04-25,Organic,Delivered,Jaipur,0
+ORD00926,CUST0185,2023-01-06,Organic,Delivered,Pune,0
+ORD00927,CUST0309,2022-05-04,Direct,Cancelled,Kolkata,0
+ORD00928,CUST0361,2023-04-02,Direct,Delivered,Chennai,0
+ORD00929,CUST0243,2022-07-26,Organic,Delivered,Pune,0
+ORD00930,CUST0459,2023-01-10,Organic,Delivered,Ahmedabad,10
+ORD00931,CUST0357,2022-05-13,Email,Delivered,Pune,15
+ORD00932,CUST0273,2023-06-10,Paid Search,Delivered,Delhi,10
+ORD00933,CUST0206,2023-09-14,Organic,Delivered,Pune,15
+ORD00934,CUST0258,2023-12-26,Paid Search,Delivered,Pune,0
+ORD00935,CUST0274,2022-09-01,Direct,Delivered,Jaipur,0
+ORD00936,CUST0128,2022-08-04,Social Media,Delivered,Indore,0
+ORD00937,CUST0043,2023-12-24,Direct,Delivered,Chennai,0
+ORD00938,CUST0113,2022-10-14,Social Media,Processing,Kolkata,10
+ORD00939,CUST0382,2023-12-06,Social Media,Delivered,Pune,5
+ORD00940,CUST0298,2023-10-07,Email,Delivered,Kolkata,5
+ORD00941,CUST0095,2022-06-30,Direct,Delivered,Hyderabad,0
+ORD00942,CUST0084,2022-07-01,Organic,Delivered,Chennai,5
+ORD00943,CUST0270,2022-05-21,Organic,Delivered,Delhi,0
+ORD00944,CUST0391,2023-10-22,Organic,Delivered,Ahmedabad,0
+ORD00945,CUST0308,2022-01-14,Organic,Delivered,Bangalore,0
+ORD00946,CUST0044,2022-07-27,Social Media,Delivered,Delhi,0
+ORD00947,CUST0246,2022-06-08,Social Media,Delivered,Delhi,0
+ORD00948,CUST0053,2023-07-12,Organic,Cancelled,Hyderabad,0
+ORD00949,CUST0076,2022-12-28,Social Media,Delivered,Kolkata,0
+ORD00950,CUST0115,2022-04-15,Paid Search,Delivered,Mumbai,0
+ORD00951,CUST0092,2023-03-15,Paid Search,Cancelled,Delhi,15
+ORD00952,CUST0179,2022-04-17,Paid Search,Delivered,Jaipur,15
+ORD00953,CUST0399,2023-11-03,Paid Search,Delivered,Ahmedabad,5
+ORD00954,CUST0296,2023-03-14,Direct,Delivered,Bangalore,5
+ORD00955,CUST0218,2023-05-08,Organic,Processing,Hyderabad,0
+ORD00956,CUST0276,2023-07-01,Organic,Delivered,Chennai,10
+ORD00957,CUST0360,2022-03-31,Organic,Cancelled,Mumbai,0
+ORD00958,CUST0491,2022-05-17,Direct,Delivered,Pune,0
+ORD00959,CUST0236,2022-05-28,Email,Delivered,Hyderabad,15
+ORD00960,CUST0014,2023-12-14,Social Media,Delivered,Kolkata,10
+ORD00961,CUST0073,2022-03-22,Social Media,Returned,Jaipur,0
+ORD00962,CUST0381,2022-05-24,Paid Search,Returned,Jaipur,15
+ORD00963,CUST0080,2022-03-03,Email,Delivered,Mumbai,0
+ORD00964,CUST0427,2023-03-10,Social Media,Delivered,Indore,5
+ORD00965,CUST0194,2022-05-09,Organic,Delivered,Mumbai,15
+ORD00966,CUST0431,2022-03-21,Paid Search,Delivered,Chennai,0
+ORD00967,CUST0139,2022-04-22,Paid Search,Returned,Mumbai,0
+ORD00968,CUST0123,2022-10-16,Organic,Delivered,Hyderabad,0
+ORD00969,CUST0104,2023-10-16,Paid Search,Processing,Delhi,10
+ORD00970,CUST0289,2023-05-11,Paid Search,Processing,Ahmedabad,0
+ORD00971,CUST0385,2022-10-17,Email,Processing,Bangalore,15
+ORD00972,CUST0460,2023-05-31,Email,Delivered,Hyderabad,10
+ORD00973,CUST0245,2023-08-24,Organic,Delivered,Chennai,0
+ORD00974,CUST0048,2022-08-26,Social Media,Returned,Kolkata,0
+ORD00975,CUST0374,2023-09-16,Paid Search,Delivered,Bangalore,5
+ORD00976,CUST0199,2022-09-02,Organic,Delivered,Indore,15
+ORD00977,CUST0413,2022-01-16,Paid Search,Cancelled,Kolkata,0
+ORD00978,CUST0233,2022-11-18,Organic,Delivered,Bangalore,0
+ORD00979,CUST0037,2022-07-03,Social Media,Delivered,Mumbai,0
+ORD00980,CUST0440,2022-10-21,Organic,Delivered,Bangalore,10
+ORD00981,CUST0212,2023-06-03,Direct,Delivered,Bangalore,0
+ORD00982,CUST0437,2022-04-18,Paid Search,Delivered,Indore,5
+ORD00983,CUST0179,2023-04-23,Organic,Delivered,Jaipur,5
+ORD00984,CUST0034,2022-11-21,Email,Delivered,Chennai,0
+ORD00985,CUST0080,2023-04-27,Paid Search,Delivered,Mumbai,10
+ORD00986,CUST0480,2023-01-06,Direct,Processing,Pune,15
+ORD00987,CUST0091,2022-03-27,Paid Search,Delivered,Bangalore,15
+ORD00988,CUST0269,2022-08-08,Organic,Cancelled,Ahmedabad,0
+ORD00989,CUST0179,2023-03-06,Direct,Delivered,Jaipur,15
+ORD00990,CUST0401,2023-09-04,Social Media,Delivered,Ahmedabad,0
+ORD00991,CUST0381,2022-11-21,Direct,Processing,Jaipur,5
+ORD00992,CUST0059,2023-11-22,Direct,Processing,Kolkata,0
+ORD00993,CUST0050,2022-02-07,Paid Search,Delivered,Kolkata,0
+ORD00994,CUST0111,2022-12-23,Social Media,Delivered,Ahmedabad,0
+ORD00995,CUST0460,2022-11-11,Paid Search,Processing,Hyderabad,5
+ORD00996,CUST0181,2022-12-27,Direct,Delivered,Hyderabad,0
+ORD00997,CUST0278,2023-03-23,Social Media,Delivered,Ahmedabad,15
+ORD00998,CUST0046,2023-10-28,Direct,Delivered,Kolkata,15
+ORD00999,CUST0475,2023-07-12,Paid Search,Delivered,Pune,0
+ORD01000,CUST0149,2023-03-07,Paid Search,Delivered,Pune,0
+ORD01001,CUST0180,2023-04-21,Email,Delivered,Jaipur,0
+ORD01002,CUST0451,2023-11-06,Direct,Delivered,Bangalore,0
+ORD01003,CUST0014,2022-06-07,Email,Delivered,Kolkata,0
+ORD01004,CUST0124,2023-07-24,Email,Returned,Kolkata,10
+ORD01005,CUST0373,2022-06-27,Paid Search,Delivered,Delhi,0
+ORD01006,CUST0402,2023-02-06,Direct,Delivered,Hyderabad,0
+ORD01007,CUST0322,2023-08-31,Email,Cancelled,Kolkata,0
+ORD01008,CUST0013,2022-05-14,Organic,Delivered,Chennai,0
+ORD01009,CUST0372,2023-01-23,Organic,Delivered,Chennai,0
+ORD01010,CUST0057,2023-04-16,Organic,Delivered,Kolkata,0
+ORD01011,CUST0040,2023-05-22,Paid Search,Delivered,Ahmedabad,0
+ORD01012,CUST0492,2023-10-03,Social Media,Delivered,Jaipur,0
+ORD01013,CUST0466,2023-04-07,Organic,Delivered,Chennai,10
+ORD01014,CUST0438,2022-02-02,Direct,Delivered,Chennai,10
+ORD01015,CUST0280,2022-01-06,Paid Search,Delivered,Bangalore,10
+ORD01016,CUST0012,2023-06-15,Paid Search,Cancelled,Pune,0
+ORD01017,CUST0113,2022-03-27,Paid Search,Processing,Kolkata,0
+ORD01018,CUST0334,2022-10-29,Social Media,Delivered,Delhi,0
+ORD01019,CUST0434,2022-10-15,Paid Search,Returned,Bangalore,15
+ORD01020,CUST0306,2022-10-06,Paid Search,Delivered,Jaipur,0
+ORD01021,CUST0231,2022-06-21,Paid Search,Delivered,Ahmedabad,10
+ORD01022,CUST0487,2023-06-28,Organic,Delivered,Delhi,0
+ORD01023,CUST0111,2023-11-04,Paid Search,Delivered,Ahmedabad,15
+ORD01024,CUST0110,2023-04-22,Organic,Delivered,Kolkata,0
+ORD01025,CUST0288,2022-10-12,Direct,Delivered,Delhi,5
+ORD01026,CUST0417,2022-11-24,Email,Delivered,Indore,0
+ORD01027,CUST0064,2023-04-09,Social Media,Delivered,Kolkata,0
+ORD01028,CUST0330,2023-08-13,Paid Search,Delivered,Delhi,5
+ORD01029,CUST0459,2023-07-01,Social Media,Delivered,Ahmedabad,0
+ORD01030,CUST0371,2022-11-05,Paid Search,Delivered,Bangalore,0
+ORD01031,CUST0202,2022-11-02,Email,Processing,Pune,0
+ORD01032,CUST0072,2022-04-18,Paid Search,Delivered,Indore,0
+ORD01033,CUST0003,2023-12-06,Direct,Delivered,Kolkata,0
+ORD01034,CUST0039,2022-09-28,Email,Delivered,Ahmedabad,0
+ORD01035,CUST0062,2022-05-10,Social Media,Cancelled,Jaipur,5
+ORD01036,CUST0063,2023-06-19,Social Media,Processing,Delhi,0
+ORD01037,CUST0116,2022-04-05,Organic,Delivered,Chennai,0
+ORD01038,CUST0439,2022-07-30,Direct,Delivered,Delhi,0
+ORD01039,CUST0111,2023-04-25,Organic,Delivered,Ahmedabad,10
+ORD01040,CUST0233,2023-11-03,Organic,Delivered,Bangalore,0
+ORD01041,CUST0445,2023-09-28,Organic,Delivered,Ahmedabad,0
+ORD01042,CUST0488,2023-08-15,Paid Search,Delivered,Jaipur,0
+ORD01043,CUST0009,2023-04-17,Paid Search,Delivered,Bangalore,0
+ORD01044,CUST0475,2023-07-18,Paid Search,Delivered,Pune,10
+ORD01045,CUST0261,2022-12-08,Paid Search,Delivered,Jaipur,15
+ORD01046,CUST0375,2023-03-09,Paid Search,Delivered,Indore,10
+ORD01047,CUST0266,2023-03-20,Organic,Delivered,Hyderabad,0
+ORD01048,CUST0059,2022-02-24,Paid Search,Delivered,Kolkata,0
+ORD01049,CUST0116,2023-09-28,Email,Cancelled,Chennai,0
+ORD01050,CUST0178,2023-10-15,Email,Delivered,Chennai,10
+ORD01051,CUST0379,2022-11-09,Social Media,Delivered,Chennai,0
+ORD01052,CUST0493,2022-01-14,Direct,Cancelled,Chennai,0
+ORD01053,CUST0497,2023-05-01,Direct,Delivered,Ahmedabad,0
+ORD01054,CUST0291,2023-11-28,Social Media,Returned,Jaipur,0
+ORD01055,CUST0172,2023-04-09,Social Media,Delivered,Kolkata,5
+ORD01056,CUST0171,2023-06-15,Email,Delivered,Jaipur,5
+ORD01057,CUST0255,2022-02-01,Social Media,Delivered,Bangalore,0
+ORD01058,CUST0100,2023-01-22,Direct,Delivered,Chennai,5
+ORD01059,CUST0090,2022-09-29,Social Media,Processing,Kolkata,0
+ORD01060,CUST0297,2023-06-17,Paid Search,Delivered,Jaipur,0
+ORD01061,CUST0256,2023-12-03,Organic,Processing,Delhi,10
+ORD01062,CUST0084,2022-11-07,Organic,Delivered,Chennai,0
+ORD01063,CUST0157,2022-01-06,Paid Search,Delivered,Kolkata,0
+ORD01064,CUST0489,2022-03-30,Paid Search,Cancelled,Ahmedabad,0
+ORD01065,CUST0478,2022-12-30,Social Media,Delivered,Hyderabad,0
+ORD01066,CUST0306,2022-11-15,Social Media,Delivered,Jaipur,10
+ORD01067,CUST0394,2022-07-24,Organic,Delivered,Pune,0
+ORD01068,CUST0280,2022-07-07,Organic,Delivered,Bangalore,0
+ORD01069,CUST0240,2022-12-29,Organic,Delivered,Chennai,5
+ORD01070,CUST0403,2022-09-06,Direct,Cancelled,Pune,0
+ORD01071,CUST0344,2022-01-07,Email,Delivered,Hyderabad,0
+ORD01072,CUST0050,2022-10-25,Email,Delivered,Kolkata,15
+ORD01073,CUST0265,2022-05-28,Direct,Delivered,Ahmedabad,0
+ORD01074,CUST0353,2022-07-25,Organic,Delivered,Ahmedabad,0
+ORD01075,CUST0050,2022-09-11,Organic,Delivered,Kolkata,5
+ORD01076,CUST0154,2023-02-19,Paid Search,Delivered,Chennai,5
+ORD01077,CUST0075,2023-10-14,Organic,Delivered,Delhi,0
+ORD01078,CUST0262,2023-12-18,Paid Search,Delivered,Mumbai,10
+ORD01079,CUST0342,2022-10-09,Paid Search,Returned,Pune,0
+ORD01080,CUST0289,2023-02-03,Paid Search,Delivered,Ahmedabad,15
+ORD01081,CUST0228,2022-02-13,Paid Search,Delivered,Chennai,0
+ORD01082,CUST0108,2022-12-24,Organic,Delivered,Chennai,10
+ORD01083,CUST0143,2023-11-06,Direct,Delivered,Hyderabad,5
+ORD01084,CUST0093,2023-08-13,Social Media,Delivered,Ahmedabad,10
+ORD01085,CUST0024,2022-01-31,Social Media,Delivered,Kolkata,15
+ORD01086,CUST0390,2022-08-26,Email,Delivered,Indore,5
+ORD01087,CUST0314,2022-09-14,Email,Delivered,Jaipur,0
+ORD01088,CUST0324,2022-01-31,Social Media,Delivered,Hyderabad,15
+ORD01089,CUST0103,2022-07-20,Paid Search,Delivered,Kolkata,0
+ORD01090,CUST0045,2023-08-20,Direct,Delivered,Jaipur,0
+ORD01091,CUST0458,2022-01-06,Social Media,Delivered,Jaipur,0
+ORD01092,CUST0329,2023-06-25,Email,Delivered,Pune,0
+ORD01093,CUST0225,2023-03-14,Organic,Delivered,Bangalore,0
+ORD01094,CUST0308,2023-07-08,Direct,Delivered,Bangalore,15
+ORD01095,CUST0496,2022-10-22,Social Media,Cancelled,Chennai,10
+ORD01096,CUST0160,2023-02-13,Social Media,Delivered,Chennai,5
+ORD01097,CUST0335,2022-01-31,Paid Search,Delivered,Kolkata,0
+ORD01098,CUST0105,2023-07-15,Direct,Delivered,Chennai,5
+ORD01099,CUST0360,2022-02-06,Email,Cancelled,Mumbai,10
+ORD01100,CUST0371,2022-02-12,Paid Search,Delivered,Bangalore,0
+ORD01101,CUST0245,2022-11-07,Organic,Returned,Chennai,0
+ORD01102,CUST0441,2023-01-24,Paid Search,Delivered,Delhi,5
+ORD01103,CUST0065,2023-03-17,Organic,Delivered,Mumbai,0
+ORD01104,CUST0471,2022-03-01,Social Media,Delivered,Indore,15
+ORD01105,CUST0024,2022-01-16,Organic,Delivered,Kolkata,0
+ORD01106,CUST0161,2022-12-25,Social Media,Delivered,Bangalore,0
+ORD01107,CUST0040,2022-09-14,Email,Delivered,Ahmedabad,0
+ORD01108,CUST0155,2023-01-11,Social Media,Delivered,Ahmedabad,15
+ORD01109,CUST0028,2022-12-21,Organic,Cancelled,Pune,10
+ORD01110,CUST0108,2022-05-06,Organic,Processing,Chennai,15
+ORD01111,CUST0488,2022-04-27,Email,Delivered,Jaipur,10
+ORD01112,CUST0154,2022-03-28,Direct,Delivered,Chennai,0
+ORD01113,CUST0197,2023-03-31,Organic,Delivered,Mumbai,5
+ORD01114,CUST0027,2023-11-08,Paid Search,Delivered,Mumbai,10
+ORD01115,CUST0111,2022-01-29,Paid Search,Delivered,Ahmedabad,15
+ORD01116,CUST0284,2023-02-02,Paid Search,Delivered,Chennai,10
+ORD01117,CUST0240,2022-09-01,Paid Search,Delivered,Chennai,0
+ORD01118,CUST0395,2023-07-10,Organic,Delivered,Pune,0
+ORD01119,CUST0415,2023-09-15,Paid Search,Delivered,Kolkata,0
+ORD01120,CUST0228,2023-04-19,Organic,Delivered,Chennai,0
+ORD01121,CUST0327,2023-07-24,Social Media,Delivered,Bangalore,10
+ORD01122,CUST0489,2022-03-07,Paid Search,Delivered,Ahmedabad,0
+ORD01123,CUST0336,2022-02-20,Organic,Delivered,Jaipur,5
+ORD01124,CUST0022,2023-07-21,Direct,Processing,Hyderabad,0
+ORD01125,CUST0277,2022-02-15,Organic,Delivered,Delhi,10
+ORD01126,CUST0105,2022-11-30,Paid Search,Delivered,Chennai,0
+ORD01127,CUST0311,2023-01-04,Paid Search,Processing,Bangalore,10
+ORD01128,CUST0023,2022-10-25,Organic,Delivered,Delhi,0
+ORD01129,CUST0400,2023-06-05,Organic,Delivered,Pune,5
+ORD01130,CUST0491,2022-08-18,Email,Delivered,Pune,15
+ORD01131,CUST0138,2022-07-19,Organic,Returned,Chennai,0
+ORD01132,CUST0384,2022-04-29,Direct,Delivered,Chennai,0
+ORD01133,CUST0259,2022-03-20,Organic,Returned,Chennai,0
+ORD01134,CUST0126,2023-02-22,Email,Delivered,Bangalore,0
+ORD01135,CUST0216,2023-06-02,Social Media,Returned,Indore,0
+ORD01136,CUST0086,2022-05-04,Direct,Delivered,Jaipur,0
+ORD01137,CUST0086,2022-03-16,Social Media,Delivered,Jaipur,5
+ORD01138,CUST0206,2023-12-15,Organic,Cancelled,Pune,0
+ORD01139,CUST0316,2022-04-21,Email,Delivered,Bangalore,5
+ORD01140,CUST0323,2023-04-06,Organic,Delivered,Jaipur,10
+ORD01141,CUST0304,2023-08-31,Paid Search,Delivered,Hyderabad,10
+ORD01142,CUST0484,2022-04-10,Paid Search,Delivered,Bangalore,10
+ORD01143,CUST0433,2023-03-13,Email,Processing,Delhi,0
+ORD01144,CUST0221,2023-06-16,Organic,Delivered,Pune,0
+ORD01145,CUST0225,2022-08-18,Direct,Returned,Bangalore,0
+ORD01146,CUST0073,2022-04-09,Social Media,Delivered,Jaipur,10
+ORD01147,CUST0276,2022-07-19,Email,Delivered,Chennai,0
+ORD01148,CUST0483,2023-08-08,Email,Delivered,Pune,0
+ORD01149,CUST0456,2023-03-19,Email,Delivered,Bangalore,0
+ORD01150,CUST0039,2022-12-01,Paid Search,Delivered,Ahmedabad,10
+ORD01151,CUST0362,2023-12-06,Organic,Delivered,Ahmedabad,10
+ORD01152,CUST0339,2023-10-04,Social Media,Delivered,Indore,10
+ORD01153,CUST0447,2022-08-14,Organic,Returned,Chennai,15
+ORD01154,CUST0068,2022-07-23,Direct,Delivered,Chennai,0
+ORD01155,CUST0035,2023-05-18,Organic,Delivered,Ahmedabad,10
+ORD01156,CUST0299,2022-08-29,Direct,Cancelled,Pune,0
+ORD01157,CUST0251,2023-10-08,Paid Search,Delivered,Hyderabad,0
+ORD01158,CUST0340,2023-03-12,Paid Search,Delivered,Delhi,0
+ORD01159,CUST0357,2023-02-12,Email,Cancelled,Pune,10
+ORD01160,CUST0121,2022-01-30,Direct,Returned,Bangalore,0
+ORD01161,CUST0346,2022-11-22,Paid Search,Cancelled,Ahmedabad,0
+ORD01162,CUST0326,2022-02-16,Social Media,Delivered,Indore,0
+ORD01163,CUST0313,2022-12-04,Organic,Delivered,Jaipur,5
+ORD01164,CUST0171,2022-12-28,Organic,Delivered,Jaipur,10
+ORD01165,CUST0081,2023-07-03,Email,Cancelled,Bangalore,0
+ORD01166,CUST0128,2022-01-14,Organic,Processing,Indore,0
+ORD01167,CUST0204,2023-05-12,Paid Search,Delivered,Chennai,15
+ORD01168,CUST0127,2022-02-04,Paid Search,Delivered,Indore,15
+ORD01169,CUST0038,2023-06-01,Social Media,Delivered,Bangalore,15
+ORD01170,CUST0440,2022-11-16,Organic,Delivered,Bangalore,0
+ORD01171,CUST0296,2023-04-28,Direct,Delivered,Bangalore,5
+ORD01172,CUST0126,2023-01-27,Email,Processing,Bangalore,10
+ORD01173,CUST0056,2023-04-09,Paid Search,Delivered,Bangalore,0
+ORD01174,CUST0056,2023-10-21,Social Media,Delivered,Bangalore,10
+ORD01175,CUST0304,2022-09-13,Paid Search,Returned,Hyderabad,10
+ORD01176,CUST0430,2023-08-04,Paid Search,Delivered,Pune,15
+ORD01177,CUST0019,2022-11-26,Organic,Delivered,Delhi,5
+ORD01178,CUST0121,2022-11-26,Direct,Processing,Bangalore,0
+ORD01179,CUST0193,2022-05-11,Social Media,Delivered,Hyderabad,0
+ORD01180,CUST0446,2022-04-27,Paid Search,Delivered,Mumbai,10
+ORD01181,CUST0072,2023-07-15,Paid Search,Delivered,Indore,15
+ORD01182,CUST0456,2023-01-16,Social Media,Delivered,Bangalore,10
+ORD01183,CUST0266,2023-09-12,Direct,Cancelled,Hyderabad,15
+ORD01184,CUST0367,2023-05-01,Paid Search,Delivered,Delhi,0
+ORD01185,CUST0160,2023-12-20,Organic,Delivered,Chennai,0
+ORD01186,CUST0240,2023-09-01,Social Media,Cancelled,Chennai,0
+ORD01187,CUST0476,2022-07-17,Social Media,Delivered,Jaipur,10
+ORD01188,CUST0278,2023-10-19,Organic,Delivered,Ahmedabad,0
+ORD01189,CUST0289,2022-04-15,Social Media,Returned,Ahmedabad,0
+ORD01190,CUST0310,2022-10-11,Direct,Delivered,Delhi,10
+ORD01191,CUST0448,2022-01-01,Social Media,Delivered,Chennai,15
+ORD01192,CUST0257,2022-05-01,Paid Search,Delivered,Chennai,5
+ORD01193,CUST0430,2023-06-19,Email,Processing,Pune,15
+ORD01194,CUST0431,2023-03-24,Social Media,Delivered,Chennai,5
+ORD01195,CUST0444,2023-01-10,Paid Search,Delivered,Kolkata,0
+ORD01196,CUST0006,2022-07-20,Social Media,Delivered,Kolkata,0
+ORD01197,CUST0140,2022-02-04,Organic,Delivered,Pune,0
+ORD01198,CUST0498,2023-08-09,Email,Delivered,Jaipur,10
+ORD01199,CUST0233,2023-05-18,Direct,Returned,Bangalore,0
+ORD01200,CUST0015,2023-09-20,Organic,Cancelled,Delhi,0
+ORD01201,CUST0029,2023-03-31,Organic,Delivered,Hyderabad,0
+ORD01202,CUST0315,2022-01-18,Direct,Delivered,Hyderabad,10
+ORD01203,CUST0008,2023-11-12,Organic,Delivered,Ahmedabad,10
+ORD01204,CUST0089,2023-03-31,Social Media,Delivered,Mumbai,5
+ORD01205,CUST0326,2022-01-04,Organic,Delivered,Indore,15
+ORD01206,CUST0046,2022-04-30,Email,Delivered,Kolkata,10
+ORD01207,CUST0495,2022-01-21,Organic,Delivered,Jaipur,0
+ORD01208,CUST0158,2023-11-29,Email,Delivered,Delhi,5
+ORD01209,CUST0092,2022-10-13,Paid Search,Returned,Delhi,0
+ORD01210,CUST0152,2022-09-23,Social Media,Delivered,Ahmedabad,15
+ORD01211,CUST0426,2022-06-24,Social Media,Delivered,Kolkata,10
+ORD01212,CUST0360,2023-03-21,Email,Delivered,Mumbai,15
+ORD01213,CUST0407,2022-10-03,Email,Delivered,Bangalore,5
+ORD01214,CUST0017,2022-04-29,Paid Search,Delivered,Ahmedabad,10
+ORD01215,CUST0302,2022-02-04,Paid Search,Cancelled,Hyderabad,0
+ORD01216,CUST0173,2023-10-26,Direct,Delivered,Pune,5
+ORD01217,CUST0096,2022-01-23,Social Media,Delivered,Ahmedabad,5
+ORD01218,CUST0192,2023-09-08,Paid Search,Processing,Ahmedabad,0
+ORD01219,CUST0219,2022-10-03,Organic,Delivered,Ahmedabad,10
+ORD01220,CUST0385,2022-05-23,Email,Delivered,Bangalore,0
+ORD01221,CUST0411,2022-12-21,Social Media,Delivered,Jaipur,0
+ORD01222,CUST0121,2022-07-28,Social Media,Returned,Bangalore,0
+ORD01223,CUST0052,2023-04-28,Paid Search,Delivered,Pune,0
+ORD01224,CUST0391,2022-05-17,Email,Delivered,Ahmedabad,5
+ORD01225,CUST0343,2023-08-24,Direct,Delivered,Pune,0
+ORD01226,CUST0186,2022-12-15,Social Media,Delivered,Mumbai,0
+ORD01227,CUST0118,2022-05-22,Paid Search,Delivered,Mumbai,15
+ORD01228,CUST0160,2023-02-01,Organic,Delivered,Chennai,0
+ORD01229,CUST0376,2022-04-14,Paid Search,Delivered,Pune,5
+ORD01230,CUST0335,2023-11-18,Paid Search,Delivered,Kolkata,0
+ORD01231,CUST0400,2023-04-30,Organic,Delivered,Pune,5
+ORD01232,CUST0041,2022-06-03,Direct,Delivered,Chennai,0
+ORD01233,CUST0264,2023-09-22,Organic,Cancelled,Delhi,5
+ORD01234,CUST0190,2022-09-16,Social Media,Delivered,Chennai,0
+ORD01235,CUST0153,2023-10-14,Organic,Delivered,Kolkata,10
+ORD01236,CUST0203,2022-09-12,Organic,Delivered,Chennai,15
+ORD01237,CUST0458,2022-10-09,Organic,Returned,Jaipur,15
+ORD01238,CUST0021,2022-03-20,Social Media,Delivered,Pune,0
+ORD01239,CUST0041,2022-12-12,Organic,Delivered,Chennai,15
+ORD01240,CUST0429,2023-03-20,Organic,Delivered,Indore,0
+ORD01241,CUST0264,2023-07-07,Organic,Delivered,Delhi,0
+ORD01242,CUST0383,2023-12-07,Social Media,Delivered,Delhi,0
+ORD01243,CUST0140,2022-01-06,Social Media,Delivered,Pune,5
+ORD01244,CUST0114,2022-08-19,Paid Search,Delivered,Delhi,0
+ORD01245,CUST0365,2023-09-16,Paid Search,Delivered,Mumbai,10
+ORD01246,CUST0178,2023-04-01,Email,Delivered,Chennai,15
+ORD01247,CUST0200,2022-09-19,Social Media,Delivered,Bangalore,0
+ORD01248,CUST0190,2022-11-08,Social Media,Delivered,Chennai,10
+ORD01249,CUST0181,2023-08-02,Social Media,Delivered,Hyderabad,0
+ORD01250,CUST0311,2022-05-07,Organic,Processing,Bangalore,10
+ORD01251,CUST0092,2022-06-12,Paid Search,Delivered,Delhi,0
+ORD01252,CUST0453,2023-12-05,Paid Search,Cancelled,Indore,5
+ORD01253,CUST0081,2022-07-01,Email,Delivered,Bangalore,15
+ORD01254,CUST0215,2023-03-05,Organic,Delivered,Ahmedabad,10
+ORD01255,CUST0210,2022-01-24,Social Media,Delivered,Delhi,0
+ORD01256,CUST0308,2023-11-01,Paid Search,Delivered,Bangalore,0
+ORD01257,CUST0166,2022-05-16,Social Media,Delivered,Bangalore,15
+ORD01258,CUST0408,2022-07-01,Email,Cancelled,Ahmedabad,0
+ORD01259,CUST0004,2022-02-03,Organic,Delivered,Mumbai,0
+ORD01260,CUST0398,2023-09-14,Paid Search,Delivered,Delhi,0
+ORD01261,CUST0425,2022-02-10,Social Media,Delivered,Delhi,0
+ORD01262,CUST0389,2023-08-17,Organic,Delivered,Kolkata,0
+ORD01263,CUST0468,2022-09-06,Social Media,Delivered,Bangalore,15
+ORD01264,CUST0152,2023-12-07,Paid Search,Delivered,Ahmedabad,0
+ORD01265,CUST0014,2022-08-15,Paid Search,Processing,Kolkata,0
+ORD01266,CUST0244,2024-01-01,Email,Delivered,Pune,10
+ORD01267,CUST0117,2022-01-29,Organic,Delivered,Kolkata,0
+ORD01268,CUST0382,2023-06-14,Social Media,Delivered,Pune,10
+ORD01269,CUST0444,2023-05-12,Paid Search,Delivered,Kolkata,5
+ORD01270,CUST0485,2022-03-08,Organic,Delivered,Chennai,15
+ORD01271,CUST0183,2023-05-26,Email,Returned,Hyderabad,10
+ORD01272,CUST0341,2022-02-03,Organic,Delivered,Chennai,10
+ORD01273,CUST0229,2023-08-04,Email,Delivered,Delhi,15
+ORD01274,CUST0354,2023-04-13,Paid Search,Delivered,Chennai,15
+ORD01275,CUST0426,2022-03-07,Organic,Delivered,Kolkata,10
+ORD01276,CUST0238,2022-04-11,Email,Delivered,Jaipur,5
+ORD01277,CUST0227,2022-03-27,Organic,Delivered,Jaipur,10
+ORD01278,CUST0369,2023-03-30,Social Media,Returned,Kolkata,0
+ORD01279,CUST0308,2022-10-05,Paid Search,Delivered,Bangalore,15
+ORD01280,CUST0175,2022-10-09,Direct,Processing,Indore,5
+ORD01281,CUST0241,2023-05-23,Email,Delivered,Hyderabad,0
+ORD01282,CUST0327,2023-12-05,Organic,Delivered,Bangalore,0
+ORD01283,CUST0164,2023-06-28,Organic,Delivered,Ahmedabad,0
+ORD01284,CUST0437,2022-06-11,Direct,Delivered,Indore,5
+ORD01285,CUST0118,2022-09-27,Organic,Delivered,Mumbai,0
+ORD01286,CUST0218,2023-07-31,Organic,Delivered,Hyderabad,15
+ORD01287,CUST0420,2023-12-23,Email,Delivered,Ahmedabad,0
+ORD01288,CUST0219,2023-01-27,Organic,Delivered,Ahmedabad,10
+ORD01289,CUST0039,2022-09-06,Paid Search,Delivered,Ahmedabad,5
+ORD01290,CUST0200,2023-12-06,Paid Search,Delivered,Bangalore,15
+ORD01291,CUST0225,2022-10-19,Organic,Delivered,Bangalore,0
+ORD01292,CUST0212,2022-06-05,Social Media,Delivered,Bangalore,5
+ORD01293,CUST0294,2023-07-14,Social Media,Delivered,Delhi,0
+ORD01294,CUST0161,2023-01-05,Paid Search,Delivered,Bangalore,0
+ORD01295,CUST0131,2023-09-11,Organic,Delivered,Jaipur,5
+ORD01296,CUST0409,2022-02-19,Direct,Delivered,Chennai,10
+ORD01297,CUST0017,2023-06-01,Paid Search,Delivered,Ahmedabad,0
+ORD01298,CUST0048,2023-07-26,Organic,Delivered,Kolkata,0
+ORD01299,CUST0473,2023-04-25,Email,Delivered,Indore,0
+ORD01300,CUST0456,2022-06-05,Social Media,Delivered,Bangalore,15
+ORD01301,CUST0206,2023-08-12,Organic,Delivered,Pune,5
+ORD01302,CUST0300,2023-11-22,Social Media,Returned,Indore,10
+ORD01303,CUST0079,2022-07-13,Organic,Delivered,Delhi,10
+ORD01304,CUST0277,2022-12-23,Direct,Cancelled,Delhi,15
+ORD01305,CUST0104,2022-11-07,Organic,Cancelled,Delhi,0
+ORD01306,CUST0450,2023-03-27,Direct,Delivered,Ahmedabad,15
+ORD01307,CUST0107,2023-01-25,Paid Search,Delivered,Kolkata,5
+ORD01308,CUST0418,2022-05-08,Social Media,Delivered,Jaipur,10
+ORD01309,CUST0084,2022-08-03,Email,Delivered,Chennai,0
+ORD01310,CUST0098,2022-08-04,Social Media,Delivered,Chennai,10
+ORD01311,CUST0484,2023-04-13,Paid Search,Delivered,Bangalore,0
+ORD01312,CUST0185,2022-11-14,Direct,Delivered,Pune,0
+ORD01313,CUST0044,2023-10-29,Email,Cancelled,Delhi,0
+ORD01314,CUST0005,2022-05-12,Paid Search,Delivered,Hyderabad,10
+ORD01315,CUST0339,2022-10-28,Paid Search,Delivered,Indore,10
+ORD01316,CUST0093,2023-01-09,Organic,Delivered,Ahmedabad,0
+ORD01317,CUST0321,2023-01-18,Email,Delivered,Kolkata,5
+ORD01318,CUST0468,2023-02-22,Paid Search,Delivered,Bangalore,10
+ORD01319,CUST0081,2022-04-13,Direct,Delivered,Bangalore,0
+ORD01320,CUST0496,2023-05-03,Organic,Delivered,Chennai,15
+ORD01321,CUST0461,2022-09-21,Social Media,Processing,Pune,15
+ORD01322,CUST0245,2023-05-20,Social Media,Returned,Chennai,0
+ORD01323,CUST0043,2022-04-08,Organic,Delivered,Chennai,15
+ORD01324,CUST0343,2023-08-28,Paid Search,Delivered,Pune,10
+ORD01325,CUST0464,2023-01-30,Organic,Delivered,Ahmedabad,0
+ORD01326,CUST0018,2022-09-01,Organic,Delivered,Mumbai,0
+ORD01327,CUST0446,2023-08-15,Paid Search,Delivered,Mumbai,15
+ORD01328,CUST0173,2022-07-10,Email,Delivered,Pune,0
+ORD01329,CUST0135,2022-03-06,Direct,Delivered,Chennai,0
+ORD01330,CUST0282,2023-12-31,Paid Search,Delivered,Ahmedabad,0
+ORD01331,CUST0420,2023-06-08,Social Media,Returned,Ahmedabad,0
+ORD01332,CUST0182,2023-06-23,Social Media,Delivered,Kolkata,10
+ORD01333,CUST0118,2023-12-12,Organic,Delivered,Mumbai,15
+ORD01334,CUST0432,2022-06-05,Direct,Processing,Jaipur,0
+ORD01335,CUST0240,2022-11-26,Organic,Delivered,Chennai,10
+ORD01336,CUST0107,2023-09-20,Email,Delivered,Kolkata,5
+ORD01337,CUST0392,2022-09-06,Paid Search,Delivered,Mumbai,0
+ORD01338,CUST0458,2023-02-16,Email,Processing,Jaipur,0
+ORD01339,CUST0228,2022-05-26,Social Media,Delivered,Chennai,10
+ORD01340,CUST0242,2022-08-26,Email,Delivered,Pune,0
+ORD01341,CUST0196,2022-09-19,Paid Search,Delivered,Bangalore,15
+ORD01342,CUST0444,2023-05-14,Organic,Delivered,Kolkata,10
+ORD01343,CUST0254,2023-12-20,Direct,Delivered,Mumbai,15
+ORD01344,CUST0261,2022-12-03,Organic,Delivered,Jaipur,5
+ORD01345,CUST0303,2023-03-21,Paid Search,Delivered,Jaipur,10
+ORD01346,CUST0446,2023-11-15,Email,Delivered,Mumbai,0
+ORD01347,CUST0185,2023-08-18,Organic,Delivered,Pune,5
+ORD01348,CUST0482,2023-02-13,Organic,Delivered,Kolkata,0
+ORD01349,CUST0374,2023-04-13,Paid Search,Processing,Bangalore,0
+ORD01350,CUST0167,2023-04-15,Organic,Returned,Delhi,10
+ORD01351,CUST0206,2022-12-23,Direct,Delivered,Pune,10
+ORD01352,CUST0413,2022-08-22,Direct,Delivered,Kolkata,5
+ORD01353,CUST0328,2022-07-10,Paid Search,Returned,Bangalore,0
+ORD01354,CUST0058,2022-07-14,Social Media,Delivered,Ahmedabad,10
+ORD01355,CUST0317,2023-12-14,Organic,Delivered,Indore,15
+ORD01356,CUST0437,2022-09-27,Social Media,Delivered,Indore,5
+ORD01357,CUST0418,2022-10-28,Direct,Delivered,Jaipur,0
+ORD01358,CUST0281,2022-06-08,Email,Processing,Delhi,0
+ORD01359,CUST0416,2022-08-10,Organic,Delivered,Mumbai,10
+ORD01360,CUST0213,2023-07-24,Email,Delivered,Bangalore,15
+ORD01361,CUST0383,2022-09-25,Paid Search,Delivered,Delhi,0
+ORD01362,CUST0040,2023-12-11,Email,Delivered,Ahmedabad,10
+ORD01363,CUST0050,2023-06-04,Organic,Delivered,Kolkata,15
+ORD01364,CUST0138,2023-08-12,Social Media,Delivered,Chennai,5
+ORD01365,CUST0489,2022-06-25,Paid Search,Delivered,Ahmedabad,0
+ORD01366,CUST0445,2023-12-25,Paid Search,Processing,Ahmedabad,0
+ORD01367,CUST0486,2022-01-29,Direct,Delivered,Bangalore,5
+ORD01368,CUST0156,2022-12-05,Direct,Processing,Jaipur,0
+ORD01369,CUST0301,2022-11-19,Organic,Returned,Kolkata,10
+ORD01370,CUST0397,2022-03-14,Paid Search,Delivered,Hyderabad,0
+ORD01371,CUST0308,2022-07-03,Direct,Delivered,Bangalore,0
+ORD01372,CUST0485,2023-02-18,Paid Search,Returned,Chennai,0
+ORD01373,CUST0363,2023-03-17,Paid Search,Delivered,Hyderabad,0
+ORD01374,CUST0174,2023-04-08,Paid Search,Cancelled,Ahmedabad,0
+ORD01375,CUST0031,2023-12-01,Direct,Delivered,Indore,0
+ORD01376,CUST0015,2023-08-05,Organic,Delivered,Delhi,0
+ORD01377,CUST0050,2023-12-01,Social Media,Cancelled,Kolkata,15
+ORD01378,CUST0077,2023-04-01,Organic,Delivered,Bangalore,0
+ORD01379,CUST0479,2022-10-26,Social Media,Delivered,Kolkata,0
+ORD01380,CUST0255,2022-07-17,Direct,Cancelled,Bangalore,10
+ORD01381,CUST0484,2022-04-30,Organic,Delivered,Bangalore,5
+ORD01382,CUST0407,2023-02-18,Organic,Processing,Bangalore,5
+ORD01383,CUST0363,2023-08-29,Social Media,Delivered,Hyderabad,0
+ORD01384,CUST0289,2023-08-12,Paid Search,Delivered,Ahmedabad,0
+ORD01385,CUST0223,2023-01-22,Organic,Delivered,Jaipur,10
+ORD01386,CUST0313,2023-02-03,Paid Search,Delivered,Jaipur,0
+ORD01387,CUST0485,2022-04-02,Direct,Delivered,Chennai,15
+ORD01388,CUST0274,2022-01-29,Paid Search,Delivered,Jaipur,10
+ORD01389,CUST0422,2023-12-02,Social Media,Delivered,Kolkata,0
+ORD01390,CUST0457,2022-08-15,Paid Search,Delivered,Mumbai,10
+ORD01391,CUST0106,2023-12-07,Paid Search,Cancelled,Chennai,15
+ORD01392,CUST0091,2023-02-04,Paid Search,Delivered,Bangalore,10
+ORD01393,CUST0343,2022-09-22,Paid Search,Processing,Pune,15
+ORD01394,CUST0006,2023-03-02,Paid Search,Delivered,Kolkata,15
+ORD01395,CUST0066,2023-11-10,Organic,Delivered,Mumbai,5
+ORD01396,CUST0275,2022-12-02,Direct,Delivered,Chennai,15
+ORD01397,CUST0275,2022-10-21,Organic,Delivered,Chennai,0
+ORD01398,CUST0103,2022-05-11,Paid Search,Delivered,Kolkata,0
+ORD01399,CUST0095,2022-03-27,Paid Search,Delivered,Hyderabad,15
+ORD01400,CUST0227,2023-09-04,Direct,Returned,Jaipur,0
+ORD01401,CUST0372,2022-11-22,Organic,Delivered,Chennai,0
+ORD01402,CUST0180,2023-04-19,Organic,Delivered,Jaipur,0
+ORD01403,CUST0116,2022-07-08,Email,Delivered,Chennai,5
+ORD01404,CUST0309,2023-06-26,Social Media,Delivered,Kolkata,0
+ORD01405,CUST0266,2023-07-02,Email,Delivered,Hyderabad,0
+ORD01406,CUST0020,2022-05-27,Organic,Delivered,Indore,10
+ORD01407,CUST0417,2023-02-01,Organic,Delivered,Indore,10
+ORD01408,CUST0038,2022-01-21,Paid Search,Delivered,Bangalore,5
+ORD01409,CUST0314,2022-09-14,Direct,Delivered,Jaipur,10
+ORD01410,CUST0147,2023-10-15,Direct,Delivered,Delhi,0
+ORD01411,CUST0074,2022-02-13,Direct,Delivered,Delhi,15
+ORD01412,CUST0453,2023-03-04,Paid Search,Delivered,Indore,15
+ORD01413,CUST0106,2022-09-09,Social Media,Processing,Chennai,15
+ORD01414,CUST0187,2023-04-20,Paid Search,Delivered,Indore,10
+ORD01415,CUST0212,2022-02-22,Social Media,Delivered,Bangalore,5
+ORD01416,CUST0093,2023-03-30,Organic,Delivered,Ahmedabad,0
+ORD01417,CUST0382,2023-11-28,Social Media,Returned,Pune,0
+ORD01418,CUST0240,2022-09-09,Paid Search,Processing,Chennai,10
+ORD01419,CUST0322,2022-02-06,Organic,Delivered,Kolkata,0
+ORD01420,CUST0437,2022-04-03,Email,Processing,Indore,0
+ORD01421,CUST0466,2022-11-20,Paid Search,Delivered,Chennai,10
+ORD01422,CUST0061,2023-06-30,Paid Search,Processing,Pune,15
+ORD01423,CUST0466,2023-04-01,Organic,Cancelled,Chennai,5
+ORD01424,CUST0245,2022-06-24,Social Media,Returned,Chennai,5
+ORD01425,CUST0293,2022-07-06,Social Media,Cancelled,Indore,0
+ORD01426,CUST0320,2022-11-04,Organic,Delivered,Jaipur,0
+ORD01427,CUST0410,2023-05-22,Direct,Delivered,Kolkata,0
+ORD01428,CUST0436,2022-09-16,Direct,Cancelled,Delhi,0
+ORD01429,CUST0464,2022-06-20,Organic,Delivered,Ahmedabad,5
+ORD01430,CUST0173,2022-02-11,Paid Search,Delivered,Pune,10
+ORD01431,CUST0006,2023-08-11,Paid Search,Cancelled,Kolkata,5
+ORD01432,CUST0019,2023-12-13,Paid Search,Delivered,Delhi,5
+ORD01433,CUST0068,2022-12-21,Paid Search,Delivered,Chennai,5
+ORD01434,CUST0468,2022-11-23,Email,Returned,Bangalore,0
+ORD01435,CUST0039,2022-07-01,Email,Returned,Ahmedabad,0
+ORD01436,CUST0378,2022-12-16,Social Media,Processing,Jaipur,5
+ORD01437,CUST0448,2022-12-05,Organic,Delivered,Chennai,0
+ORD01438,CUST0475,2022-03-25,Direct,Delivered,Pune,15
+ORD01439,CUST0026,2022-03-23,Paid Search,Delivered,Kolkata,5
+ORD01440,CUST0148,2023-11-24,Organic,Delivered,Kolkata,0
+ORD01441,CUST0135,2022-05-28,Email,Delivered,Chennai,0
+ORD01442,CUST0084,2023-02-09,Social Media,Delivered,Chennai,0
+ORD01443,CUST0272,2022-01-08,Organic,Delivered,Bangalore,0
+ORD01444,CUST0387,2023-03-17,Email,Delivered,Delhi,0
+ORD01445,CUST0346,2022-04-01,Social Media,Delivered,Ahmedabad,0
+ORD01446,CUST0430,2022-11-23,Paid Search,Delivered,Pune,5
+ORD01447,CUST0117,2023-08-25,Paid Search,Delivered,Kolkata,5
+ORD01448,CUST0238,2023-04-21,Paid Search,Delivered,Jaipur,0
+ORD01449,CUST0205,2023-01-10,Email,Delivered,Mumbai,0
+ORD01450,CUST0304,2022-07-08,Paid Search,Delivered,Hyderabad,0
+ORD01451,CUST0255,2023-02-06,Direct,Delivered,Bangalore,0
+ORD01452,CUST0311,2023-05-27,Direct,Delivered,Bangalore,0
+ORD01453,CUST0312,2022-10-24,Direct,Returned,Kolkata,5
+ORD01454,CUST0490,2022-11-12,Paid Search,Delivered,Ahmedabad,10
+ORD01455,CUST0067,2023-06-27,Email,Cancelled,Pune,0
+ORD01456,CUST0010,2023-04-03,Direct,Delivered,Chennai,0
+ORD01457,CUST0285,2022-12-15,Direct,Returned,Kolkata,10
+ORD01458,CUST0313,2022-08-31,Paid Search,Delivered,Jaipur,10
+ORD01459,CUST0385,2022-06-01,Paid Search,Cancelled,Bangalore,15
+ORD01460,CUST0200,2022-07-17,Email,Delivered,Bangalore,0
+ORD01461,CUST0168,2022-12-31,Direct,Delivered,Bangalore,0
+ORD01462,CUST0097,2023-09-04,Email,Delivered,Ahmedabad,0
+ORD01463,CUST0410,2023-06-01,Paid Search,Returned,Kolkata,0
+ORD01464,CUST0074,2022-10-31,Social Media,Returned,Delhi,0
+ORD01465,CUST0239,2022-06-01,Social Media,Returned,Jaipur,0
+ORD01466,CUST0362,2023-09-14,Paid Search,Delivered,Ahmedabad,0
+ORD01467,CUST0073,2022-11-19,Social Media,Delivered,Jaipur,0
+ORD01468,CUST0166,2023-08-03,Social Media,Delivered,Bangalore,15
+ORD01469,CUST0255,2022-03-07,Organic,Delivered,Bangalore,15
+ORD01470,CUST0048,2023-01-04,Paid Search,Delivered,Kolkata,5
+ORD01471,CUST0214,2023-10-20,Email,Delivered,Ahmedabad,0
+ORD01472,CUST0331,2023-12-01,Social Media,Delivered,Mumbai,5
+ORD01473,CUST0022,2022-08-13,Organic,Delivered,Hyderabad,5
+ORD01474,CUST0203,2022-01-20,Email,Delivered,Chennai,0
+ORD01475,CUST0019,2022-08-02,Organic,Delivered,Delhi,10
+ORD01476,CUST0461,2022-06-18,Direct,Delivered,Pune,0
+ORD01477,CUST0199,2022-06-13,Paid Search,Delivered,Indore,0
+ORD01478,CUST0334,2022-10-20,Social Media,Returned,Delhi,0
+ORD01479,CUST0412,2022-04-20,Social Media,Delivered,Kolkata,15
+ORD01480,CUST0454,2023-08-31,Social Media,Delivered,Bangalore,0
+ORD01481,CUST0159,2022-01-13,Direct,Delivered,Ahmedabad,15
+ORD01482,CUST0168,2023-04-14,Paid Search,Delivered,Bangalore,15
+ORD01483,CUST0453,2022-01-01,Organic,Delivered,Indore,0
+ORD01484,CUST0156,2023-04-01,Organic,Delivered,Jaipur,0
+ORD01485,CUST0144,2023-03-04,Email,Cancelled,Indore,0
+ORD01486,CUST0135,2023-04-13,Email,Delivered,Chennai,0
+ORD01487,CUST0008,2022-04-26,Organic,Cancelled,Ahmedabad,10
+ORD01488,CUST0286,2022-10-07,Paid Search,Delivered,Delhi,0
+ORD01489,CUST0348,2023-01-22,Paid Search,Returned,Bangalore,5
+ORD01490,CUST0499,2022-01-14,Organic,Returned,Jaipur,0
+ORD01491,CUST0145,2023-05-06,Organic,Delivered,Hyderabad,0
+ORD01492,CUST0230,2022-01-02,Social Media,Cancelled,Hyderabad,10
+ORD01493,CUST0251,2022-08-26,Paid Search,Delivered,Hyderabad,5
+ORD01494,CUST0279,2022-06-17,Social Media,Delivered,Indore,15
+ORD01495,CUST0090,2023-08-18,Organic,Delivered,Kolkata,5
+ORD01496,CUST0493,2023-03-19,Paid Search,Delivered,Chennai,0
+ORD01497,CUST0239,2023-04-07,Paid Search,Cancelled,Jaipur,15
+ORD01498,CUST0175,2023-07-08,Social Media,Processing,Indore,0
+ORD01499,CUST0042,2023-03-06,Social Media,Delivered,Delhi,10
+ORD01500,CUST0131,2023-07-18,Social Media,Returned,Jaipur,5
+ORD01501,CUST0375,2023-01-18,Social Media,Delivered,Indore,15
+ORD01502,CUST0233,2022-06-09,Direct,Processing,Bangalore,0
+ORD01503,CUST0469,2022-03-15,Paid Search,Delivered,Hyderabad,15
+ORD01504,CUST0009,2022-02-01,Email,Delivered,Bangalore,0
+ORD01505,CUST0217,2023-01-02,Paid Search,Delivered,Delhi,0
+ORD01506,CUST0326,2023-09-22,Paid Search,Delivered,Indore,0
+ORD01507,CUST0016,2022-09-19,Email,Delivered,Ahmedabad,10
+ORD01508,CUST0014,2023-01-25,Email,Delivered,Kolkata,0
+ORD01509,CUST0048,2022-03-26,Email,Cancelled,Kolkata,5
+ORD01510,CUST0173,2022-09-05,Email,Cancelled,Pune,0
+ORD01511,CUST0351,2022-05-12,Social Media,Delivered,Chennai,0
+ORD01512,CUST0141,2023-12-15,Organic,Delivered,Indore,15
+ORD01513,CUST0151,2022-06-16,Social Media,Delivered,Indore,15
+ORD01514,CUST0496,2022-03-20,Organic,Delivered,Chennai,15
+ORD01515,CUST0396,2023-01-21,Organic,Delivered,Pune,15
+ORD01516,CUST0433,2023-05-21,Email,Processing,Delhi,0
+ORD01517,CUST0072,2022-05-16,Paid Search,Returned,Indore,5
+ORD01518,CUST0363,2023-06-22,Paid Search,Delivered,Hyderabad,5
+ORD01519,CUST0035,2022-03-08,Direct,Delivered,Ahmedabad,5
+ORD01520,CUST0260,2022-09-07,Organic,Delivered,Delhi,15
+ORD01521,CUST0338,2023-07-14,Organic,Returned,Chennai,0
+ORD01522,CUST0287,2022-02-10,Paid Search,Delivered,Pune,5
+ORD01523,CUST0031,2023-06-07,Social Media,Delivered,Indore,10
+ORD01524,CUST0156,2022-05-21,Email,Delivered,Jaipur,5
+ORD01525,CUST0051,2022-06-26,Direct,Delivered,Pune,15
+ORD01526,CUST0245,2023-06-10,Organic,Delivered,Chennai,5
+ORD01527,CUST0186,2022-08-19,Paid Search,Cancelled,Mumbai,5
+ORD01528,CUST0372,2023-01-18,Direct,Delivered,Chennai,10
+ORD01529,CUST0124,2023-09-06,Paid Search,Delivered,Kolkata,0
+ORD01530,CUST0457,2022-05-30,Paid Search,Delivered,Mumbai,15
+ORD01531,CUST0156,2023-07-03,Social Media,Delivered,Jaipur,15
+ORD01532,CUST0473,2023-11-30,Organic,Delivered,Indore,0
+ORD01533,CUST0316,2023-10-09,Social Media,Processing,Bangalore,0
+ORD01534,CUST0263,2022-08-22,Social Media,Delivered,Chennai,0
+ORD01535,CUST0347,2023-02-26,Social Media,Delivered,Hyderabad,10
+ORD01536,CUST0098,2023-12-05,Paid Search,Returned,Chennai,10
+ORD01537,CUST0371,2022-10-26,Email,Returned,Bangalore,0
+ORD01538,CUST0192,2022-09-09,Paid Search,Delivered,Ahmedabad,0
+ORD01539,CUST0495,2023-01-21,Direct,Delivered,Jaipur,10
+ORD01540,CUST0216,2022-07-23,Direct,Delivered,Indore,5
+ORD01541,CUST0062,2022-05-24,Email,Processing,Jaipur,0
+ORD01542,CUST0056,2023-07-16,Direct,Delivered,Bangalore,0
+ORD01543,CUST0031,2022-01-11,Direct,Delivered,Indore,0
+ORD01544,CUST0124,2022-08-25,Social Media,Delivered,Kolkata,10
+ORD01545,CUST0078,2022-01-24,Email,Returned,Delhi,0
+ORD01546,CUST0489,2022-06-14,Email,Processing,Ahmedabad,0
+ORD01547,CUST0064,2022-04-08,Organic,Delivered,Kolkata,0
+ORD01548,CUST0144,2022-04-20,Social Media,Delivered,Indore,10
+ORD01549,CUST0229,2022-08-07,Organic,Delivered,Delhi,5
+ORD01550,CUST0455,2023-01-29,Organic,Delivered,Ahmedabad,5
+ORD01551,CUST0256,2023-06-04,Paid Search,Delivered,Delhi,10
+ORD01552,CUST0404,2023-02-18,Paid Search,Delivered,Mumbai,15
+ORD01553,CUST0195,2023-09-07,Social Media,Delivered,Indore,15
+ORD01554,CUST0185,2023-01-26,Paid Search,Delivered,Pune,5
+ORD01555,CUST0224,2022-09-19,Direct,Delivered,Jaipur,0
+ORD01556,CUST0331,2023-06-14,Direct,Delivered,Mumbai,0
+ORD01557,CUST0469,2022-06-12,Social Media,Delivered,Hyderabad,0
+ORD01558,CUST0478,2022-09-19,Paid Search,Cancelled,Hyderabad,0
+ORD01559,CUST0035,2022-08-26,Organic,Delivered,Ahmedabad,15
+ORD01560,CUST0148,2023-07-16,Email,Delivered,Kolkata,15
+ORD01561,CUST0419,2022-07-03,Paid Search,Returned,Delhi,15
+ORD01562,CUST0079,2023-07-01,Organic,Cancelled,Delhi,0
+ORD01563,CUST0257,2023-06-01,Organic,Delivered,Chennai,0
+ORD01564,CUST0124,2023-09-16,Paid Search,Delivered,Kolkata,15
+ORD01565,CUST0083,2023-10-18,Direct,Delivered,Bangalore,0
+ORD01566,CUST0271,2023-05-17,Direct,Delivered,Hyderabad,15
+ORD01567,CUST0368,2023-02-19,Social Media,Delivered,Indore,0
+ORD01568,CUST0189,2022-11-02,Direct,Delivered,Indore,0
+ORD01569,CUST0013,2022-11-19,Paid Search,Delivered,Chennai,0
+ORD01570,CUST0333,2022-11-06,Direct,Delivered,Pune,5
+ORD01571,CUST0452,2022-07-29,Direct,Cancelled,Delhi,0
+ORD01572,CUST0239,2023-01-31,Email,Delivered,Jaipur,0
+ORD01573,CUST0100,2022-11-14,Organic,Delivered,Chennai,0
+ORD01574,CUST0261,2022-08-12,Paid Search,Delivered,Jaipur,0
+ORD01575,CUST0189,2022-02-22,Paid Search,Delivered,Indore,10
+ORD01576,CUST0342,2023-07-16,Direct,Delivered,Pune,15
+ORD01577,CUST0226,2023-10-13,Direct,Delivered,Chennai,5
+ORD01578,CUST0022,2022-02-15,Paid Search,Delivered,Hyderabad,0
+ORD01579,CUST0131,2022-08-04,Organic,Delivered,Jaipur,15
+ORD01580,CUST0403,2022-03-09,Direct,Delivered,Pune,0
+ORD01581,CUST0416,2022-12-17,Social Media,Delivered,Mumbai,15
+ORD01582,CUST0168,2023-06-24,Email,Delivered,Bangalore,15
+ORD01583,CUST0399,2022-09-09,Paid Search,Delivered,Ahmedabad,10
+ORD01584,CUST0499,2023-02-19,Paid Search,Cancelled,Jaipur,0
+ORD01585,CUST0285,2022-08-17,Paid Search,Delivered,Kolkata,0
+ORD01586,CUST0259,2023-01-07,Paid Search,Delivered,Chennai,0
+ORD01587,CUST0397,2022-11-18,Paid Search,Delivered,Hyderabad,5
+ORD01588,CUST0016,2022-12-08,Paid Search,Processing,Ahmedabad,5
+ORD01589,CUST0221,2022-08-29,Organic,Delivered,Pune,0
+ORD01590,CUST0052,2022-03-26,Email,Delivered,Pune,5
+ORD01591,CUST0460,2022-04-05,Paid Search,Delivered,Hyderabad,0
+ORD01592,CUST0352,2023-12-18,Organic,Cancelled,Delhi,0
+ORD01593,CUST0043,2022-02-10,Direct,Returned,Chennai,5
+ORD01594,CUST0056,2022-10-01,Organic,Delivered,Bangalore,0
+ORD01595,CUST0437,2022-09-24,Social Media,Delivered,Indore,10
+ORD01596,CUST0146,2022-02-02,Social Media,Returned,Pune,0
+ORD01597,CUST0362,2023-02-15,Social Media,Delivered,Ahmedabad,5
+ORD01598,CUST0041,2022-03-02,Organic,Delivered,Chennai,0
+ORD01599,CUST0038,2022-10-17,Organic,Delivered,Bangalore,5
+ORD01600,CUST0483,2023-11-19,Direct,Delivered,Pune,0
+ORD01601,CUST0177,2022-03-09,Email,Returned,Jaipur,5
+ORD01602,CUST0417,2023-05-25,Direct,Delivered,Indore,0
+ORD01603,CUST0162,2023-08-04,Email,Processing,Jaipur,5
+ORD01604,CUST0449,2022-12-09,Organic,Delivered,Mumbai,0
+ORD01605,CUST0093,2023-03-04,Organic,Delivered,Ahmedabad,0
+ORD01606,CUST0191,2022-12-12,Paid Search,Returned,Kolkata,10
+ORD01607,CUST0109,2022-06-01,Email,Delivered,Bangalore,5
+ORD01608,CUST0475,2023-09-19,Direct,Returned,Pune,5
+ORD01609,CUST0281,2022-10-25,Paid Search,Delivered,Delhi,0
+ORD01610,CUST0293,2022-08-25,Paid Search,Delivered,Indore,15
+ORD01611,CUST0464,2023-08-17,Social Media,Delivered,Ahmedabad,5
+ORD01612,CUST0221,2022-02-18,Email,Delivered,Pune,10
+ORD01613,CUST0009,2023-05-29,Organic,Processing,Bangalore,0
+ORD01614,CUST0148,2022-04-29,Social Media,Delivered,Kolkata,10
+ORD01615,CUST0008,2023-12-03,Direct,Delivered,Ahmedabad,0
+ORD01616,CUST0337,2022-10-27,Organic,Delivered,Ahmedabad,0
+ORD01617,CUST0355,2023-07-16,Direct,Cancelled,Hyderabad,0
+ORD01618,CUST0034,2022-10-04,Paid Search,Delivered,Chennai,10
+ORD01619,CUST0063,2023-05-08,Email,Delivered,Delhi,5
+ORD01620,CUST0372,2022-01-19,Organic,Delivered,Chennai,10
+ORD01621,CUST0274,2022-07-18,Organic,Cancelled,Jaipur,5
+ORD01622,CUST0086,2022-07-14,Organic,Processing,Jaipur,0
+ORD01623,CUST0199,2022-11-26,Paid Search,Delivered,Indore,0
+ORD01624,CUST0333,2022-12-13,Direct,Delivered,Pune,0
+ORD01625,CUST0304,2022-05-20,Email,Delivered,Hyderabad,0
+ORD01626,CUST0275,2023-03-12,Organic,Delivered,Chennai,0
+ORD01627,CUST0079,2022-10-15,Direct,Delivered,Delhi,5
+ORD01628,CUST0209,2022-01-24,Paid Search,Delivered,Bangalore,0
+ORD01629,CUST0309,2023-09-06,Organic,Processing,Kolkata,0
+ORD01630,CUST0455,2022-05-07,Social Media,Delivered,Ahmedabad,0
+ORD01631,CUST0431,2023-07-18,Email,Processing,Chennai,15
+ORD01632,CUST0153,2023-07-20,Direct,Delivered,Kolkata,5
+ORD01633,CUST0138,2022-02-23,Direct,Delivered,Chennai,0
+ORD01634,CUST0241,2023-01-05,Social Media,Delivered,Hyderabad,0
+ORD01635,CUST0333,2023-08-06,Email,Delivered,Pune,15
+ORD01636,CUST0065,2022-06-23,Social Media,Cancelled,Mumbai,10
+ORD01637,CUST0253,2023-07-15,Organic,Delivered,Kolkata,0
+ORD01638,CUST0177,2022-05-20,Paid Search,Delivered,Jaipur,0
+ORD01639,CUST0310,2023-05-25,Paid Search,Delivered,Delhi,0
+ORD01640,CUST0066,2023-08-14,Social Media,Processing,Mumbai,0
+ORD01641,CUST0021,2022-08-25,Email,Delivered,Pune,0
+ORD01642,CUST0492,2022-04-26,Organic,Delivered,Jaipur,15
+ORD01643,CUST0212,2022-04-20,Organic,Delivered,Bangalore,0
+ORD01644,CUST0194,2023-11-07,Direct,Delivered,Mumbai,5
+ORD01645,CUST0440,2023-11-10,Direct,Delivered,Bangalore,0
+ORD01646,CUST0238,2022-06-12,Direct,Delivered,Jaipur,5
+ORD01647,CUST0149,2022-07-28,Paid Search,Delivered,Pune,0
+ORD01648,CUST0233,2022-12-23,Organic,Cancelled,Bangalore,5
+ORD01649,CUST0246,2022-08-14,Social Media,Delivered,Delhi,10
+ORD01650,CUST0138,2023-01-15,Direct,Delivered,Chennai,0
+ORD01651,CUST0033,2023-08-04,Direct,Delivered,Hyderabad,0
+ORD01652,CUST0477,2023-07-24,Direct,Delivered,Delhi,0
+ORD01653,CUST0395,2023-07-22,Organic,Delivered,Pune,0
+ORD01654,CUST0412,2022-10-06,Social Media,Processing,Kolkata,10
+ORD01655,CUST0050,2023-01-25,Organic,Delivered,Kolkata,5
+ORD01656,CUST0117,2023-03-18,Organic,Delivered,Kolkata,0
+ORD01657,CUST0211,2022-02-14,Social Media,Delivered,Jaipur,0
+ORD01658,CUST0226,2022-05-19,Organic,Delivered,Chennai,0
+ORD01659,CUST0210,2022-05-04,Direct,Delivered,Delhi,0
+ORD01660,CUST0413,2022-09-14,Social Media,Delivered,Kolkata,15
+ORD01661,CUST0004,2023-05-17,Direct,Delivered,Mumbai,10
+ORD01662,CUST0474,2023-08-13,Paid Search,Delivered,Chennai,5
+ORD01663,CUST0014,2022-04-10,Paid Search,Delivered,Kolkata,0
+ORD01664,CUST0378,2022-02-16,Organic,Delivered,Jaipur,5
+ORD01665,CUST0231,2022-08-20,Email,Delivered,Ahmedabad,0
+ORD01666,CUST0428,2023-12-05,Paid Search,Delivered,Indore,0
+ORD01667,CUST0432,2023-03-07,Email,Delivered,Jaipur,0
+ORD01668,CUST0056,2023-03-22,Organic,Delivered,Bangalore,15
+ORD01669,CUST0272,2023-08-29,Email,Delivered,Bangalore,15
+ORD01670,CUST0218,2022-06-26,Organic,Delivered,Hyderabad,0
+ORD01671,CUST0396,2023-07-03,Email,Delivered,Pune,0
+ORD01672,CUST0487,2022-04-26,Email,Delivered,Delhi,10
+ORD01673,CUST0124,2022-02-21,Social Media,Delivered,Kolkata,10
+ORD01674,CUST0048,2022-09-23,Email,Delivered,Kolkata,5
+ORD01675,CUST0358,2023-10-14,Organic,Delivered,Chennai,5
+ORD01676,CUST0325,2023-07-14,Email,Delivered,Indore,15
+ORD01677,CUST0434,2022-12-12,Email,Returned,Bangalore,15
+ORD01678,CUST0013,2022-02-01,Organic,Delivered,Chennai,15
+ORD01679,CUST0042,2022-03-26,Organic,Returned,Delhi,10
+ORD01680,CUST0030,2023-10-08,Organic,Delivered,Pune,5
+ORD01681,CUST0059,2023-06-01,Organic,Delivered,Kolkata,0
+ORD01682,CUST0277,2023-05-04,Organic,Delivered,Delhi,0
+ORD01683,CUST0161,2023-01-24,Organic,Delivered,Bangalore,0
+ORD01684,CUST0177,2023-10-14,Social Media,Delivered,Jaipur,5
+ORD01685,CUST0121,2023-02-27,Social Media,Processing,Bangalore,0
+ORD01686,CUST0188,2022-11-14,Paid Search,Delivered,Mumbai,15
+ORD01687,CUST0241,2022-02-24,Direct,Delivered,Hyderabad,10
+ORD01688,CUST0488,2023-06-23,Organic,Returned,Jaipur,0
+ORD01689,CUST0428,2023-06-26,Social Media,Delivered,Indore,0
+ORD01690,CUST0321,2022-09-22,Paid Search,Processing,Kolkata,10
+ORD01691,CUST0368,2022-07-12,Paid Search,Delivered,Indore,0
+ORD01692,CUST0357,2023-02-14,Social Media,Delivered,Pune,15
+ORD01693,CUST0082,2022-01-22,Email,Delivered,Hyderabad,15
+ORD01694,CUST0221,2022-08-08,Direct,Delivered,Pune,5
+ORD01695,CUST0421,2023-02-04,Paid Search,Returned,Chennai,0
+ORD01696,CUST0404,2022-08-23,Organic,Delivered,Mumbai,15
+ORD01697,CUST0241,2023-01-22,Direct,Delivered,Hyderabad,10
+ORD01698,CUST0375,2022-04-22,Social Media,Delivered,Indore,0
+ORD01699,CUST0239,2023-09-17,Social Media,Delivered,Jaipur,15
+ORD01700,CUST0030,2022-10-26,Organic,Returned,Pune,0
+ORD01701,CUST0132,2023-08-25,Paid Search,Delivered,Pune,0
+ORD01702,CUST0365,2023-09-07,Social Media,Delivered,Mumbai,0
+ORD01703,CUST0348,2022-07-22,Paid Search,Delivered,Bangalore,5
+ORD01704,CUST0471,2023-09-19,Paid Search,Delivered,Indore,5
+ORD01705,CUST0006,2022-07-09,Direct,Delivered,Kolkata,0
+ORD01706,CUST0058,2023-07-17,Social Media,Delivered,Ahmedabad,15
+ORD01707,CUST0242,2023-10-15,Organic,Delivered,Pune,5
+ORD01708,CUST0201,2023-01-12,Paid Search,Delivered,Pune,0
+ORD01709,CUST0147,2022-04-22,Social Media,Delivered,Delhi,0
+ORD01710,CUST0100,2022-06-24,Social Media,Delivered,Chennai,0
+ORD01711,CUST0172,2022-12-12,Social Media,Cancelled,Kolkata,0
+ORD01712,CUST0482,2022-02-13,Email,Delivered,Kolkata,5
+ORD01713,CUST0024,2023-06-16,Email,Delivered,Kolkata,0
+ORD01714,CUST0484,2022-07-17,Direct,Delivered,Bangalore,5
+ORD01715,CUST0046,2022-01-28,Paid Search,Delivered,Kolkata,0
+ORD01716,CUST0183,2022-02-23,Social Media,Delivered,Hyderabad,5
+ORD01717,CUST0319,2022-08-04,Organic,Delivered,Chennai,10
+ORD01718,CUST0400,2022-07-18,Direct,Cancelled,Pune,15
+ORD01719,CUST0024,2022-08-06,Social Media,Delivered,Kolkata,0
+ORD01720,CUST0232,2023-12-09,Email,Delivered,Mumbai,10
+ORD01721,CUST0363,2022-03-08,Direct,Delivered,Hyderabad,5
+ORD01722,CUST0207,2023-09-05,Direct,Delivered,Mumbai,10
+ORD01723,CUST0374,2023-11-24,Social Media,Delivered,Bangalore,5
+ORD01724,CUST0170,2023-08-02,Organic,Delivered,Hyderabad,0
+ORD01725,CUST0317,2022-07-19,Organic,Returned,Indore,0
+ORD01726,CUST0398,2023-03-17,Social Media,Delivered,Delhi,10
+ORD01727,CUST0061,2023-04-14,Organic,Delivered,Pune,10
+ORD01728,CUST0113,2022-11-30,Organic,Cancelled,Kolkata,0
+ORD01729,CUST0492,2023-02-22,Direct,Delivered,Jaipur,5
+ORD01730,CUST0016,2023-07-17,Email,Delivered,Ahmedabad,0
+ORD01731,CUST0137,2022-04-06,Social Media,Cancelled,Pune,0
+ORD01732,CUST0051,2023-11-20,Email,Delivered,Pune,0
+ORD01733,CUST0432,2022-07-16,Organic,Returned,Jaipur,0
+ORD01734,CUST0461,2022-02-11,Direct,Delivered,Pune,0
+ORD01735,CUST0004,2023-11-15,Direct,Delivered,Mumbai,5
+ORD01736,CUST0343,2022-07-17,Organic,Delivered,Pune,10
+ORD01737,CUST0143,2022-03-24,Direct,Delivered,Hyderabad,5
+ORD01738,CUST0268,2022-07-20,Organic,Delivered,Ahmedabad,15
+ORD01739,CUST0226,2023-03-30,Email,Delivered,Chennai,0
+ORD01740,CUST0344,2022-05-14,Social Media,Delivered,Hyderabad,5
+ORD01741,CUST0423,2023-05-01,Social Media,Delivered,Ahmedabad,0
+ORD01742,CUST0274,2022-09-27,Organic,Delivered,Jaipur,0
+ORD01743,CUST0489,2022-11-18,Paid Search,Processing,Ahmedabad,0
+ORD01744,CUST0238,2022-01-11,Social Media,Delivered,Jaipur,0
+ORD01745,CUST0058,2022-08-13,Paid Search,Delivered,Ahmedabad,10
+ORD01746,CUST0098,2022-08-12,Paid Search,Delivered,Chennai,15
+ORD01747,CUST0073,2023-02-10,Paid Search,Delivered,Jaipur,0
+ORD01748,CUST0350,2022-09-14,Paid Search,Delivered,Mumbai,0
+ORD01749,CUST0380,2023-05-27,Organic,Returned,Pune,15
+ORD01750,CUST0458,2023-08-27,Organic,Delivered,Jaipur,5
+ORD01751,CUST0280,2022-12-15,Paid Search,Returned,Bangalore,0
+ORD01752,CUST0091,2023-07-11,Organic,Returned,Bangalore,15
+ORD01753,CUST0302,2023-07-12,Paid Search,Delivered,Hyderabad,5
+ORD01754,CUST0441,2022-01-16,Social Media,Delivered,Delhi,0
+ORD01755,CUST0179,2022-12-02,Social Media,Delivered,Jaipur,0
+ORD01756,CUST0230,2022-04-18,Email,Delivered,Hyderabad,0
+ORD01757,CUST0168,2023-08-05,Social Media,Delivered,Bangalore,15
+ORD01758,CUST0312,2023-07-09,Direct,Delivered,Kolkata,0
+ORD01759,CUST0355,2022-08-24,Paid Search,Processing,Hyderabad,15
+ORD01760,CUST0434,2023-09-17,Organic,Delivered,Bangalore,15
+ORD01761,CUST0260,2023-04-14,Social Media,Delivered,Delhi,0
+ORD01762,CUST0459,2023-07-12,Social Media,Processing,Ahmedabad,0
+ORD01763,CUST0195,2022-03-21,Social Media,Processing,Indore,5
+ORD01764,CUST0273,2023-05-20,Direct,Delivered,Delhi,15
+ORD01765,CUST0296,2022-07-20,Social Media,Delivered,Bangalore,0
+ORD01766,CUST0321,2022-09-01,Direct,Delivered,Kolkata,0
+ORD01767,CUST0318,2022-12-06,Organic,Delivered,Chennai,10
+ORD01768,CUST0138,2022-09-15,Paid Search,Delivered,Chennai,0
+ORD01769,CUST0424,2023-09-19,Social Media,Delivered,Kolkata,10
+ORD01770,CUST0405,2023-02-05,Social Media,Cancelled,Bangalore,10
+ORD01771,CUST0208,2022-06-18,Direct,Delivered,Hyderabad,0
+ORD01772,CUST0468,2022-12-18,Direct,Delivered,Bangalore,15
+ORD01773,CUST0401,2023-12-04,Organic,Delivered,Ahmedabad,0
+ORD01774,CUST0251,2023-06-16,Paid Search,Delivered,Hyderabad,5
+ORD01775,CUST0115,2022-01-08,Social Media,Cancelled,Mumbai,10
+ORD01776,CUST0475,2022-04-26,Organic,Returned,Pune,0
+ORD01777,CUST0045,2023-01-08,Organic,Delivered,Jaipur,0
+ORD01778,CUST0104,2022-04-20,Paid Search,Cancelled,Delhi,5
+ORD01779,CUST0434,2023-06-22,Email,Delivered,Bangalore,0
+ORD01780,CUST0009,2023-09-28,Direct,Returned,Bangalore,0
+ORD01781,CUST0091,2023-04-13,Social Media,Delivered,Bangalore,0
+ORD01782,CUST0004,2022-10-06,Social Media,Cancelled,Mumbai,0
+ORD01783,CUST0479,2022-12-05,Social Media,Returned,Kolkata,5
+ORD01784,CUST0442,2022-06-21,Paid Search,Delivered,Pune,15
+ORD01785,CUST0278,2023-10-10,Direct,Returned,Ahmedabad,0
+ORD01786,CUST0092,2023-05-30,Direct,Processing,Delhi,15
+ORD01787,CUST0014,2022-05-20,Organic,Delivered,Kolkata,0
+ORD01788,CUST0328,2022-08-24,Organic,Cancelled,Bangalore,0
+ORD01789,CUST0036,2022-08-02,Paid Search,Delivered,Bangalore,0
+ORD01790,CUST0325,2023-03-12,Paid Search,Delivered,Indore,10
+ORD01791,CUST0197,2023-01-31,Paid Search,Cancelled,Mumbai,5
+ORD01792,CUST0077,2022-01-07,Social Media,Delivered,Bangalore,0
+ORD01793,CUST0108,2022-03-13,Organic,Delivered,Chennai,0
+ORD01794,CUST0098,2022-03-06,Organic,Returned,Chennai,0
+ORD01795,CUST0320,2022-04-05,Email,Cancelled,Jaipur,10
+ORD01796,CUST0213,2022-09-26,Paid Search,Delivered,Bangalore,0
+ORD01797,CUST0045,2023-11-13,Paid Search,Delivered,Jaipur,15
+ORD01798,CUST0248,2022-05-19,Paid Search,Delivered,Bangalore,10
+ORD01799,CUST0461,2023-11-05,Paid Search,Delivered,Pune,0
+ORD01800,CUST0492,2022-05-04,Organic,Delivered,Jaipur,15
+ORD01801,CUST0299,2022-07-10,Organic,Delivered,Pune,10
+ORD01802,CUST0110,2023-02-26,Paid Search,Delivered,Kolkata,10
+ORD01803,CUST0156,2022-08-30,Paid Search,Delivered,Jaipur,0
+ORD01804,CUST0105,2022-11-24,Paid Search,Delivered,Chennai,15
+ORD01805,CUST0083,2023-02-07,Paid Search,Cancelled,Bangalore,10
+ORD01806,CUST0372,2022-04-30,Social Media,Returned,Chennai,10
+ORD01807,CUST0096,2023-08-08,Organic,Delivered,Ahmedabad,15
+ORD01808,CUST0389,2023-06-24,Email,Returned,Kolkata,0
+ORD01809,CUST0067,2022-06-02,Social Media,Processing,Pune,0
+ORD01810,CUST0204,2022-02-25,Direct,Delivered,Chennai,10
+ORD01811,CUST0416,2023-12-04,Paid Search,Delivered,Mumbai,15
+ORD01812,CUST0342,2023-06-11,Social Media,Cancelled,Pune,0
+ORD01813,CUST0155,2022-08-30,Paid Search,Delivered,Ahmedabad,0
+ORD01814,CUST0461,2022-04-06,Organic,Delivered,Pune,15
+ORD01815,CUST0384,2022-12-23,Paid Search,Delivered,Chennai,15
+ORD01816,CUST0262,2022-07-17,Email,Cancelled,Mumbai,10
+ORD01817,CUST0241,2022-03-26,Paid Search,Delivered,Hyderabad,0
+ORD01818,CUST0025,2023-10-11,Organic,Delivered,Jaipur,15
+ORD01819,CUST0210,2023-04-23,Social Media,Delivered,Delhi,0
+ORD01820,CUST0196,2023-02-17,Direct,Delivered,Bangalore,10
+ORD01821,CUST0017,2023-04-03,Social Media,Cancelled,Ahmedabad,5
+ORD01822,CUST0474,2023-09-30,Social Media,Delivered,Chennai,0
+ORD01823,CUST0007,2023-11-08,Direct,Returned,Kolkata,10
+ORD01824,CUST0392,2022-10-16,Paid Search,Returned,Mumbai,15
+ORD01825,CUST0269,2022-05-24,Social Media,Processing,Ahmedabad,0
+ORD01826,CUST0066,2022-01-18,Paid Search,Processing,Mumbai,15
+ORD01827,CUST0415,2023-11-02,Direct,Delivered,Kolkata,10
+ORD01828,CUST0177,2022-05-12,Organic,Delivered,Jaipur,0
+ORD01829,CUST0282,2022-12-01,Direct,Delivered,Ahmedabad,0
+ORD01830,CUST0399,2022-06-09,Direct,Processing,Ahmedabad,5
+ORD01831,CUST0186,2023-09-21,Social Media,Delivered,Mumbai,0
+ORD01832,CUST0032,2023-03-30,Paid Search,Delivered,Jaipur,5
+ORD01833,CUST0067,2022-05-10,Paid Search,Delivered,Pune,0
+ORD01834,CUST0004,2022-08-16,Organic,Delivered,Mumbai,5
+ORD01835,CUST0232,2023-01-13,Organic,Delivered,Mumbai,15
+ORD01836,CUST0432,2022-06-26,Email,Delivered,Jaipur,0
+ORD01837,CUST0002,2022-04-24,Organic,Delivered,Hyderabad,10
+ORD01838,CUST0020,2022-08-01,Direct,Returned,Indore,10
+ORD01839,CUST0052,2023-04-06,Organic,Delivered,Pune,10
+ORD01840,CUST0344,2023-01-11,Direct,Delivered,Hyderabad,0
+ORD01841,CUST0101,2023-06-05,Paid Search,Delivered,Mumbai,5
+ORD01842,CUST0118,2022-12-07,Email,Delivered,Mumbai,10
+ORD01843,CUST0252,2022-11-04,Organic,Delivered,Bangalore,0
+ORD01844,CUST0223,2022-07-06,Social Media,Delivered,Jaipur,15
+ORD01845,CUST0255,2022-01-31,Organic,Delivered,Bangalore,15
+ORD01846,CUST0207,2022-06-10,Paid Search,Delivered,Mumbai,0
+ORD01847,CUST0426,2022-05-22,Paid Search,Delivered,Kolkata,0
+ORD01848,CUST0387,2022-03-11,Paid Search,Delivered,Delhi,5
+ORD01849,CUST0468,2022-09-16,Email,Delivered,Bangalore,0
+ORD01850,CUST0394,2023-07-20,Email,Returned,Pune,15
+ORD01851,CUST0357,2022-10-04,Organic,Processing,Pune,0
+ORD01852,CUST0402,2022-06-26,Social Media,Delivered,Hyderabad,10
+ORD01853,CUST0332,2023-09-05,Social Media,Delivered,Bangalore,0
+ORD01854,CUST0303,2023-03-26,Paid Search,Delivered,Jaipur,15
+ORD01855,CUST0053,2023-02-25,Paid Search,Delivered,Hyderabad,5
+ORD01856,CUST0426,2022-06-28,Email,Processing,Kolkata,15
+ORD01857,CUST0299,2023-08-06,Paid Search,Delivered,Pune,15
+ORD01858,CUST0085,2023-03-18,Paid Search,Delivered,Chennai,10
+ORD01859,CUST0046,2023-02-25,Organic,Delivered,Kolkata,0
+ORD01860,CUST0412,2023-11-08,Direct,Returned,Kolkata,0
+ORD01861,CUST0385,2023-09-22,Direct,Processing,Bangalore,15
+ORD01862,CUST0494,2022-10-24,Email,Delivered,Kolkata,10
+ORD01863,CUST0458,2022-09-24,Email,Delivered,Jaipur,0
+ORD01864,CUST0475,2022-08-27,Social Media,Delivered,Pune,0
+ORD01865,CUST0243,2022-11-24,Paid Search,Delivered,Pune,10
+ORD01866,CUST0044,2022-06-11,Email,Delivered,Delhi,5
+ORD01867,CUST0372,2023-02-06,Organic,Delivered,Chennai,15
+ORD01868,CUST0217,2022-04-26,Direct,Delivered,Delhi,0
+ORD01869,CUST0458,2023-12-09,Paid Search,Delivered,Jaipur,5
+ORD01870,CUST0344,2023-10-19,Direct,Cancelled,Hyderabad,15
+ORD01871,CUST0197,2023-07-14,Direct,Delivered,Mumbai,0
+ORD01872,CUST0160,2022-06-05,Organic,Delivered,Chennai,0
+ORD01873,CUST0073,2022-06-13,Email,Delivered,Jaipur,10
+ORD01874,CUST0258,2023-08-11,Paid Search,Delivered,Pune,0
+ORD01875,CUST0451,2023-03-23,Paid Search,Processing,Bangalore,10
+ORD01876,CUST0295,2022-03-11,Paid Search,Delivered,Pune,0
+ORD01877,CUST0339,2023-09-07,Organic,Delivered,Indore,0
+ORD01878,CUST0369,2023-02-22,Organic,Delivered,Kolkata,0
+ORD01879,CUST0285,2023-06-08,Paid Search,Returned,Kolkata,0
+ORD01880,CUST0185,2022-10-13,Organic,Delivered,Pune,0
+ORD01881,CUST0357,2022-10-24,Paid Search,Returned,Pune,5
+ORD01882,CUST0034,2023-06-13,Social Media,Delivered,Chennai,10
+ORD01883,CUST0280,2023-07-09,Paid Search,Returned,Bangalore,0
+ORD01884,CUST0140,2022-03-23,Email,Returned,Pune,10
+ORD01885,CUST0485,2022-09-29,Email,Delivered,Chennai,10
+ORD01886,CUST0226,2022-11-16,Paid Search,Delivered,Chennai,0
+ORD01887,CUST0315,2022-05-19,Social Media,Delivered,Hyderabad,0
+ORD01888,CUST0476,2023-01-26,Organic,Delivered,Jaipur,5
+ORD01889,CUST0373,2022-03-05,Social Media,Returned,Delhi,5
+ORD01890,CUST0161,2022-09-12,Social Media,Delivered,Bangalore,0
+ORD01891,CUST0004,2022-02-20,Social Media,Delivered,Mumbai,0
+ORD01892,CUST0272,2023-08-18,Direct,Processing,Bangalore,15
+ORD01893,CUST0315,2023-03-22,Email,Delivered,Hyderabad,0
+ORD01894,CUST0251,2023-03-30,Paid Search,Processing,Hyderabad,0
+ORD01895,CUST0413,2023-09-16,Organic,Cancelled,Kolkata,0
+ORD01896,CUST0410,2023-02-19,Email,Delivered,Kolkata,0
+ORD01897,CUST0172,2023-09-11,Social Media,Delivered,Kolkata,0
+ORD01898,CUST0078,2022-10-29,Paid Search,Processing,Delhi,5
+ORD01899,CUST0243,2022-11-15,Organic,Delivered,Pune,0
+ORD01900,CUST0048,2023-01-17,Social Media,Processing,Kolkata,0
+ORD01901,CUST0243,2023-08-26,Organic,Cancelled,Pune,0
+ORD01902,CUST0477,2022-01-14,Paid Search,Delivered,Delhi,0
+ORD01903,CUST0076,2022-04-24,Social Media,Delivered,Kolkata,5
+ORD01904,CUST0221,2022-12-21,Paid Search,Delivered,Pune,15
+ORD01905,CUST0090,2022-11-14,Social Media,Returned,Kolkata,10
+ORD01906,CUST0186,2022-10-02,Social Media,Delivered,Mumbai,0
+ORD01907,CUST0189,2022-10-20,Email,Delivered,Indore,0
+ORD01908,CUST0147,2023-07-05,Paid Search,Cancelled,Delhi,5
+ORD01909,CUST0331,2023-10-19,Organic,Cancelled,Mumbai,10
+ORD01910,CUST0351,2022-06-23,Paid Search,Delivered,Chennai,15
+ORD01911,CUST0032,2022-03-10,Paid Search,Delivered,Jaipur,0
+ORD01912,CUST0369,2023-07-13,Direct,Delivered,Kolkata,0
+ORD01913,CUST0019,2023-12-18,Organic,Cancelled,Delhi,5
+ORD01914,CUST0259,2022-10-21,Paid Search,Processing,Chennai,0
+ORD01915,CUST0131,2023-11-18,Organic,Delivered,Jaipur,10
+ORD01916,CUST0244,2023-09-10,Email,Delivered,Pune,15
+ORD01917,CUST0387,2023-11-17,Organic,Delivered,Delhi,10
+ORD01918,CUST0448,2023-07-06,Paid Search,Delivered,Chennai,10
+ORD01919,CUST0157,2022-11-19,Organic,Returned,Kolkata,15
+ORD01920,CUST0019,2022-04-02,Organic,Delivered,Delhi,10
+ORD01921,CUST0084,2023-06-18,Email,Delivered,Chennai,0
+ORD01922,CUST0282,2023-05-27,Direct,Delivered,Ahmedabad,10
+ORD01923,CUST0089,2023-06-14,Social Media,Cancelled,Mumbai,0
+ORD01924,CUST0063,2022-02-15,Organic,Delivered,Delhi,0
+ORD01925,CUST0033,2023-12-10,Organic,Delivered,Hyderabad,15
+ORD01926,CUST0247,2023-01-31,Social Media,Returned,Delhi,0
+ORD01927,CUST0197,2022-04-06,Direct,Delivered,Mumbai,0
+ORD01928,CUST0484,2022-03-29,Paid Search,Delivered,Bangalore,10
+ORD01929,CUST0071,2022-07-19,Paid Search,Delivered,Indore,0
+ORD01930,CUST0376,2022-01-18,Organic,Returned,Pune,0
+ORD01931,CUST0225,2022-03-18,Paid Search,Processing,Bangalore,15
+ORD01932,CUST0048,2022-03-17,Social Media,Cancelled,Kolkata,0
+ORD01933,CUST0363,2022-04-03,Email,Delivered,Hyderabad,0
+ORD01934,CUST0419,2023-08-29,Organic,Delivered,Delhi,0
+ORD01935,CUST0215,2023-07-16,Organic,Delivered,Ahmedabad,10
+ORD01936,CUST0208,2022-06-13,Social Media,Delivered,Hyderabad,10
+ORD01937,CUST0061,2023-04-29,Organic,Returned,Pune,5
+ORD01938,CUST0292,2023-04-11,Organic,Processing,Chennai,0
+ORD01939,CUST0435,2023-10-09,Paid Search,Delivered,Kolkata,0
+ORD01940,CUST0479,2022-05-23,Paid Search,Delivered,Kolkata,0
+ORD01941,CUST0236,2023-05-14,Email,Delivered,Hyderabad,5
+ORD01942,CUST0278,2023-11-21,Social Media,Delivered,Ahmedabad,0
+ORD01943,CUST0091,2022-06-16,Paid Search,Delivered,Bangalore,5
+ORD01944,CUST0452,2022-09-28,Email,Delivered,Delhi,0
+ORD01945,CUST0164,2023-03-22,Social Media,Delivered,Ahmedabad,0
+ORD01946,CUST0364,2023-08-12,Organic,Delivered,Bangalore,0
+ORD01947,CUST0461,2022-12-17,Organic,Delivered,Pune,5
+ORD01948,CUST0313,2022-12-02,Paid Search,Delivered,Jaipur,10
+ORD01949,CUST0135,2023-04-09,Direct,Delivered,Chennai,10
+ORD01950,CUST0247,2022-03-09,Paid Search,Delivered,Delhi,15
+ORD01951,CUST0047,2022-04-29,Email,Cancelled,Delhi,0
+ORD01952,CUST0096,2023-03-14,Direct,Delivered,Ahmedabad,0
+ORD01953,CUST0028,2023-08-07,Organic,Delivered,Pune,5
+ORD01954,CUST0349,2022-01-16,Paid Search,Delivered,Chennai,15
+ORD01955,CUST0450,2023-06-01,Social Media,Delivered,Ahmedabad,15
+ORD01956,CUST0240,2023-02-28,Paid Search,Delivered,Chennai,0
+ORD01957,CUST0393,2022-04-29,Email,Delivered,Jaipur,0
+ORD01958,CUST0043,2022-08-07,Paid Search,Delivered,Chennai,0
+ORD01959,CUST0340,2023-09-18,Paid Search,Delivered,Delhi,15
+ORD01960,CUST0392,2022-09-05,Social Media,Delivered,Mumbai,0
+ORD01961,CUST0382,2023-03-16,Direct,Processing,Pune,0
+ORD01962,CUST0156,2022-07-01,Direct,Returned,Jaipur,15
+ORD01963,CUST0277,2022-02-18,Email,Cancelled,Delhi,15
+ORD01964,CUST0230,2023-09-27,Direct,Delivered,Hyderabad,10
+ORD01965,CUST0305,2022-02-04,Organic,Delivered,Chennai,15
+ORD01966,CUST0342,2023-09-07,Organic,Processing,Pune,0
+ORD01967,CUST0399,2023-06-04,Organic,Returned,Ahmedabad,15
+ORD01968,CUST0352,2023-12-21,Organic,Delivered,Delhi,0
+ORD01969,CUST0419,2022-10-02,Organic,Delivered,Delhi,0
+ORD01970,CUST0070,2022-07-06,Paid Search,Processing,Ahmedabad,0
+ORD01971,CUST0041,2022-11-24,Organic,Delivered,Chennai,0
+ORD01972,CUST0495,2023-11-02,Paid Search,Delivered,Jaipur,0
+ORD01973,CUST0361,2022-07-15,Social Media,Processing,Chennai,15
+ORD01974,CUST0346,2023-01-10,Organic,Returned,Ahmedabad,0
+ORD01975,CUST0005,2023-02-07,Direct,Returned,Hyderabad,0
+ORD01976,CUST0061,2022-01-04,Direct,Delivered,Pune,10
+ORD01977,CUST0033,2022-03-15,Direct,Processing,Hyderabad,0
+ORD01978,CUST0492,2023-07-13,Organic,Delivered,Jaipur,10
+ORD01979,CUST0186,2023-02-02,Organic,Processing,Mumbai,10
+ORD01980,CUST0007,2023-10-22,Social Media,Processing,Kolkata,10
+ORD01981,CUST0038,2023-07-14,Organic,Delivered,Bangalore,0
+ORD01982,CUST0349,2022-05-09,Social Media,Delivered,Chennai,10
+ORD01983,CUST0442,2022-08-19,Paid Search,Delivered,Pune,0
+ORD01984,CUST0168,2022-01-09,Paid Search,Delivered,Bangalore,5
+ORD01985,CUST0161,2022-09-19,Organic,Delivered,Bangalore,10
+ORD01986,CUST0299,2022-03-04,Email,Delivered,Pune,0
+ORD01987,CUST0439,2022-04-08,Email,Delivered,Delhi,0
+ORD01988,CUST0459,2023-03-08,Organic,Delivered,Ahmedabad,10
+ORD01989,CUST0468,2023-02-28,Direct,Delivered,Bangalore,5
+ORD01990,CUST0407,2022-05-20,Direct,Delivered,Bangalore,5
+ORD01991,CUST0387,2023-07-31,Organic,Delivered,Delhi,10
+ORD01992,CUST0024,2022-08-25,Email,Delivered,Kolkata,0
+ORD01993,CUST0235,2023-01-14,Paid Search,Processing,Chennai,0
+ORD01994,CUST0001,2023-04-01,Email,Returned,Delhi,0
+ORD01995,CUST0385,2023-07-18,Organic,Delivered,Bangalore,0
+ORD01996,CUST0332,2023-09-15,Direct,Delivered,Bangalore,0
+ORD01997,CUST0466,2023-05-16,Paid Search,Delivered,Chennai,0
+ORD01998,CUST0258,2023-03-24,Paid Search,Delivered,Pune,15
+ORD01999,CUST0292,2023-04-20,Paid Search,Delivered,Chennai,15
+ORD02000,CUST0274,2023-12-18,Direct,Delivered,Jaipur,0
+ORD02001,CUST0246,2022-06-26,Social Media,Processing,Delhi,0
+ORD02002,CUST0084,2022-01-02,Social Media,Delivered,Chennai,10
+ORD02003,CUST0321,2022-08-23,Organic,Delivered,Kolkata,0
+ORD02004,CUST0336,2022-08-05,Direct,Delivered,Jaipur,0
+ORD02005,CUST0296,2023-09-09,Social Media,Delivered,Bangalore,15
+ORD02006,CUST0019,2023-10-12,Direct,Delivered,Delhi,0
+ORD02007,CUST0368,2023-03-26,Direct,Delivered,Indore,15
+ORD02008,CUST0048,2023-03-04,Paid Search,Delivered,Kolkata,15
+ORD02009,CUST0407,2023-09-02,Paid Search,Delivered,Bangalore,5
+ORD02010,CUST0313,2023-07-05,Organic,Delivered,Jaipur,0
+ORD02011,CUST0213,2023-12-01,Paid Search,Cancelled,Bangalore,0
+ORD02012,CUST0299,2023-06-28,Organic,Delivered,Pune,15
+ORD02013,CUST0035,2023-09-27,Organic,Cancelled,Ahmedabad,0
+ORD02014,CUST0029,2023-01-11,Paid Search,Returned,Hyderabad,0
+ORD02015,CUST0477,2022-06-06,Social Media,Delivered,Delhi,0
+ORD02016,CUST0156,2023-08-19,Paid Search,Delivered,Jaipur,5
+ORD02017,CUST0351,2022-11-10,Social Media,Delivered,Chennai,0
+ORD02018,CUST0193,2022-06-21,Organic,Cancelled,Hyderabad,0
+ORD02019,CUST0111,2023-02-25,Email,Processing,Ahmedabad,10
+ORD02020,CUST0137,2023-11-21,Social Media,Delivered,Pune,0
+ORD02021,CUST0253,2023-09-01,Social Media,Delivered,Kolkata,15
+ORD02022,CUST0371,2022-11-15,Social Media,Delivered,Bangalore,0
+ORD02023,CUST0103,2023-07-28,Email,Processing,Kolkata,0
+ORD02024,CUST0342,2022-02-28,Organic,Processing,Pune,0
+ORD02025,CUST0041,2023-12-25,Paid Search,Delivered,Chennai,15
+ORD02026,CUST0399,2023-02-04,Paid Search,Delivered,Ahmedabad,15
+ORD02027,CUST0172,2022-07-24,Social Media,Processing,Kolkata,0
+ORD02028,CUST0305,2023-05-30,Direct,Delivered,Chennai,0
+ORD02029,CUST0275,2023-12-16,Paid Search,Returned,Chennai,10
+ORD02030,CUST0261,2022-03-31,Social Media,Delivered,Jaipur,0
+ORD02031,CUST0155,2023-04-03,Direct,Delivered,Ahmedabad,0
+ORD02032,CUST0189,2023-08-26,Organic,Delivered,Indore,0
+ORD02033,CUST0342,2022-09-29,Direct,Processing,Pune,0
+ORD02034,CUST0454,2022-11-13,Organic,Delivered,Bangalore,0
+ORD02035,CUST0116,2022-04-17,Social Media,Delivered,Chennai,0
+ORD02036,CUST0482,2023-06-28,Direct,Delivered,Kolkata,15
+ORD02037,CUST0470,2023-07-25,Paid Search,Processing,Pune,0
+ORD02038,CUST0456,2023-06-02,Direct,Delivered,Bangalore,0
+ORD02039,CUST0446,2023-10-26,Social Media,Returned,Mumbai,15
+ORD02040,CUST0114,2023-04-01,Paid Search,Delivered,Delhi,0
+ORD02041,CUST0143,2022-03-05,Email,Delivered,Hyderabad,0
+ORD02042,CUST0478,2023-07-04,Direct,Delivered,Hyderabad,15
+ORD02043,CUST0338,2022-02-16,Direct,Delivered,Chennai,15
+ORD02044,CUST0374,2022-05-12,Organic,Delivered,Bangalore,0
+ORD02045,CUST0218,2022-01-28,Email,Returned,Hyderabad,0
+ORD02046,CUST0356,2022-03-30,Organic,Delivered,Delhi,0
+ORD02047,CUST0091,2022-01-28,Social Media,Delivered,Bangalore,0
+ORD02048,CUST0369,2023-01-18,Social Media,Cancelled,Kolkata,0
+ORD02049,CUST0355,2023-03-30,Organic,Delivered,Hyderabad,10
+ORD02050,CUST0148,2023-01-08,Email,Delivered,Kolkata,0
+ORD02051,CUST0180,2022-02-05,Direct,Delivered,Jaipur,0
+ORD02052,CUST0392,2023-06-02,Organic,Delivered,Mumbai,0
+ORD02053,CUST0080,2023-02-10,Social Media,Processing,Mumbai,10
+ORD02054,CUST0458,2023-07-26,Direct,Delivered,Jaipur,15
+ORD02055,CUST0391,2022-09-26,Organic,Delivered,Ahmedabad,0
+ORD02056,CUST0497,2022-08-10,Direct,Delivered,Ahmedabad,15
+ORD02057,CUST0150,2022-09-17,Direct,Cancelled,Kolkata,10
+ORD02058,CUST0418,2023-11-12,Direct,Delivered,Jaipur,5
+ORD02059,CUST0173,2022-08-05,Organic,Cancelled,Pune,15
+ORD02060,CUST0438,2023-10-26,Organic,Delivered,Chennai,5
+ORD02061,CUST0054,2022-08-30,Social Media,Delivered,Delhi,10
+ORD02062,CUST0396,2022-05-05,Organic,Returned,Pune,0
+ORD02063,CUST0261,2022-10-21,Social Media,Delivered,Jaipur,0
+ORD02064,CUST0186,2022-11-23,Organic,Delivered,Mumbai,0
+ORD02065,CUST0369,2022-10-02,Social Media,Cancelled,Kolkata,0
+ORD02066,CUST0220,2022-10-06,Direct,Delivered,Mumbai,15
+ORD02067,CUST0304,2022-08-05,Paid Search,Delivered,Hyderabad,5
+ORD02068,CUST0130,2022-06-22,Social Media,Delivered,Delhi,0
+ORD02069,CUST0077,2022-11-11,Social Media,Returned,Bangalore,5
+ORD02070,CUST0207,2023-04-19,Paid Search,Delivered,Mumbai,5
+ORD02071,CUST0409,2023-09-09,Social Media,Delivered,Chennai,0
+ORD02072,CUST0357,2023-08-14,Organic,Delivered,Pune,0
+ORD02073,CUST0355,2022-11-13,Organic,Returned,Hyderabad,0
+ORD02074,CUST0016,2023-06-09,Organic,Delivered,Ahmedabad,10
+ORD02075,CUST0397,2022-12-24,Social Media,Delivered,Hyderabad,0
+ORD02076,CUST0001,2022-05-24,Paid Search,Delivered,Delhi,5
+ORD02077,CUST0230,2023-08-31,Email,Delivered,Hyderabad,0
+ORD02078,CUST0440,2022-12-05,Paid Search,Delivered,Bangalore,15
+ORD02079,CUST0241,2022-07-23,Email,Processing,Hyderabad,10
+ORD02080,CUST0316,2022-07-10,Social Media,Delivered,Bangalore,10
+ORD02081,CUST0106,2022-02-20,Organic,Delivered,Chennai,0
+ORD02082,CUST0237,2023-02-28,Organic,Delivered,Jaipur,0
+ORD02083,CUST0470,2023-06-22,Direct,Delivered,Pune,5
+ORD02084,CUST0386,2022-09-26,Email,Returned,Chennai,0
+ORD02085,CUST0292,2023-09-10,Organic,Delivered,Chennai,0
+ORD02086,CUST0231,2022-10-19,Direct,Delivered,Ahmedabad,10
+ORD02087,CUST0359,2023-07-29,Organic,Delivered,Indore,5
+ORD02088,CUST0371,2023-05-04,Email,Delivered,Bangalore,10
+ORD02089,CUST0052,2022-09-13,Direct,Returned,Pune,5
+ORD02090,CUST0354,2022-06-27,Paid Search,Delivered,Chennai,0
+ORD02091,CUST0461,2023-06-16,Email,Delivered,Pune,0
+ORD02092,CUST0440,2022-05-09,Organic,Delivered,Bangalore,10
+ORD02093,CUST0435,2022-11-08,Social Media,Delivered,Kolkata,0
+ORD02094,CUST0070,2022-04-28,Paid Search,Cancelled,Ahmedabad,0
+ORD02095,CUST0305,2023-02-06,Paid Search,Delivered,Chennai,5
+ORD02096,CUST0482,2023-03-17,Social Media,Delivered,Kolkata,0
+ORD02097,CUST0362,2023-01-05,Paid Search,Delivered,Ahmedabad,0
+ORD02098,CUST0282,2023-01-15,Organic,Cancelled,Ahmedabad,0
+ORD02099,CUST0081,2023-11-18,Organic,Delivered,Bangalore,0
+ORD02100,CUST0209,2022-08-01,Paid Search,Delivered,Bangalore,15
+ORD02101,CUST0213,2023-06-01,Organic,Returned,Bangalore,15
+ORD02102,CUST0292,2022-10-15,Direct,Delivered,Chennai,15
+ORD02103,CUST0033,2023-04-22,Organic,Delivered,Hyderabad,0
+ORD02104,CUST0485,2022-02-18,Social Media,Processing,Chennai,5
+ORD02105,CUST0093,2023-04-05,Direct,Delivered,Ahmedabad,0
+ORD02106,CUST0320,2022-08-28,Organic,Delivered,Jaipur,10
+ORD02107,CUST0111,2022-07-29,Organic,Delivered,Ahmedabad,5
+ORD02108,CUST0226,2022-03-11,Direct,Returned,Chennai,0
+ORD02109,CUST0225,2023-03-14,Social Media,Delivered,Bangalore,0
+ORD02110,CUST0030,2022-06-27,Organic,Processing,Pune,0
+ORD02111,CUST0285,2022-09-22,Paid Search,Cancelled,Kolkata,0
+ORD02112,CUST0235,2022-03-11,Paid Search,Delivered,Chennai,0
+ORD02113,CUST0409,2022-05-16,Paid Search,Cancelled,Chennai,5
+ORD02114,CUST0237,2022-04-15,Paid Search,Delivered,Jaipur,0
+ORD02115,CUST0026,2023-01-31,Social Media,Cancelled,Kolkata,0
+ORD02116,CUST0076,2022-12-14,Organic,Delivered,Kolkata,10
+ORD02117,CUST0176,2023-01-30,Paid Search,Delivered,Jaipur,15
+ORD02118,CUST0322,2022-07-12,Organic,Delivered,Kolkata,0
+ORD02119,CUST0022,2022-08-30,Email,Delivered,Hyderabad,0
+ORD02120,CUST0438,2022-02-20,Direct,Delivered,Chennai,0
+ORD02121,CUST0129,2023-12-13,Email,Cancelled,Chennai,0
+ORD02122,CUST0090,2022-05-26,Organic,Delivered,Kolkata,0
+ORD02123,CUST0074,2022-04-26,Social Media,Delivered,Delhi,15
+ORD02124,CUST0377,2022-01-02,Paid Search,Delivered,Mumbai,0
+ORD02125,CUST0431,2023-06-16,Organic,Delivered,Chennai,0
+ORD02126,CUST0194,2023-06-04,Direct,Delivered,Mumbai,15
+ORD02127,CUST0320,2023-12-20,Social Media,Delivered,Jaipur,10
+ORD02128,CUST0213,2022-08-27,Paid Search,Returned,Bangalore,0
+ORD02129,CUST0009,2023-03-05,Paid Search,Delivered,Bangalore,0
+ORD02130,CUST0069,2022-01-29,Organic,Delivered,Kolkata,0
+ORD02131,CUST0022,2022-06-05,Email,Delivered,Hyderabad,5
+ORD02132,CUST0369,2022-06-07,Paid Search,Returned,Kolkata,0
+ORD02133,CUST0172,2023-11-11,Social Media,Delivered,Kolkata,0
+ORD02134,CUST0055,2022-08-17,Paid Search,Delivered,Delhi,0
+ORD02135,CUST0439,2022-06-10,Social Media,Delivered,Delhi,0
+ORD02136,CUST0487,2022-06-27,Email,Delivered,Delhi,0
+ORD02137,CUST0191,2023-07-06,Social Media,Delivered,Kolkata,5
+ORD02138,CUST0054,2023-08-20,Paid Search,Delivered,Delhi,0
+ORD02139,CUST0159,2022-11-09,Social Media,Delivered,Ahmedabad,5
+ORD02140,CUST0476,2023-05-30,Organic,Delivered,Jaipur,0
+ORD02141,CUST0145,2023-02-13,Social Media,Delivered,Hyderabad,0
+ORD02142,CUST0058,2023-09-18,Email,Delivered,Ahmedabad,0
+ORD02143,CUST0157,2023-12-08,Paid Search,Delivered,Kolkata,10
+ORD02144,CUST0408,2022-04-26,Direct,Delivered,Ahmedabad,15
+ORD02145,CUST0442,2023-09-22,Social Media,Delivered,Pune,10
+ORD02146,CUST0050,2023-10-30,Organic,Delivered,Kolkata,0
+ORD02147,CUST0449,2023-03-19,Email,Delivered,Mumbai,0
+ORD02148,CUST0083,2023-07-07,Organic,Delivered,Bangalore,0
+ORD02149,CUST0415,2022-07-03,Social Media,Delivered,Kolkata,0
+ORD02150,CUST0474,2023-03-04,Social Media,Delivered,Chennai,0
+ORD02151,CUST0274,2023-12-16,Direct,Cancelled,Jaipur,0
+ORD02152,CUST0458,2023-01-30,Paid Search,Cancelled,Jaipur,0
+ORD02153,CUST0326,2022-04-27,Organic,Delivered,Indore,0
+ORD02154,CUST0340,2023-06-02,Email,Delivered,Delhi,15
+ORD02155,CUST0375,2022-08-18,Email,Delivered,Indore,0
+ORD02156,CUST0363,2023-12-19,Direct,Delivered,Hyderabad,5
+ORD02157,CUST0334,2022-02-14,Email,Delivered,Delhi,15
+ORD02158,CUST0417,2022-09-30,Social Media,Delivered,Indore,5
+ORD02159,CUST0236,2023-05-31,Direct,Delivered,Hyderabad,10
+ORD02160,CUST0127,2023-07-09,Organic,Delivered,Indore,15
+ORD02161,CUST0201,2023-01-21,Social Media,Returned,Pune,10
+ORD02162,CUST0071,2022-11-28,Social Media,Cancelled,Indore,0
+ORD02163,CUST0140,2023-11-19,Email,Cancelled,Pune,10
+ORD02164,CUST0322,2023-05-02,Paid Search,Delivered,Kolkata,0
+ORD02165,CUST0294,2023-09-26,Social Media,Delivered,Delhi,0
+ORD02166,CUST0287,2022-12-27,Direct,Delivered,Pune,10
+ORD02167,CUST0211,2023-04-19,Paid Search,Processing,Jaipur,0
+ORD02168,CUST0376,2023-08-19,Paid Search,Delivered,Pune,0
+ORD02169,CUST0149,2022-11-20,Social Media,Delivered,Pune,10
+ORD02170,CUST0449,2022-01-11,Organic,Delivered,Mumbai,5
+ORD02171,CUST0149,2023-07-21,Email,Delivered,Pune,10
+ORD02172,CUST0184,2023-06-17,Organic,Delivered,Hyderabad,10
+ORD02173,CUST0285,2022-07-14,Paid Search,Delivered,Kolkata,10
+ORD02174,CUST0122,2023-09-26,Social Media,Delivered,Mumbai,0
+ORD02175,CUST0469,2022-01-14,Organic,Delivered,Hyderabad,15
+ORD02176,CUST0390,2023-11-27,Paid Search,Delivered,Indore,0
+ORD02177,CUST0134,2023-08-02,Direct,Delivered,Indore,0
+ORD02178,CUST0292,2022-02-23,Organic,Delivered,Chennai,5
+ORD02179,CUST0324,2022-07-28,Organic,Cancelled,Hyderabad,0
+ORD02180,CUST0481,2022-02-14,Direct,Delivered,Delhi,5
+ORD02181,CUST0194,2022-05-26,Direct,Delivered,Mumbai,5
+ORD02182,CUST0162,2023-03-12,Organic,Delivered,Jaipur,0
+ORD02183,CUST0478,2023-10-13,Paid Search,Delivered,Hyderabad,5
+ORD02184,CUST0351,2022-11-30,Paid Search,Delivered,Chennai,0
+ORD02185,CUST0004,2023-05-16,Paid Search,Delivered,Mumbai,0
+ORD02186,CUST0086,2023-12-20,Email,Delivered,Jaipur,15
+ORD02187,CUST0485,2022-04-04,Email,Delivered,Chennai,15
+ORD02188,CUST0325,2023-04-20,Social Media,Delivered,Indore,0
+ORD02189,CUST0365,2023-11-23,Organic,Delivered,Mumbai,0
+ORD02190,CUST0365,2022-11-17,Organic,Delivered,Mumbai,5
+ORD02191,CUST0315,2022-03-28,Social Media,Delivered,Hyderabad,0
+ORD02192,CUST0230,2023-04-11,Email,Delivered,Hyderabad,0
+ORD02193,CUST0448,2023-06-26,Email,Delivered,Chennai,10
+ORD02194,CUST0236,2022-07-24,Organic,Delivered,Hyderabad,5
+ORD02195,CUST0114,2022-07-19,Organic,Delivered,Delhi,0
+ORD02196,CUST0103,2022-09-03,Social Media,Delivered,Kolkata,0
+ORD02197,CUST0181,2022-06-28,Paid Search,Delivered,Hyderabad,0
+ORD02198,CUST0093,2022-05-06,Email,Delivered,Ahmedabad,0
+ORD02199,CUST0026,2022-04-14,Paid Search,Delivered,Kolkata,0
+ORD02200,CUST0446,2023-01-26,Email,Processing,Mumbai,10
+ORD02201,CUST0115,2022-08-03,Paid Search,Delivered,Mumbai,5
+ORD02202,CUST0301,2023-08-12,Organic,Delivered,Kolkata,10
+ORD02203,CUST0175,2023-05-07,Social Media,Delivered,Indore,15
+ORD02204,CUST0084,2022-04-08,Social Media,Delivered,Chennai,0
+ORD02205,CUST0088,2023-10-29,Direct,Returned,Kolkata,0
+ORD02206,CUST0371,2023-04-14,Direct,Delivered,Bangalore,5
+ORD02207,CUST0293,2022-12-23,Organic,Delivered,Indore,0
+ORD02208,CUST0226,2023-08-21,Direct,Returned,Chennai,0
+ORD02209,CUST0097,2023-10-17,Direct,Returned,Ahmedabad,10
+ORD02210,CUST0405,2022-09-30,Email,Delivered,Bangalore,5
+ORD02211,CUST0043,2022-07-06,Organic,Delivered,Chennai,5
+ORD02212,CUST0397,2022-03-25,Email,Delivered,Hyderabad,0
+ORD02213,CUST0455,2022-01-24,Paid Search,Delivered,Ahmedabad,0
+ORD02214,CUST0287,2023-03-12,Organic,Returned,Pune,0
+ORD02215,CUST0387,2023-04-21,Email,Delivered,Delhi,0
+ORD02216,CUST0203,2022-01-21,Social Media,Returned,Chennai,0
+ORD02217,CUST0128,2023-06-30,Direct,Delivered,Indore,15
+ORD02218,CUST0063,2022-09-07,Social Media,Returned,Delhi,0
+ORD02219,CUST0146,2022-12-02,Organic,Delivered,Pune,5
+ORD02220,CUST0206,2022-03-13,Email,Delivered,Pune,5
+ORD02221,CUST0041,2022-08-11,Paid Search,Delivered,Chennai,0
+ORD02222,CUST0361,2022-01-08,Email,Delivered,Chennai,0
+ORD02223,CUST0341,2022-09-10,Paid Search,Delivered,Chennai,5
+ORD02224,CUST0300,2023-05-15,Email,Delivered,Indore,5
+ORD02225,CUST0202,2023-11-27,Organic,Delivered,Pune,0
+ORD02226,CUST0249,2022-07-06,Social Media,Processing,Chennai,15
+ORD02227,CUST0469,2022-09-13,Paid Search,Delivered,Hyderabad,0
+ORD02228,CUST0040,2022-02-05,Direct,Delivered,Ahmedabad,0
+ORD02229,CUST0457,2022-07-29,Direct,Delivered,Mumbai,0
+ORD02230,CUST0020,2022-07-13,Paid Search,Delivered,Indore,0
+ORD02231,CUST0250,2023-03-06,Direct,Delivered,Ahmedabad,0
+ORD02232,CUST0133,2023-11-24,Email,Delivered,Hyderabad,0
+ORD02233,CUST0211,2023-08-12,Paid Search,Delivered,Jaipur,15
+ORD02234,CUST0321,2023-12-10,Organic,Delivered,Kolkata,0
+ORD02235,CUST0261,2023-04-11,Direct,Delivered,Jaipur,15
+ORD02236,CUST0384,2023-04-10,Organic,Delivered,Chennai,0
+ORD02237,CUST0496,2023-03-12,Organic,Delivered,Chennai,0
+ORD02238,CUST0393,2022-02-05,Social Media,Returned,Jaipur,0
+ORD02239,CUST0106,2023-07-16,Direct,Delivered,Chennai,0
+ORD02240,CUST0231,2022-01-15,Organic,Delivered,Ahmedabad,0
+ORD02241,CUST0423,2023-10-15,Paid Search,Delivered,Ahmedabad,0
+ORD02242,CUST0434,2022-06-24,Social Media,Delivered,Bangalore,0
+ORD02243,CUST0069,2022-01-08,Organic,Delivered,Kolkata,5
+ORD02244,CUST0140,2022-04-13,Paid Search,Returned,Pune,10
+ORD02245,CUST0031,2023-09-29,Direct,Cancelled,Indore,0
+ORD02246,CUST0301,2023-07-26,Direct,Delivered,Kolkata,0
+ORD02247,CUST0254,2022-11-02,Organic,Returned,Mumbai,15
+ORD02248,CUST0110,2022-06-26,Organic,Delivered,Kolkata,5
+ORD02249,CUST0196,2022-08-09,Organic,Delivered,Bangalore,5
+ORD02250,CUST0335,2022-06-23,Direct,Returned,Kolkata,0
+ORD02251,CUST0172,2022-08-31,Organic,Delivered,Kolkata,0
+ORD02252,CUST0006,2022-12-14,Organic,Delivered,Kolkata,0
+ORD02253,CUST0409,2023-04-18,Organic,Returned,Chennai,0
+ORD02254,CUST0088,2022-06-14,Organic,Returned,Kolkata,10
+ORD02255,CUST0381,2023-06-06,Paid Search,Delivered,Jaipur,0
+ORD02256,CUST0381,2023-02-22,Organic,Delivered,Jaipur,0
+ORD02257,CUST0428,2022-01-07,Organic,Processing,Indore,0
+ORD02258,CUST0185,2022-05-28,Paid Search,Delivered,Pune,0
+ORD02259,CUST0467,2023-08-25,Direct,Cancelled,Mumbai,15
+ORD02260,CUST0140,2022-11-09,Paid Search,Delivered,Pune,15
+ORD02261,CUST0181,2022-11-20,Direct,Delivered,Hyderabad,0
+ORD02262,CUST0239,2023-09-10,Direct,Delivered,Jaipur,0
+ORD02263,CUST0300,2023-07-08,Organic,Delivered,Indore,15
+ORD02264,CUST0298,2022-04-04,Social Media,Delivered,Kolkata,15
+ORD02265,CUST0311,2023-07-03,Email,Cancelled,Bangalore,10
+ORD02266,CUST0238,2023-01-24,Organic,Delivered,Jaipur,0
+ORD02267,CUST0133,2022-01-25,Social Media,Processing,Hyderabad,10
+ORD02268,CUST0017,2023-05-18,Organic,Delivered,Ahmedabad,0
+ORD02269,CUST0378,2023-06-26,Direct,Delivered,Jaipur,0
+ORD02270,CUST0143,2023-07-08,Paid Search,Processing,Hyderabad,10
+ORD02271,CUST0294,2023-06-25,Organic,Cancelled,Delhi,0
+ORD02272,CUST0373,2023-05-19,Paid Search,Delivered,Delhi,0
+ORD02273,CUST0032,2022-01-22,Social Media,Delivered,Jaipur,0
+ORD02274,CUST0366,2023-02-17,Organic,Delivered,Mumbai,10
+ORD02275,CUST0061,2023-02-20,Social Media,Cancelled,Pune,0
+ORD02276,CUST0291,2023-10-05,Organic,Delivered,Jaipur,5
+ORD02277,CUST0345,2023-06-29,Paid Search,Delivered,Bangalore,15
+ORD02278,CUST0483,2023-07-15,Organic,Delivered,Pune,10
+ORD02279,CUST0113,2022-09-13,Direct,Delivered,Kolkata,0
+ORD02280,CUST0340,2023-09-11,Social Media,Returned,Delhi,0
+ORD02281,CUST0326,2022-09-24,Paid Search,Delivered,Indore,0
+ORD02282,CUST0212,2023-02-25,Paid Search,Processing,Bangalore,10
+ORD02283,CUST0129,2022-10-18,Paid Search,Delivered,Chennai,0
+ORD02284,CUST0137,2023-10-22,Organic,Returned,Pune,0
+ORD02285,CUST0260,2022-06-05,Social Media,Delivered,Delhi,0
+ORD02286,CUST0493,2023-02-05,Paid Search,Cancelled,Chennai,5
+ORD02287,CUST0167,2022-05-20,Direct,Delivered,Delhi,0
+ORD02288,CUST0005,2022-10-29,Social Media,Processing,Hyderabad,10
+ORD02289,CUST0283,2023-12-20,Social Media,Processing,Chennai,15
+ORD02290,CUST0178,2023-08-02,Social Media,Cancelled,Chennai,0
+ORD02291,CUST0032,2023-04-21,Paid Search,Delivered,Jaipur,0
+ORD02292,CUST0288,2022-09-06,Organic,Delivered,Delhi,15
+ORD02293,CUST0463,2022-05-11,Organic,Cancelled,Chennai,10
+ORD02294,CUST0377,2023-03-16,Direct,Returned,Mumbai,0
+ORD02295,CUST0336,2022-07-01,Direct,Cancelled,Jaipur,0
+ORD02296,CUST0055,2023-09-29,Organic,Delivered,Delhi,15
+ORD02297,CUST0409,2023-10-03,Paid Search,Delivered,Chennai,0
+ORD02298,CUST0493,2023-03-08,Direct,Delivered,Chennai,0
+ORD02299,CUST0388,2022-04-14,Social Media,Delivered,Bangalore,5
+ORD02300,CUST0201,2023-03-05,Direct,Cancelled,Pune,0
+ORD02301,CUST0437,2023-07-13,Paid Search,Delivered,Indore,0
+ORD02302,CUST0328,2022-08-01,Direct,Delivered,Bangalore,10
+ORD02303,CUST0248,2022-11-05,Paid Search,Delivered,Bangalore,0
+ORD02304,CUST0158,2023-03-06,Organic,Returned,Delhi,5
+ORD02305,CUST0084,2023-01-01,Organic,Delivered,Chennai,15
+ORD02306,CUST0420,2022-04-01,Social Media,Delivered,Ahmedabad,0
+ORD02307,CUST0282,2022-03-24,Organic,Delivered,Ahmedabad,0
+ORD02308,CUST0173,2023-11-25,Email,Delivered,Pune,10
+ORD02309,CUST0411,2023-03-06,Paid Search,Cancelled,Jaipur,0
+ORD02310,CUST0434,2022-04-11,Organic,Delivered,Bangalore,0
+ORD02311,CUST0101,2023-11-04,Organic,Cancelled,Mumbai,0
+ORD02312,CUST0160,2023-09-18,Organic,Delivered,Chennai,15
+ORD02313,CUST0104,2022-06-17,Organic,Delivered,Delhi,10
+ORD02314,CUST0319,2023-09-11,Organic,Delivered,Chennai,0
+ORD02315,CUST0153,2023-05-02,Organic,Delivered,Kolkata,15
+ORD02316,CUST0302,2023-04-23,Direct,Returned,Hyderabad,0
+ORD02317,CUST0385,2022-02-22,Paid Search,Processing,Bangalore,5
+ORD02318,CUST0472,2022-01-10,Organic,Delivered,Pune,0
+ORD02319,CUST0272,2022-06-19,Paid Search,Delivered,Bangalore,10
+ORD02320,CUST0445,2023-03-31,Organic,Delivered,Ahmedabad,0
+ORD02321,CUST0117,2023-04-25,Organic,Delivered,Kolkata,15
+ORD02322,CUST0057,2023-09-23,Social Media,Cancelled,Kolkata,10
+ORD02323,CUST0252,2022-05-04,Email,Delivered,Bangalore,5
+ORD02324,CUST0461,2022-01-08,Social Media,Delivered,Pune,15
+ORD02325,CUST0402,2022-12-27,Organic,Delivered,Hyderabad,0
+ORD02326,CUST0494,2022-07-10,Paid Search,Delivered,Kolkata,5
+ORD02327,CUST0391,2023-01-27,Paid Search,Delivered,Ahmedabad,5
+ORD02328,CUST0183,2022-03-09,Social Media,Processing,Hyderabad,0
+ORD02329,CUST0165,2022-02-26,Paid Search,Delivered,Indore,0
+ORD02330,CUST0038,2022-01-05,Paid Search,Processing,Bangalore,15
+ORD02331,CUST0435,2022-08-05,Social Media,Delivered,Kolkata,0
+ORD02332,CUST0278,2022-10-27,Organic,Delivered,Ahmedabad,0
+ORD02333,CUST0218,2023-09-08,Organic,Cancelled,Hyderabad,0
+ORD02334,CUST0052,2023-01-13,Paid Search,Delivered,Pune,15
+ORD02335,CUST0199,2023-12-17,Organic,Delivered,Indore,10
+ORD02336,CUST0282,2022-04-03,Paid Search,Returned,Ahmedabad,0
+ORD02337,CUST0216,2022-09-23,Email,Delivered,Indore,5
+ORD02338,CUST0242,2022-09-10,Direct,Delivered,Pune,10
+ORD02339,CUST0169,2022-04-11,Paid Search,Delivered,Kolkata,10
+ORD02340,CUST0186,2022-09-23,Direct,Delivered,Mumbai,15
+ORD02341,CUST0083,2022-08-21,Paid Search,Delivered,Bangalore,0
+ORD02342,CUST0073,2022-02-07,Organic,Delivered,Jaipur,10
+ORD02343,CUST0197,2022-09-27,Paid Search,Delivered,Mumbai,0
+ORD02344,CUST0117,2023-06-27,Organic,Delivered,Kolkata,0
+ORD02345,CUST0258,2022-11-29,Organic,Delivered,Pune,0
+ORD02346,CUST0076,2023-04-07,Email,Processing,Kolkata,5
+ORD02347,CUST0129,2022-05-20,Social Media,Delivered,Chennai,0
+ORD02348,CUST0245,2022-03-11,Email,Processing,Chennai,5
+ORD02349,CUST0355,2022-05-22,Direct,Delivered,Hyderabad,10
+ORD02350,CUST0209,2023-11-19,Paid Search,Cancelled,Bangalore,10
+ORD02351,CUST0303,2023-11-27,Social Media,Returned,Jaipur,0
+ORD02352,CUST0178,2022-01-27,Social Media,Delivered,Chennai,0
+ORD02353,CUST0220,2022-09-21,Organic,Delivered,Mumbai,0
+ORD02354,CUST0231,2022-03-01,Email,Delivered,Ahmedabad,0
+ORD02355,CUST0442,2022-01-29,Social Media,Delivered,Pune,0
+ORD02356,CUST0441,2023-02-17,Organic,Delivered,Delhi,0
+ORD02357,CUST0076,2023-05-09,Email,Returned,Kolkata,0
+ORD02358,CUST0455,2023-05-17,Paid Search,Delivered,Ahmedabad,0
+ORD02359,CUST0059,2022-10-23,Social Media,Delivered,Kolkata,0
+ORD02360,CUST0490,2023-08-16,Social Media,Returned,Ahmedabad,0
+ORD02361,CUST0461,2022-07-04,Organic,Processing,Pune,0
+ORD02362,CUST0254,2022-03-21,Social Media,Cancelled,Mumbai,5
+ORD02363,CUST0453,2022-01-20,Paid Search,Delivered,Indore,0
+ORD02364,CUST0006,2022-02-03,Organic,Returned,Kolkata,0
+ORD02365,CUST0296,2022-08-18,Email,Delivered,Bangalore,0
+ORD02366,CUST0222,2022-09-05,Organic,Delivered,Pune,15
+ORD02367,CUST0388,2022-11-29,Social Media,Delivered,Bangalore,10
+ORD02368,CUST0310,2022-08-13,Email,Processing,Delhi,5
+ORD02369,CUST0441,2022-03-31,Organic,Delivered,Delhi,0
+ORD02370,CUST0153,2023-07-31,Paid Search,Delivered,Kolkata,0
+ORD02371,CUST0330,2022-11-08,Paid Search,Delivered,Delhi,10
+ORD02372,CUST0371,2022-01-01,Email,Processing,Bangalore,5
+ORD02373,CUST0006,2023-11-13,Direct,Returned,Kolkata,10
+ORD02374,CUST0085,2022-07-10,Paid Search,Returned,Chennai,0
+ORD02375,CUST0318,2022-02-03,Direct,Delivered,Chennai,0
+ORD02376,CUST0127,2022-07-31,Organic,Delivered,Indore,0
+ORD02377,CUST0413,2022-12-06,Social Media,Delivered,Kolkata,0
+ORD02378,CUST0350,2022-02-04,Social Media,Returned,Mumbai,10
+ORD02379,CUST0402,2022-08-02,Organic,Cancelled,Hyderabad,0
+ORD02380,CUST0471,2022-06-17,Organic,Delivered,Indore,15
+ORD02381,CUST0065,2022-10-03,Organic,Returned,Mumbai,10
+ORD02382,CUST0308,2023-09-22,Organic,Processing,Bangalore,5
+ORD02383,CUST0247,2023-04-16,Organic,Cancelled,Delhi,5
+ORD02384,CUST0329,2022-04-06,Paid Search,Processing,Pune,0
+ORD02385,CUST0093,2023-02-10,Paid Search,Delivered,Ahmedabad,5
+ORD02386,CUST0164,2022-06-04,Email,Cancelled,Ahmedabad,5
+ORD02387,CUST0003,2023-08-08,Direct,Cancelled,Kolkata,0
+ORD02388,CUST0032,2022-07-15,Organic,Delivered,Jaipur,0
+ORD02389,CUST0163,2022-04-07,Organic,Delivered,Jaipur,0
+ORD02390,CUST0431,2022-02-20,Organic,Delivered,Chennai,0
+ORD02391,CUST0441,2022-05-15,Social Media,Delivered,Delhi,0
+ORD02392,CUST0165,2023-12-19,Organic,Cancelled,Indore,0
+ORD02393,CUST0396,2023-07-10,Social Media,Returned,Pune,0
+ORD02394,CUST0302,2023-07-26,Direct,Delivered,Hyderabad,5
+ORD02395,CUST0492,2023-03-20,Social Media,Returned,Jaipur,0
+ORD02396,CUST0099,2023-07-09,Social Media,Delivered,Hyderabad,5
+ORD02397,CUST0404,2022-06-26,Social Media,Delivered,Mumbai,0
+ORD02398,CUST0300,2022-06-22,Social Media,Delivered,Indore,0
+ORD02399,CUST0087,2023-07-23,Direct,Delivered,Hyderabad,0
+ORD02400,CUST0181,2023-11-11,Organic,Delivered,Hyderabad,10
+ORD02401,CUST0047,2022-06-23,Organic,Delivered,Delhi,0
+ORD02402,CUST0404,2022-01-14,Organic,Delivered,Mumbai,0
+ORD02403,CUST0185,2023-03-17,Paid Search,Delivered,Pune,0
+ORD02404,CUST0119,2023-09-22,Email,Delivered,Bangalore,0
+ORD02405,CUST0190,2022-07-25,Paid Search,Delivered,Chennai,0
+ORD02406,CUST0196,2022-01-06,Direct,Processing,Bangalore,0
+ORD02407,CUST0249,2023-11-06,Paid Search,Delivered,Chennai,15
+ORD02408,CUST0215,2022-02-26,Paid Search,Delivered,Ahmedabad,15
+ORD02409,CUST0167,2022-08-22,Organic,Returned,Delhi,15
+ORD02410,CUST0106,2022-07-22,Paid Search,Delivered,Chennai,5
+ORD02411,CUST0051,2023-02-03,Organic,Delivered,Pune,5
+ORD02412,CUST0338,2023-02-02,Organic,Cancelled,Chennai,0
+ORD02413,CUST0093,2023-10-01,Paid Search,Delivered,Ahmedabad,0
+ORD02414,CUST0168,2022-12-15,Social Media,Delivered,Bangalore,0
+ORD02415,CUST0318,2023-09-23,Social Media,Delivered,Chennai,0
+ORD02416,CUST0113,2023-04-01,Organic,Delivered,Kolkata,0
+ORD02417,CUST0400,2022-12-10,Paid Search,Delivered,Pune,10
+ORD02418,CUST0184,2022-10-28,Email,Delivered,Hyderabad,10
+ORD02419,CUST0353,2023-04-24,Paid Search,Delivered,Ahmedabad,0
+ORD02420,CUST0491,2022-01-04,Social Media,Delivered,Pune,15
+ORD02421,CUST0201,2022-10-13,Social Media,Delivered,Pune,0
+ORD02422,CUST0245,2023-07-01,Social Media,Delivered,Chennai,5
+ORD02423,CUST0326,2023-02-25,Organic,Delivered,Indore,10
+ORD02424,CUST0142,2022-08-06,Organic,Returned,Delhi,15
+ORD02425,CUST0435,2023-04-24,Email,Delivered,Kolkata,0
+ORD02426,CUST0153,2023-12-12,Paid Search,Delivered,Kolkata,10
+ORD02427,CUST0018,2022-03-03,Direct,Delivered,Mumbai,0
+ORD02428,CUST0158,2022-12-09,Paid Search,Returned,Delhi,10
+ORD02429,CUST0011,2022-10-25,Email,Delivered,Delhi,0
+ORD02430,CUST0362,2022-09-11,Organic,Delivered,Ahmedabad,5
+ORD02431,CUST0012,2023-02-19,Direct,Delivered,Pune,0
+ORD02432,CUST0329,2022-10-15,Organic,Delivered,Pune,10
+ORD02433,CUST0260,2023-03-18,Paid Search,Delivered,Delhi,0
+ORD02434,CUST0294,2023-03-01,Email,Delivered,Delhi,15
+ORD02435,CUST0388,2023-05-09,Paid Search,Delivered,Bangalore,15
+ORD02436,CUST0072,2022-05-01,Paid Search,Delivered,Indore,0
+ORD02437,CUST0227,2022-01-31,Email,Delivered,Jaipur,0
+ORD02438,CUST0099,2023-08-18,Social Media,Delivered,Hyderabad,15
+ORD02439,CUST0477,2022-06-13,Email,Processing,Delhi,0
+ORD02440,CUST0378,2022-01-07,Paid Search,Delivered,Jaipur,0
+ORD02441,CUST0357,2023-08-29,Social Media,Delivered,Pune,0
+ORD02442,CUST0328,2023-09-08,Paid Search,Returned,Bangalore,10
+ORD02443,CUST0231,2022-01-28,Paid Search,Delivered,Ahmedabad,0
+ORD02444,CUST0272,2022-06-16,Email,Delivered,Bangalore,0
+ORD02445,CUST0401,2023-12-12,Email,Delivered,Ahmedabad,5
+ORD02446,CUST0441,2022-01-06,Social Media,Delivered,Delhi,0
+ORD02447,CUST0053,2023-01-24,Direct,Delivered,Hyderabad,15
+ORD02448,CUST0001,2022-07-24,Organic,Delivered,Delhi,0
+ORD02449,CUST0229,2022-02-19,Social Media,Delivered,Delhi,15
+ORD02450,CUST0082,2023-02-16,Social Media,Delivered,Hyderabad,0
+ORD02451,CUST0427,2022-11-03,Direct,Delivered,Indore,10
+ORD02452,CUST0495,2022-12-14,Paid Search,Delivered,Jaipur,0
+ORD02453,CUST0002,2023-03-10,Social Media,Cancelled,Hyderabad,0
+ORD02454,CUST0410,2023-04-29,Organic,Delivered,Kolkata,0
+ORD02455,CUST0030,2023-10-13,Organic,Cancelled,Pune,0
+ORD02456,CUST0112,2022-11-30,Paid Search,Processing,Hyderabad,15
+ORD02457,CUST0006,2022-10-30,Social Media,Delivered,Kolkata,5
+ORD02458,CUST0300,2022-04-03,Paid Search,Delivered,Indore,10
+ORD02459,CUST0232,2023-02-19,Social Media,Delivered,Mumbai,5
+ORD02460,CUST0068,2022-10-28,Organic,Returned,Chennai,15
+ORD02461,CUST0181,2022-12-30,Paid Search,Delivered,Hyderabad,0
+ORD02462,CUST0418,2023-03-27,Organic,Delivered,Jaipur,5
+ORD02463,CUST0280,2022-05-31,Direct,Delivered,Bangalore,5
+ORD02464,CUST0266,2023-01-14,Organic,Delivered,Hyderabad,0
+ORD02465,CUST0196,2023-02-17,Paid Search,Delivered,Bangalore,0
+ORD02466,CUST0419,2023-05-12,Organic,Delivered,Delhi,10
+ORD02467,CUST0095,2022-06-19,Paid Search,Delivered,Hyderabad,5
+ORD02468,CUST0097,2022-12-20,Email,Delivered,Ahmedabad,15
+ORD02469,CUST0111,2022-11-25,Paid Search,Delivered,Ahmedabad,10
+ORD02470,CUST0155,2022-05-05,Organic,Delivered,Ahmedabad,0
+ORD02471,CUST0049,2022-12-02,Email,Processing,Pune,10
+ORD02472,CUST0065,2023-02-17,Organic,Delivered,Mumbai,0
+ORD02473,CUST0335,2023-11-06,Email,Processing,Kolkata,0
+ORD02474,CUST0437,2022-02-04,Organic,Delivered,Indore,0
+ORD02475,CUST0165,2022-06-05,Social Media,Delivered,Indore,15
+ORD02476,CUST0403,2023-11-15,Paid Search,Processing,Pune,15
+ORD02477,CUST0266,2022-07-07,Organic,Delivered,Hyderabad,5
+ORD02478,CUST0312,2022-04-15,Organic,Processing,Kolkata,10
+ORD02479,CUST0206,2023-07-01,Organic,Delivered,Pune,0
+ORD02480,CUST0230,2023-09-23,Social Media,Processing,Hyderabad,0
+ORD02481,CUST0435,2022-01-07,Paid Search,Delivered,Kolkata,0
+ORD02482,CUST0337,2022-07-18,Organic,Delivered,Ahmedabad,5
+ORD02483,CUST0038,2023-05-24,Organic,Delivered,Bangalore,15
+ORD02484,CUST0356,2022-12-08,Organic,Delivered,Delhi,0
+ORD02485,CUST0021,2022-07-14,Paid Search,Processing,Pune,0
+ORD02486,CUST0312,2022-01-01,Paid Search,Processing,Kolkata,5
+ORD02487,CUST0034,2022-01-06,Organic,Delivered,Chennai,0
+ORD02488,CUST0248,2023-12-13,Direct,Delivered,Bangalore,0
+ORD02489,CUST0197,2022-07-17,Social Media,Delivered,Mumbai,0
+ORD02490,CUST0380,2022-03-22,Direct,Delivered,Pune,0
+ORD02491,CUST0410,2023-09-27,Social Media,Cancelled,Kolkata,0
+ORD02492,CUST0026,2022-10-19,Organic,Returned,Kolkata,0
+ORD02493,CUST0160,2022-11-23,Direct,Processing,Chennai,0
+ORD02494,CUST0077,2022-07-02,Social Media,Delivered,Bangalore,10
+ORD02495,CUST0202,2022-06-14,Social Media,Cancelled,Pune,10
+ORD02496,CUST0205,2023-12-02,Organic,Delivered,Mumbai,10
+ORD02497,CUST0165,2022-06-11,Social Media,Delivered,Indore,0
+ORD02498,CUST0176,2023-03-04,Direct,Delivered,Jaipur,5
+ORD02499,CUST0436,2022-01-22,Email,Delivered,Delhi,0
+ORD02500,CUST0369,2023-09-12,Direct,Delivered,Kolkata,10
+ORD02501,CUST0430,2023-12-11,Organic,Delivered,Pune,0
+ORD02502,CUST0050,2022-12-10,Organic,Delivered,Kolkata,5
+ORD02503,CUST0062,2022-04-25,Social Media,Delivered,Jaipur,0
+ORD02504,CUST0348,2022-01-08,Paid Search,Delivered,Bangalore,15
+ORD02505,CUST0396,2022-05-21,Email,Delivered,Pune,15
+ORD02506,CUST0294,2022-12-14,Paid Search,Returned,Delhi,5
+ORD02507,CUST0447,2023-02-22,Email,Delivered,Chennai,0
+ORD02508,CUST0500,2022-01-14,Organic,Delivered,Hyderabad,0
+ORD02509,CUST0249,2023-07-23,Paid Search,Delivered,Chennai,0
+ORD02510,CUST0203,2022-09-02,Organic,Delivered,Chennai,15
+ORD02511,CUST0137,2022-01-09,Direct,Delivered,Pune,10
+ORD02512,CUST0085,2022-03-02,Organic,Delivered,Chennai,10
+ORD02513,CUST0081,2023-12-07,Email,Delivered,Bangalore,15
+ORD02514,CUST0119,2022-04-25,Organic,Delivered,Bangalore,5
+ORD02515,CUST0442,2023-04-20,Direct,Delivered,Pune,0
+ORD02516,CUST0488,2022-05-21,Paid Search,Delivered,Jaipur,10
+ORD02517,CUST0356,2022-10-20,Organic,Delivered,Delhi,10
+ORD02518,CUST0305,2023-02-03,Organic,Cancelled,Chennai,0
+ORD02519,CUST0081,2022-06-21,Social Media,Delivered,Bangalore,15
+ORD02520,CUST0121,2023-02-23,Paid Search,Delivered,Bangalore,10
+ORD02521,CUST0016,2023-04-04,Paid Search,Delivered,Ahmedabad,5
+ORD02522,CUST0009,2022-05-15,Direct,Delivered,Bangalore,0
+ORD02523,CUST0192,2022-07-23,Paid Search,Delivered,Ahmedabad,15
+ORD02524,CUST0217,2023-05-24,Paid Search,Delivered,Delhi,5
+ORD02525,CUST0032,2023-01-18,Paid Search,Delivered,Jaipur,10
+ORD02526,CUST0227,2023-08-04,Direct,Delivered,Jaipur,0
+ORD02527,CUST0416,2022-11-24,Paid Search,Delivered,Mumbai,15
+ORD02528,CUST0295,2023-06-29,Paid Search,Delivered,Pune,0
+ORD02529,CUST0100,2022-11-27,Paid Search,Delivered,Chennai,0
+ORD02530,CUST0396,2022-07-10,Paid Search,Delivered,Pune,15
+ORD02531,CUST0136,2022-09-08,Social Media,Delivered,Indore,0
+ORD02532,CUST0309,2023-01-04,Direct,Delivered,Kolkata,15
+ORD02533,CUST0403,2023-11-30,Direct,Delivered,Pune,0
+ORD02534,CUST0445,2023-07-29,Email,Returned,Ahmedabad,5
+ORD02535,CUST0441,2023-08-31,Paid Search,Cancelled,Delhi,10
+ORD02536,CUST0115,2023-07-02,Organic,Delivered,Mumbai,0
+ORD02537,CUST0353,2022-01-01,Social Media,Delivered,Ahmedabad,0
+ORD02538,CUST0143,2022-10-28,Paid Search,Delivered,Hyderabad,10
+ORD02539,CUST0456,2023-09-15,Social Media,Delivered,Bangalore,0
+ORD02540,CUST0169,2022-10-03,Direct,Delivered,Kolkata,5
+ORD02541,CUST0319,2022-03-13,Organic,Delivered,Chennai,5
+ORD02542,CUST0110,2023-11-21,Email,Processing,Kolkata,15
+ORD02543,CUST0253,2023-04-06,Paid Search,Delivered,Kolkata,15
+ORD02544,CUST0374,2023-05-05,Email,Delivered,Bangalore,10
+ORD02545,CUST0027,2022-09-01,Paid Search,Delivered,Mumbai,0
+ORD02546,CUST0373,2022-02-08,Organic,Cancelled,Delhi,0
+ORD02547,CUST0243,2023-01-11,Paid Search,Delivered,Pune,0
+ORD02548,CUST0008,2022-02-10,Organic,Delivered,Ahmedabad,0
+ORD02549,CUST0453,2022-09-26,Paid Search,Delivered,Indore,5
+ORD02550,CUST0268,2022-08-11,Paid Search,Processing,Ahmedabad,0
+ORD02551,CUST0219,2022-02-05,Direct,Delivered,Ahmedabad,15
+ORD02552,CUST0397,2023-03-23,Email,Processing,Hyderabad,0
+ORD02553,CUST0052,2022-06-10,Direct,Delivered,Pune,10
+ORD02554,CUST0288,2022-12-14,Organic,Delivered,Delhi,15
+ORD02555,CUST0380,2023-12-17,Email,Processing,Pune,15
+ORD02556,CUST0154,2022-06-26,Email,Delivered,Chennai,15
+ORD02557,CUST0434,2023-06-10,Organic,Delivered,Bangalore,10
+ORD02558,CUST0030,2022-12-04,Organic,Delivered,Pune,15
+ORD02559,CUST0131,2023-08-13,Email,Delivered,Jaipur,10
+ORD02560,CUST0386,2023-11-27,Paid Search,Delivered,Chennai,5
+ORD02561,CUST0124,2022-01-04,Organic,Delivered,Kolkata,10
+ORD02562,CUST0206,2022-05-16,Paid Search,Delivered,Pune,0
+ORD02563,CUST0231,2023-12-02,Direct,Processing,Ahmedabad,0
+ORD02564,CUST0052,2022-06-26,Organic,Delivered,Pune,10
+ORD02565,CUST0403,2023-03-01,Organic,Delivered,Pune,5
+ORD02566,CUST0167,2022-04-20,Direct,Delivered,Delhi,10
+ORD02567,CUST0242,2022-10-31,Email,Returned,Pune,0
+ORD02568,CUST0209,2023-07-02,Email,Returned,Bangalore,0
+ORD02569,CUST0491,2022-09-09,Email,Delivered,Pune,0
+ORD02570,CUST0089,2022-02-16,Social Media,Delivered,Mumbai,0
+ORD02571,CUST0036,2022-08-06,Social Media,Delivered,Bangalore,0
+ORD02572,CUST0249,2023-08-13,Direct,Delivered,Chennai,0
+ORD02573,CUST0139,2023-06-24,Paid Search,Delivered,Mumbai,0
+ORD02574,CUST0386,2023-01-22,Paid Search,Delivered,Chennai,0
+ORD02575,CUST0455,2022-12-11,Social Media,Delivered,Ahmedabad,0
+ORD02576,CUST0316,2022-09-14,Direct,Returned,Bangalore,0
+ORD02577,CUST0500,2022-05-24,Email,Delivered,Hyderabad,0
+ORD02578,CUST0117,2022-04-09,Social Media,Delivered,Kolkata,10
+ORD02579,CUST0035,2023-06-10,Email,Delivered,Ahmedabad,10
+ORD02580,CUST0164,2023-10-19,Organic,Delivered,Ahmedabad,0
+ORD02581,CUST0016,2023-10-21,Email,Returned,Ahmedabad,0
+ORD02582,CUST0150,2023-06-13,Direct,Delivered,Kolkata,0
+ORD02583,CUST0094,2023-08-28,Direct,Delivered,Indore,0
+ORD02584,CUST0240,2023-07-08,Organic,Delivered,Chennai,0
+ORD02585,CUST0160,2023-03-01,Paid Search,Delivered,Chennai,0
+ORD02586,CUST0372,2022-05-28,Organic,Delivered,Chennai,10
+ORD02587,CUST0453,2022-06-25,Email,Delivered,Indore,15
+ORD02588,CUST0422,2022-10-07,Email,Processing,Kolkata,10
+ORD02589,CUST0322,2023-04-01,Social Media,Delivered,Kolkata,10
+ORD02590,CUST0432,2023-04-09,Organic,Delivered,Jaipur,0
+ORD02591,CUST0030,2023-07-26,Email,Delivered,Pune,0
+ORD02592,CUST0259,2022-09-27,Direct,Processing,Chennai,15
+ORD02593,CUST0122,2023-08-31,Direct,Returned,Mumbai,10
+ORD02594,CUST0046,2023-07-15,Direct,Delivered,Kolkata,10
+ORD02595,CUST0330,2023-02-01,Email,Returned,Delhi,0
+ORD02596,CUST0424,2023-05-16,Paid Search,Delivered,Kolkata,10
+ORD02597,CUST0448,2022-05-02,Social Media,Delivered,Chennai,0
+ORD02598,CUST0285,2022-05-28,Paid Search,Delivered,Kolkata,15
+ORD02599,CUST0462,2023-04-11,Email,Delivered,Ahmedabad,5
+ORD02600,CUST0236,2023-06-08,Direct,Processing,Hyderabad,0
+ORD02601,CUST0007,2023-05-14,Email,Delivered,Kolkata,0
+ORD02602,CUST0324,2022-02-13,Paid Search,Delivered,Hyderabad,10
+ORD02603,CUST0346,2022-08-16,Paid Search,Delivered,Ahmedabad,10
+ORD02604,CUST0498,2022-03-20,Direct,Delivered,Jaipur,15
+ORD02605,CUST0332,2022-11-27,Paid Search,Processing,Bangalore,0
+ORD02606,CUST0322,2023-02-07,Organic,Delivered,Kolkata,5
+ORD02607,CUST0229,2023-07-05,Direct,Delivered,Delhi,0
+ORD02608,CUST0137,2023-01-01,Direct,Delivered,Pune,0
+ORD02609,CUST0439,2023-03-14,Paid Search,Processing,Delhi,10
+ORD02610,CUST0389,2023-05-26,Paid Search,Processing,Kolkata,0
+ORD02611,CUST0470,2022-06-14,Organic,Delivered,Pune,10
+ORD02612,CUST0364,2022-02-08,Organic,Delivered,Bangalore,15
+ORD02613,CUST0329,2022-06-17,Paid Search,Delivered,Pune,15
+ORD02614,CUST0282,2022-12-22,Paid Search,Delivered,Ahmedabad,5
+ORD02615,CUST0407,2023-01-29,Email,Delivered,Bangalore,15
+ORD02616,CUST0333,2022-03-26,Paid Search,Delivered,Pune,0
+ORD02617,CUST0263,2023-11-12,Social Media,Delivered,Chennai,0
+ORD02618,CUST0117,2022-11-04,Social Media,Delivered,Kolkata,10
+ORD02619,CUST0356,2023-05-14,Social Media,Delivered,Delhi,0
+ORD02620,CUST0327,2022-09-05,Email,Delivered,Bangalore,15
+ORD02621,CUST0016,2023-08-12,Social Media,Delivered,Ahmedabad,5
+ORD02622,CUST0383,2023-01-22,Organic,Delivered,Delhi,5
+ORD02623,CUST0069,2022-05-12,Direct,Delivered,Kolkata,10
+ORD02624,CUST0038,2022-08-02,Paid Search,Delivered,Bangalore,0
+ORD02625,CUST0037,2022-12-02,Paid Search,Delivered,Mumbai,0
+ORD02626,CUST0316,2022-06-18,Direct,Delivered,Bangalore,0
+ORD02627,CUST0223,2022-11-11,Paid Search,Delivered,Jaipur,10
+ORD02628,CUST0251,2022-05-12,Email,Delivered,Hyderabad,15
+ORD02629,CUST0183,2023-08-20,Paid Search,Delivered,Hyderabad,0
+ORD02630,CUST0312,2022-02-16,Direct,Processing,Kolkata,10
+ORD02631,CUST0002,2022-07-03,Email,Delivered,Hyderabad,0
+ORD02632,CUST0449,2023-07-17,Direct,Delivered,Mumbai,0
+ORD02633,CUST0034,2022-09-16,Email,Delivered,Chennai,15
+ORD02634,CUST0425,2022-07-22,Organic,Delivered,Delhi,10
+ORD02635,CUST0265,2023-04-23,Direct,Delivered,Ahmedabad,0
+ORD02636,CUST0125,2023-03-28,Social Media,Delivered,Ahmedabad,10
+ORD02637,CUST0052,2023-12-15,Social Media,Delivered,Pune,0
+ORD02638,CUST0274,2023-02-27,Direct,Delivered,Jaipur,10
+ORD02639,CUST0234,2022-04-10,Social Media,Delivered,Chennai,0
+ORD02640,CUST0155,2022-05-12,Paid Search,Delivered,Ahmedabad,0
+ORD02641,CUST0337,2022-07-22,Email,Delivered,Ahmedabad,0
+ORD02642,CUST0381,2022-07-20,Organic,Delivered,Jaipur,0
+ORD02643,CUST0491,2023-05-30,Direct,Cancelled,Pune,0
+ORD02644,CUST0148,2022-04-08,Email,Delivered,Kolkata,5
+ORD02645,CUST0019,2022-04-16,Email,Delivered,Delhi,0
+ORD02646,CUST0458,2022-09-13,Social Media,Delivered,Jaipur,0
+ORD02647,CUST0017,2022-11-24,Organic,Delivered,Ahmedabad,0
+ORD02648,CUST0072,2023-11-02,Direct,Delivered,Indore,0
+ORD02649,CUST0059,2022-08-01,Organic,Delivered,Kolkata,0
+ORD02650,CUST0093,2023-06-14,Organic,Delivered,Ahmedabad,0
+ORD02651,CUST0065,2022-08-10,Paid Search,Returned,Mumbai,10
+ORD02652,CUST0089,2022-09-28,Email,Delivered,Mumbai,10
+ORD02653,CUST0326,2023-11-18,Social Media,Delivered,Indore,15
+ORD02654,CUST0426,2022-08-26,Organic,Delivered,Kolkata,5
+ORD02655,CUST0289,2022-03-09,Direct,Delivered,Ahmedabad,0
+ORD02656,CUST0318,2023-03-03,Email,Delivered,Chennai,0
+ORD02657,CUST0082,2022-10-23,Paid Search,Delivered,Hyderabad,0
+ORD02658,CUST0358,2023-12-07,Social Media,Delivered,Chennai,0
+ORD02659,CUST0387,2023-02-02,Organic,Delivered,Delhi,0
+ORD02660,CUST0479,2023-03-05,Social Media,Delivered,Kolkata,0
+ORD02661,CUST0147,2023-02-25,Organic,Delivered,Delhi,5
+ORD02662,CUST0276,2022-05-31,Social Media,Delivered,Chennai,10
+ORD02663,CUST0050,2022-12-29,Organic,Delivered,Kolkata,10
+ORD02664,CUST0356,2023-04-18,Organic,Delivered,Delhi,0
+ORD02665,CUST0067,2023-01-24,Social Media,Returned,Pune,0
+ORD02666,CUST0141,2023-07-04,Organic,Cancelled,Indore,5
+ORD02667,CUST0061,2022-05-15,Paid Search,Delivered,Pune,0
+ORD02668,CUST0204,2022-07-08,Email,Processing,Chennai,15
+ORD02669,CUST0152,2022-12-19,Organic,Delivered,Ahmedabad,10
+ORD02670,CUST0111,2023-02-09,Organic,Delivered,Ahmedabad,0
+ORD02671,CUST0467,2023-01-28,Social Media,Delivered,Mumbai,15
+ORD02672,CUST0456,2023-07-18,Organic,Delivered,Bangalore,0
+ORD02673,CUST0087,2022-12-25,Paid Search,Delivered,Hyderabad,10
+ORD02674,CUST0140,2023-08-23,Email,Delivered,Pune,0
+ORD02675,CUST0498,2022-10-06,Paid Search,Delivered,Jaipur,0
+ORD02676,CUST0274,2022-04-13,Social Media,Delivered,Jaipur,0
+ORD02677,CUST0443,2023-03-21,Direct,Cancelled,Ahmedabad,0
+ORD02678,CUST0297,2023-11-02,Organic,Returned,Jaipur,15
+ORD02679,CUST0458,2022-02-09,Email,Delivered,Jaipur,5
+ORD02680,CUST0469,2023-07-12,Direct,Cancelled,Hyderabad,10
+ORD02681,CUST0127,2022-10-26,Email,Delivered,Indore,15
+ORD02682,CUST0284,2022-09-25,Paid Search,Delivered,Chennai,0
+ORD02683,CUST0290,2023-11-19,Email,Cancelled,Chennai,0
+ORD02684,CUST0472,2023-07-11,Organic,Delivered,Pune,0
+ORD02685,CUST0401,2023-12-24,Social Media,Cancelled,Ahmedabad,0
+ORD02686,CUST0156,2023-04-21,Direct,Delivered,Jaipur,15
+ORD02687,CUST0149,2022-04-05,Email,Delivered,Pune,15
+ORD02688,CUST0163,2022-05-20,Organic,Delivered,Jaipur,10
+ORD02689,CUST0441,2023-03-15,Organic,Returned,Delhi,0
+ORD02690,CUST0256,2022-11-05,Direct,Delivered,Delhi,10
+ORD02691,CUST0087,2022-09-13,Paid Search,Delivered,Hyderabad,15
+ORD02692,CUST0472,2022-12-10,Paid Search,Delivered,Pune,15
+ORD02693,CUST0035,2023-02-21,Organic,Delivered,Ahmedabad,15
+ORD02694,CUST0458,2022-03-18,Social Media,Delivered,Jaipur,15
+ORD02695,CUST0479,2023-12-26,Social Media,Delivered,Kolkata,0
+ORD02696,CUST0260,2023-08-07,Paid Search,Delivered,Delhi,15
+ORD02697,CUST0175,2023-03-20,Paid Search,Returned,Indore,0
+ORD02698,CUST0371,2022-03-30,Email,Delivered,Bangalore,0
+ORD02699,CUST0244,2022-01-24,Paid Search,Processing,Pune,0
+ORD02700,CUST0430,2022-08-16,Paid Search,Delivered,Pune,5
+ORD02701,CUST0134,2022-02-11,Organic,Delivered,Indore,5
+ORD02702,CUST0345,2022-10-06,Organic,Delivered,Bangalore,5
+ORD02703,CUST0087,2022-07-16,Paid Search,Returned,Hyderabad,0
+ORD02704,CUST0118,2022-05-27,Social Media,Delivered,Mumbai,10
+ORD02705,CUST0168,2022-06-09,Social Media,Delivered,Bangalore,0
+ORD02706,CUST0020,2023-07-22,Organic,Delivered,Indore,0
+ORD02707,CUST0178,2023-11-15,Direct,Returned,Chennai,0
+ORD02708,CUST0496,2023-03-30,Social Media,Delivered,Chennai,0
+ORD02709,CUST0061,2023-10-17,Social Media,Delivered,Pune,0
+ORD02710,CUST0009,2022-03-16,Paid Search,Delivered,Bangalore,15
+ORD02711,CUST0125,2022-11-05,Paid Search,Returned,Ahmedabad,10
+ORD02712,CUST0477,2023-11-03,Paid Search,Delivered,Delhi,15
+ORD02713,CUST0019,2022-06-29,Social Media,Delivered,Delhi,10
+ORD02714,CUST0012,2023-01-30,Paid Search,Cancelled,Pune,15
+ORD02715,CUST0345,2022-08-21,Social Media,Delivered,Bangalore,15
+ORD02716,CUST0129,2022-09-03,Email,Delivered,Chennai,0
+ORD02717,CUST0157,2023-12-16,Email,Delivered,Kolkata,15
+ORD02718,CUST0428,2023-03-06,Paid Search,Cancelled,Indore,10
+ORD02719,CUST0194,2022-03-10,Paid Search,Delivered,Mumbai,0
+ORD02720,CUST0388,2022-10-07,Paid Search,Delivered,Bangalore,5
+ORD02721,CUST0340,2023-07-28,Social Media,Delivered,Delhi,0
+ORD02722,CUST0113,2023-10-13,Paid Search,Delivered,Kolkata,5
+ORD02723,CUST0315,2022-06-14,Email,Delivered,Hyderabad,0
+ORD02724,CUST0346,2022-07-08,Direct,Delivered,Ahmedabad,0
+ORD02725,CUST0393,2022-02-02,Organic,Delivered,Jaipur,0
+ORD02726,CUST0308,2022-04-21,Paid Search,Returned,Bangalore,10
+ORD02727,CUST0428,2023-05-26,Paid Search,Delivered,Indore,0
+ORD02728,CUST0407,2022-12-13,Email,Delivered,Bangalore,10
+ORD02729,CUST0116,2022-02-17,Social Media,Delivered,Chennai,15
+ORD02730,CUST0227,2022-06-11,Paid Search,Delivered,Jaipur,0
+ORD02731,CUST0014,2022-11-06,Paid Search,Cancelled,Kolkata,0
+ORD02732,CUST0184,2023-12-02,Direct,Delivered,Hyderabad,0
+ORD02733,CUST0203,2022-08-15,Email,Processing,Chennai,0
+ORD02734,CUST0081,2023-05-28,Social Media,Processing,Bangalore,0
+ORD02735,CUST0095,2022-06-04,Organic,Delivered,Hyderabad,0
+ORD02736,CUST0123,2023-10-21,Social Media,Delivered,Hyderabad,5
+ORD02737,CUST0032,2022-01-03,Organic,Delivered,Jaipur,15
+ORD02738,CUST0221,2022-04-12,Email,Delivered,Pune,15
+ORD02739,CUST0189,2022-12-29,Social Media,Delivered,Indore,0
+ORD02740,CUST0407,2022-12-19,Organic,Processing,Bangalore,15
+ORD02741,CUST0239,2023-07-02,Paid Search,Delivered,Jaipur,15
+ORD02742,CUST0429,2022-09-08,Social Media,Processing,Indore,0
+ORD02743,CUST0468,2022-04-17,Paid Search,Delivered,Bangalore,5
+ORD02744,CUST0220,2022-12-15,Organic,Delivered,Mumbai,5
+ORD02745,CUST0065,2022-01-28,Email,Delivered,Mumbai,5
+ORD02746,CUST0209,2023-11-10,Email,Delivered,Bangalore,0
+ORD02747,CUST0036,2023-11-23,Paid Search,Delivered,Bangalore,5
+ORD02748,CUST0198,2023-10-07,Organic,Delivered,Ahmedabad,15
+ORD02749,CUST0300,2022-06-09,Organic,Returned,Indore,10
+ORD02750,CUST0146,2023-10-25,Organic,Delivered,Pune,0
+ORD02751,CUST0012,2022-02-11,Organic,Returned,Pune,0
+ORD02752,CUST0386,2023-07-05,Email,Delivered,Chennai,0
+ORD02753,CUST0177,2023-09-06,Direct,Returned,Jaipur,10
+ORD02754,CUST0338,2023-07-22,Paid Search,Delivered,Chennai,0
+ORD02755,CUST0471,2023-06-21,Organic,Delivered,Indore,0
+ORD02756,CUST0084,2023-12-19,Paid Search,Returned,Chennai,0
+ORD02757,CUST0094,2022-10-14,Direct,Delivered,Indore,0
+ORD02758,CUST0477,2023-01-31,Social Media,Delivered,Delhi,0
+ORD02759,CUST0363,2023-01-12,Paid Search,Delivered,Hyderabad,0
+ORD02760,CUST0491,2023-02-28,Paid Search,Delivered,Pune,0
+ORD02761,CUST0420,2023-11-20,Paid Search,Delivered,Ahmedabad,5
+ORD02762,CUST0365,2023-05-20,Email,Delivered,Mumbai,10
+ORD02763,CUST0399,2022-08-09,Organic,Delivered,Ahmedabad,0
+ORD02764,CUST0462,2022-01-05,Organic,Cancelled,Ahmedabad,5
+ORD02765,CUST0479,2023-12-18,Direct,Processing,Kolkata,15
+ORD02766,CUST0238,2022-05-21,Paid Search,Delivered,Jaipur,5
+ORD02767,CUST0333,2023-09-18,Paid Search,Delivered,Pune,0
+ORD02768,CUST0228,2023-10-23,Direct,Delivered,Chennai,0
+ORD02769,CUST0368,2023-02-09,Organic,Delivered,Indore,15
+ORD02770,CUST0219,2022-07-25,Organic,Delivered,Ahmedabad,0
+ORD02771,CUST0421,2022-02-20,Paid Search,Delivered,Chennai,10
+ORD02772,CUST0217,2023-04-08,Direct,Delivered,Delhi,10
+ORD02773,CUST0327,2022-03-29,Direct,Delivered,Bangalore,0
+ORD02774,CUST0457,2023-03-22,Direct,Cancelled,Mumbai,0
+ORD02775,CUST0427,2022-02-23,Organic,Delivered,Indore,0
+ORD02776,CUST0465,2023-08-01,Email,Processing,Chennai,0
+ORD02777,CUST0461,2022-12-06,Paid Search,Cancelled,Pune,15
+ORD02778,CUST0031,2023-07-08,Direct,Delivered,Indore,10
+ORD02779,CUST0388,2022-02-06,Organic,Delivered,Bangalore,0
+ORD02780,CUST0198,2023-06-06,Email,Delivered,Ahmedabad,15
+ORD02781,CUST0264,2023-10-24,Paid Search,Delivered,Delhi,0
+ORD02782,CUST0320,2023-10-17,Direct,Delivered,Jaipur,0
+ORD02783,CUST0145,2023-04-04,Email,Delivered,Hyderabad,0
+ORD02784,CUST0047,2023-09-15,Direct,Returned,Delhi,15
+ORD02785,CUST0208,2023-09-13,Organic,Delivered,Hyderabad,0
+ORD02786,CUST0218,2023-06-14,Paid Search,Returned,Hyderabad,5
+ORD02787,CUST0267,2022-07-26,Organic,Cancelled,Jaipur,15
+ORD02788,CUST0171,2023-07-04,Paid Search,Delivered,Jaipur,0
+ORD02789,CUST0217,2022-12-02,Organic,Processing,Delhi,0
+ORD02790,CUST0084,2022-10-17,Social Media,Delivered,Chennai,15
+ORD02791,CUST0287,2022-02-14,Paid Search,Returned,Pune,5
+ORD02792,CUST0281,2023-05-12,Direct,Delivered,Delhi,0
+ORD02793,CUST0105,2022-06-11,Paid Search,Delivered,Chennai,15
+ORD02794,CUST0327,2023-01-15,Paid Search,Cancelled,Bangalore,0
+ORD02795,CUST0219,2022-04-20,Social Media,Returned,Ahmedabad,0
+ORD02796,CUST0474,2023-04-29,Email,Delivered,Chennai,0
+ORD02797,CUST0433,2022-06-20,Direct,Processing,Delhi,0
+ORD02798,CUST0164,2022-05-12,Organic,Delivered,Ahmedabad,0
+ORD02799,CUST0025,2022-05-25,Social Media,Delivered,Jaipur,15
+ORD02800,CUST0338,2023-05-11,Email,Returned,Chennai,5
+ORD02801,CUST0324,2023-05-02,Paid Search,Delivered,Hyderabad,0
+ORD02802,CUST0207,2023-04-12,Email,Delivered,Mumbai,0
+ORD02803,CUST0009,2023-09-22,Direct,Processing,Bangalore,5
+ORD02804,CUST0101,2023-04-15,Organic,Delivered,Mumbai,0
+ORD02805,CUST0320,2023-12-22,Organic,Delivered,Jaipur,5
+ORD02806,CUST0125,2023-03-08,Organic,Delivered,Ahmedabad,15
+ORD02807,CUST0059,2022-03-26,Organic,Delivered,Kolkata,15
+ORD02808,CUST0016,2023-06-01,Paid Search,Delivered,Ahmedabad,15
+ORD02809,CUST0343,2022-09-25,Direct,Cancelled,Pune,0
+ORD02810,CUST0257,2024-01-01,Direct,Delivered,Chennai,0
+ORD02811,CUST0207,2023-04-29,Paid Search,Delivered,Mumbai,15
+ORD02812,CUST0474,2023-02-28,Email,Delivered,Chennai,0
+ORD02813,CUST0419,2023-11-05,Organic,Delivered,Delhi,0
+ORD02814,CUST0256,2023-11-17,Organic,Delivered,Delhi,15
+ORD02815,CUST0073,2022-01-22,Social Media,Delivered,Jaipur,0
+ORD02816,CUST0287,2022-12-13,Paid Search,Delivered,Pune,15
+ORD02817,CUST0451,2023-10-23,Direct,Returned,Bangalore,0
+ORD02818,CUST0365,2022-07-25,Direct,Delivered,Mumbai,0
+ORD02819,CUST0027,2023-06-23,Paid Search,Delivered,Mumbai,0
+ORD02820,CUST0496,2022-02-15,Direct,Delivered,Chennai,15
+ORD02821,CUST0172,2023-07-11,Organic,Delivered,Kolkata,0
+ORD02822,CUST0113,2023-10-11,Email,Delivered,Kolkata,10
+ORD02823,CUST0072,2022-05-21,Paid Search,Delivered,Indore,15
+ORD02824,CUST0467,2022-08-14,Direct,Delivered,Mumbai,0
+ORD02825,CUST0281,2022-08-06,Social Media,Delivered,Delhi,0
+ORD02826,CUST0317,2023-05-31,Social Media,Delivered,Indore,0
+ORD02827,CUST0311,2022-08-27,Organic,Delivered,Bangalore,5
+ORD02828,CUST0444,2022-04-11,Social Media,Returned,Kolkata,0
+ORD02829,CUST0270,2023-11-12,Social Media,Cancelled,Delhi,15
+ORD02830,CUST0089,2023-08-30,Paid Search,Delivered,Mumbai,15
+ORD02831,CUST0292,2023-12-18,Paid Search,Processing,Chennai,0
+ORD02832,CUST0282,2023-10-19,Paid Search,Delivered,Ahmedabad,0
+ORD02833,CUST0275,2022-04-19,Social Media,Delivered,Chennai,0
+ORD02834,CUST0499,2023-09-10,Email,Cancelled,Jaipur,0
+ORD02835,CUST0016,2022-03-16,Organic,Processing,Ahmedabad,5
+ORD02836,CUST0299,2022-07-12,Organic,Processing,Pune,0
+ORD02837,CUST0180,2022-04-06,Social Media,Delivered,Jaipur,15
+ORD02838,CUST0309,2022-07-08,Social Media,Delivered,Kolkata,5
+ORD02839,CUST0328,2023-04-20,Organic,Delivered,Bangalore,0
+ORD02840,CUST0101,2022-01-19,Email,Delivered,Mumbai,15
+ORD02841,CUST0033,2023-10-22,Paid Search,Delivered,Hyderabad,0
+ORD02842,CUST0177,2022-06-02,Direct,Delivered,Jaipur,0
+ORD02843,CUST0288,2022-01-17,Social Media,Delivered,Delhi,0
+ORD02844,CUST0364,2023-03-10,Email,Delivered,Bangalore,0
+ORD02845,CUST0326,2022-10-23,Email,Delivered,Indore,15
+ORD02846,CUST0414,2023-10-20,Direct,Delivered,Mumbai,5
+ORD02847,CUST0026,2023-01-25,Paid Search,Processing,Kolkata,0
+ORD02848,CUST0144,2023-01-25,Email,Delivered,Indore,10
+ORD02849,CUST0260,2022-07-23,Social Media,Cancelled,Delhi,15
+ORD02850,CUST0082,2023-03-03,Social Media,Delivered,Hyderabad,0
+ORD02851,CUST0269,2023-04-28,Social Media,Delivered,Ahmedabad,0
+ORD02852,CUST0396,2023-10-29,Organic,Returned,Pune,0
+ORD02853,CUST0306,2023-12-09,Paid Search,Returned,Jaipur,0
+ORD02854,CUST0370,2022-02-02,Paid Search,Delivered,Kolkata,0
+ORD02855,CUST0101,2022-10-15,Social Media,Delivered,Mumbai,0
+ORD02856,CUST0229,2022-08-21,Paid Search,Returned,Delhi,0
+ORD02857,CUST0124,2023-07-30,Paid Search,Delivered,Kolkata,0
+ORD02858,CUST0182,2022-02-09,Social Media,Delivered,Kolkata,0
+ORD02859,CUST0095,2023-07-30,Organic,Delivered,Hyderabad,0
+ORD02860,CUST0466,2023-04-21,Social Media,Delivered,Chennai,0
+ORD02861,CUST0097,2022-03-22,Organic,Delivered,Ahmedabad,10
+ORD02862,CUST0141,2022-06-20,Organic,Delivered,Indore,15
+ORD02863,CUST0057,2023-12-10,Paid Search,Delivered,Kolkata,0
+ORD02864,CUST0367,2023-11-25,Direct,Delivered,Delhi,5
+ORD02865,CUST0042,2023-08-22,Organic,Delivered,Delhi,0
+ORD02866,CUST0161,2023-12-02,Social Media,Cancelled,Bangalore,5
+ORD02867,CUST0096,2023-07-11,Paid Search,Delivered,Ahmedabad,0
+ORD02868,CUST0049,2022-05-24,Paid Search,Delivered,Pune,5
+ORD02869,CUST0370,2022-06-20,Organic,Delivered,Kolkata,0
+ORD02870,CUST0082,2022-01-15,Social Media,Delivered,Hyderabad,5
+ORD02871,CUST0011,2022-08-29,Paid Search,Delivered,Delhi,0
+ORD02872,CUST0370,2023-09-23,Organic,Delivered,Kolkata,15
+ORD02873,CUST0117,2023-11-24,Direct,Delivered,Kolkata,0
+ORD02874,CUST0471,2023-07-24,Social Media,Cancelled,Indore,0
+ORD02875,CUST0150,2023-10-28,Paid Search,Returned,Kolkata,5
+ORD02876,CUST0024,2023-11-27,Email,Delivered,Kolkata,0
+ORD02877,CUST0242,2023-01-06,Organic,Delivered,Pune,0
+ORD02878,CUST0303,2022-01-25,Direct,Delivered,Jaipur,15
+ORD02879,CUST0128,2023-03-23,Direct,Delivered,Indore,0
+ORD02880,CUST0248,2022-05-02,Organic,Delivered,Bangalore,10
+ORD02881,CUST0486,2023-11-21,Email,Cancelled,Bangalore,0
+ORD02882,CUST0073,2023-12-03,Organic,Delivered,Jaipur,0
+ORD02883,CUST0080,2022-06-10,Social Media,Delivered,Mumbai,0
+ORD02884,CUST0227,2022-08-12,Email,Delivered,Jaipur,10
+ORD02885,CUST0001,2023-03-29,Email,Returned,Delhi,0
+ORD02886,CUST0131,2022-10-08,Direct,Delivered,Jaipur,15
+ORD02887,CUST0125,2023-07-28,Email,Delivered,Ahmedabad,0
+ORD02888,CUST0258,2023-02-14,Social Media,Delivered,Pune,0
+ORD02889,CUST0209,2023-12-03,Organic,Delivered,Bangalore,0
+ORD02890,CUST0050,2022-02-15,Organic,Delivered,Kolkata,0
+ORD02891,CUST0089,2022-03-15,Email,Delivered,Mumbai,0
+ORD02892,CUST0193,2022-03-03,Paid Search,Delivered,Hyderabad,0
+ORD02893,CUST0275,2023-11-05,Organic,Delivered,Chennai,10
+ORD02894,CUST0351,2022-03-20,Paid Search,Delivered,Chennai,0
+ORD02895,CUST0342,2023-11-28,Direct,Delivered,Pune,0
+ORD02896,CUST0195,2023-09-07,Email,Delivered,Indore,0
+ORD02897,CUST0249,2023-03-15,Paid Search,Delivered,Chennai,15
+ORD02898,CUST0468,2022-01-10,Social Media,Cancelled,Bangalore,0
+ORD02899,CUST0165,2022-04-17,Organic,Delivered,Indore,0
+ORD02900,CUST0319,2022-09-29,Paid Search,Delivered,Chennai,10
+ORD02901,CUST0200,2022-04-28,Paid Search,Delivered,Bangalore,5
+ORD02902,CUST0416,2022-04-30,Social Media,Delivered,Mumbai,0
+ORD02903,CUST0279,2022-08-13,Paid Search,Delivered,Indore,0
+ORD02904,CUST0279,2023-06-22,Email,Delivered,Indore,15
+ORD02905,CUST0493,2022-03-12,Direct,Delivered,Chennai,5
+ORD02906,CUST0001,2022-10-31,Email,Delivered,Delhi,0
+ORD02907,CUST0153,2022-06-28,Organic,Delivered,Kolkata,0
+ORD02908,CUST0204,2023-06-29,Organic,Delivered,Chennai,0
+ORD02909,CUST0304,2023-06-07,Social Media,Returned,Hyderabad,0
+ORD02910,CUST0113,2023-05-14,Organic,Returned,Kolkata,0
+ORD02911,CUST0383,2022-05-29,Social Media,Delivered,Delhi,0
+ORD02912,CUST0169,2023-09-05,Organic,Delivered,Kolkata,5
+ORD02913,CUST0075,2023-08-16,Social Media,Delivered,Delhi,10
+ORD02914,CUST0144,2023-05-07,Organic,Delivered,Indore,0
+ORD02915,CUST0357,2023-08-21,Social Media,Delivered,Pune,15
+ORD02916,CUST0427,2023-08-14,Paid Search,Delivered,Indore,0
+ORD02917,CUST0064,2022-04-24,Email,Processing,Kolkata,0
+ORD02918,CUST0284,2023-09-27,Direct,Delivered,Chennai,5
+ORD02919,CUST0324,2023-12-03,Organic,Delivered,Hyderabad,0
+ORD02920,CUST0490,2023-01-11,Email,Returned,Ahmedabad,0
+ORD02921,CUST0312,2023-02-25,Social Media,Delivered,Kolkata,0
+ORD02922,CUST0364,2023-08-28,Social Media,Processing,Bangalore,15
+ORD02923,CUST0059,2022-08-01,Organic,Processing,Kolkata,0
+ORD02924,CUST0408,2023-12-01,Organic,Processing,Ahmedabad,0
+ORD02925,CUST0411,2022-09-05,Social Media,Delivered,Jaipur,0
+ORD02926,CUST0019,2022-02-16,Organic,Delivered,Delhi,10
+ORD02927,CUST0191,2023-06-13,Social Media,Cancelled,Kolkata,0
+ORD02928,CUST0281,2022-05-07,Paid Search,Delivered,Delhi,10
+ORD02929,CUST0075,2022-11-26,Paid Search,Returned,Delhi,15
+ORD02930,CUST0286,2022-03-10,Direct,Cancelled,Delhi,0
+ORD02931,CUST0097,2023-02-20,Social Media,Delivered,Ahmedabad,10
+ORD02932,CUST0134,2023-01-02,Email,Delivered,Indore,0
+ORD02933,CUST0200,2022-08-11,Organic,Cancelled,Bangalore,5
+ORD02934,CUST0205,2023-06-18,Social Media,Delivered,Mumbai,15
+ORD02935,CUST0276,2023-04-21,Direct,Delivered,Chennai,15
+ORD02936,CUST0444,2022-06-30,Paid Search,Returned,Kolkata,0
+ORD02937,CUST0334,2022-04-06,Direct,Delivered,Delhi,10
+ORD02938,CUST0015,2023-05-05,Social Media,Delivered,Delhi,0
+ORD02939,CUST0157,2022-05-16,Email,Processing,Kolkata,0
+ORD02940,CUST0269,2022-08-24,Social Media,Delivered,Ahmedabad,15
+ORD02941,CUST0223,2022-11-17,Direct,Delivered,Jaipur,0
+ORD02942,CUST0152,2023-07-21,Organic,Delivered,Ahmedabad,0
+ORD02943,CUST0308,2022-11-12,Organic,Delivered,Bangalore,5
+ORD02944,CUST0141,2022-01-09,Paid Search,Delivered,Indore,10
+ORD02945,CUST0240,2022-02-09,Organic,Returned,Chennai,0
+ORD02946,CUST0029,2023-06-05,Organic,Cancelled,Hyderabad,0
+ORD02947,CUST0103,2022-11-22,Email,Delivered,Kolkata,0
+ORD02948,CUST0246,2023-01-27,Social Media,Returned,Delhi,10
+ORD02949,CUST0197,2022-04-06,Social Media,Delivered,Mumbai,0
+ORD02950,CUST0428,2023-09-29,Paid Search,Delivered,Indore,15
+ORD02951,CUST0002,2023-01-23,Organic,Delivered,Hyderabad,0
+ORD02952,CUST0310,2022-08-24,Paid Search,Delivered,Delhi,15
+ORD02953,CUST0224,2023-09-19,Paid Search,Returned,Jaipur,0
+ORD02954,CUST0373,2023-07-30,Direct,Delivered,Delhi,0
+ORD02955,CUST0138,2022-07-29,Social Media,Delivered,Chennai,10
+ORD02956,CUST0192,2023-09-16,Direct,Delivered,Ahmedabad,5
+ORD02957,CUST0168,2022-08-03,Paid Search,Delivered,Bangalore,5
+ORD02958,CUST0104,2022-01-05,Social Media,Delivered,Delhi,0
+ORD02959,CUST0282,2023-06-05,Email,Delivered,Ahmedabad,15
+ORD02960,CUST0231,2023-08-27,Email,Delivered,Ahmedabad,15
+ORD02961,CUST0027,2022-03-29,Organic,Processing,Mumbai,0
+ORD02962,CUST0478,2023-04-04,Paid Search,Returned,Hyderabad,5
+ORD02963,CUST0373,2022-11-30,Paid Search,Delivered,Delhi,10
+ORD02964,CUST0484,2022-01-21,Paid Search,Delivered,Bangalore,10
+ORD02965,CUST0350,2022-07-05,Organic,Processing,Mumbai,10
+ORD02966,CUST0295,2023-06-14,Email,Delivered,Pune,0
+ORD02967,CUST0296,2022-08-23,Email,Delivered,Bangalore,0
+ORD02968,CUST0242,2023-12-21,Email,Delivered,Pune,0
+ORD02969,CUST0029,2023-11-30,Direct,Processing,Hyderabad,5
+ORD02970,CUST0387,2023-01-21,Social Media,Returned,Delhi,0
+ORD02971,CUST0294,2022-09-08,Paid Search,Delivered,Delhi,0
+ORD02972,CUST0012,2022-03-23,Social Media,Delivered,Pune,0
+ORD02973,CUST0107,2022-01-02,Organic,Cancelled,Kolkata,15
+ORD02974,CUST0269,2023-01-21,Paid Search,Delivered,Ahmedabad,0
+ORD02975,CUST0156,2023-11-28,Paid Search,Delivered,Jaipur,10
+ORD02976,CUST0368,2022-09-08,Organic,Processing,Indore,0
+ORD02977,CUST0226,2023-11-27,Direct,Delivered,Chennai,0
+ORD02978,CUST0444,2023-01-01,Paid Search,Delivered,Kolkata,0
+ORD02979,CUST0357,2022-02-12,Direct,Cancelled,Pune,10
+ORD02980,CUST0123,2022-10-20,Email,Delivered,Hyderabad,5
+ORD02981,CUST0244,2023-02-03,Organic,Cancelled,Pune,0
+ORD02982,CUST0042,2022-11-12,Organic,Returned,Delhi,0
+ORD02983,CUST0302,2022-03-01,Email,Delivered,Hyderabad,0
+ORD02984,CUST0018,2023-02-23,Social Media,Delivered,Mumbai,0
+ORD02985,CUST0126,2023-06-22,Paid Search,Delivered,Bangalore,0
+ORD02986,CUST0483,2023-02-26,Email,Cancelled,Pune,0
+ORD02987,CUST0378,2022-03-22,Email,Returned,Jaipur,10
+ORD02988,CUST0186,2023-03-08,Social Media,Returned,Mumbai,10
+ORD02989,CUST0303,2023-02-13,Organic,Cancelled,Jaipur,10
+ORD02990,CUST0404,2022-10-11,Paid Search,Delivered,Mumbai,0
+ORD02991,CUST0262,2023-05-14,Email,Delivered,Mumbai,5
+ORD02992,CUST0344,2023-10-29,Organic,Delivered,Hyderabad,0
+ORD02993,CUST0301,2023-01-19,Social Media,Delivered,Kolkata,15
+ORD02994,CUST0360,2022-08-27,Organic,Delivered,Mumbai,5
+ORD02995,CUST0438,2022-01-18,Social Media,Delivered,Chennai,5
+ORD02996,CUST0130,2022-02-26,Social Media,Delivered,Delhi,0
+ORD02997,CUST0445,2022-09-07,Email,Delivered,Ahmedabad,15
+ORD02998,CUST0174,2022-06-21,Email,Delivered,Ahmedabad,0
+ORD02999,CUST0053,2022-01-18,Organic,Delivered,Hyderabad,15
+ORD03000,CUST0043,2023-07-05,Paid Search,Delivered,Chennai,0

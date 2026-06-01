@@ -1,0 +1,497 @@
+customer_id,customer_name,city,segment,recency_days,frequency,monetary,r_score,f_score,m_score,total_score,rfm_segment
+CUST0417,Customer_417,Indore,Returning,13,8,51402.65,5,5,5,15,Champions
+CUST0091,Customer_91,Bangalore,New,31,9,54318.05,5,5,5,15,Champions
+CUST0134,Customer_134,Indore,Returning,6,7,55897.3,5,5,5,15,Champions
+CUST0458,Customer_458,Jaipur,Loyal,23,10,57392.2,5,5,5,15,Champions
+CUST0351,Customer_351,Chennai,Loyal,7,8,61235.45,5,5,5,15,Champions
+CUST0326,Customer_326,Indore,Returning,25,9,64063.95,5,5,5,15,Champions
+CUST0356,Customer_356,Delhi,New,15,7,65051.7,5,5,5,15,Champions
+CUST0344,Customer_344,Hyderabad,Returning,11,8,65088.6,5,5,5,15,Champions
+CUST0363,Customer_363,Hyderabad,Returning,13,8,65832.75,5,5,5,15,Champions
+CUST0156,Customer_156,Jaipur,Returning,34,8,67041.3,5,5,5,15,Champions
+CUST0073,Customer_73,Jaipur,Loyal,29,8,68061.4,5,5,5,15,Champions
+CUST0282,Customer_282,Ahmedabad,Loyal,1,9,68253.1,5,5,5,15,Champions
+CUST0019,Customer_19,Delhi,Loyal,19,9,68415.55,5,5,5,15,Champions
+CUST0274,Customer_274,Jaipur,Loyal,14,11,69355.85,5,5,5,15,Champions
+CUST0321,Customer_321,Kolkata,Returning,22,11,71253.75,5,5,5,15,Champions
+CUST0185,Customer_185,Pune,Returning,21,11,72338.85,5,5,5,15,Champions
+CUST0323,Customer_323,Jaipur,VIP,0,8,85307.8,5,5,5,15,Champions
+CUST0052,Customer_52,Pune,Loyal,17,9,86270.85,5,5,5,15,Champions
+CUST0370,Customer_370,Kolkata,Returning,17,8,103200.2,5,5,5,15,Champions
+CUST0172,Customer_172,Kolkata,VIP,51,10,99157.1,4,5,5,14,Champions
+CUST0181,Customer_181,Hyderabad,New,51,7,91240.7,4,5,5,14,Champions
+CUST0461,Customer_461,Pune,Returning,57,7,79418.6,4,5,5,14,Champions
+CUST0072,Customer_72,Indore,Returning,60,7,81987.85,4,5,5,14,Champions
+CUST0318,Customer_318,Chennai,Loyal,87,7,64026.55,4,5,5,14,Champions
+CUST0231,Customer_231,Ahmedabad,Loyal,85,8,71975.3,4,5,5,14,Champions
+CUST0479,Customer_479,Kolkata,New,6,6,68664,5,4,5,14,Champions
+CUST0043,Customer_43,Chennai,Loyal,8,6,68381.55,5,4,5,14,Champions
+CUST0242,Customer_242,Pune,Returning,11,6,67676.4,5,4,5,14,Champions
+CUST0482,Customer_482,Kolkata,Returning,19,6,67684.1,5,4,5,14,Champions
+CUST0004,Customer_4,Mumbai,New,47,8,65503.95,4,5,5,14,Champions
+CUST0173,Customer_173,Pune,VIP,37,7,64289.65,4,5,5,14,Champions
+CUST0362,Customer_362,Ahmedabad,Loyal,26,5,59636.35,5,4,5,14,Champions
+CUST0387,Customer_387,Delhi,New,45,8,60409.55,4,5,5,14,Champions
+CUST0227,Customer_227,Jaipur,Returning,78,7,60635.5,4,5,5,14,Champions
+CUST0058,Customer_58,Ahmedabad,Returning,43,8,57679.3,4,5,5,14,Champions
+CUST0111,Customer_111,Ahmedabad,New,58,8,58566.85,4,5,5,14,Champions
+CUST0402,Customer_402,Hyderabad,Returning,81,7,57359.4,4,5,5,14,Champions
+CUST0435,Customer_435,Kolkata,Returning,36,8,55326.05,4,5,5,14,Champions
+CUST0117,Customer_117,Kolkata,Loyal,38,9,56496.35,4,5,5,14,Champions
+CUST0416,Customer_416,Mumbai,New,28,6,56954.35,5,4,5,14,Champions
+CUST0308,Customer_308,Bangalore,Returning,61,7,52193.2,4,5,5,14,Champions
+CUST0258,Customer_258,Pune,New,6,6,52382.2,5,4,5,14,Champions
+CUST0082,Customer_82,Hyderabad,Loyal,44,7,52777.75,4,5,5,14,Champions
+CUST0419,Customer_419,Delhi,Loyal,57,7,53141.95,4,5,5,14,Champions
+CUST0317,Customer_317,Indore,Returning,18,5,53169.8,5,4,5,14,Champions
+CUST0008,Customer_8,Ahmedabad,New,29,6,51572.7,5,4,5,14,Champions
+CUST0365,Customer_365,Mumbai,Returning,39,8,51737.3,4,5,5,14,Champions
+CUST0477,Customer_477,Delhi,Returning,59,8,51834.3,4,5,5,14,Champions
+CUST0221,Customer_221,Pune,New,64,7,50530.45,4,5,5,14,Champions
+CUST0199,Customer_199,Indore,New,15,7,48787,5,5,4,14,Champions
+CUST0041,Customer_41,Chennai,VIP,7,8,49274.95,5,5,4,14,Champions
+CUST0215,Customer_215,Ahmedabad,Loyal,13,5,49927.15,5,4,5,14,Champions
+CUST0327,Customer_327,Bangalore,Returning,27,8,47034.7,5,5,4,14,Champions
+CUST0332,Customer_332,Bangalore,New,28,8,48047.15,5,5,4,14,Champions
+CUST0086,Customer_86,Jaipur,New,12,7,37789.6,5,5,4,14,Champions
+CUST0407,Customer_407,Bangalore,New,5,7,42724.55,5,5,4,14,Champions
+CUST0209,Customer_209,Bangalore,New,29,5,42407.45,5,4,4,13,Champions
+CUST0050,Customer_50,Kolkata,VIP,63,9,42958.7,4,5,4,13,Champions
+CUST0184,Customer_184,Hyderabad,New,30,6,42714.9,5,4,4,13,Champions
+CUST0226,Customer_226,Chennai,Returning,35,6,43563.25,5,4,4,13,Champions
+CUST0056,Customer_56,Bangalore,New,72,7,43765.1,4,5,4,13,Champions
+CUST0393,Customer_393,Jaipur,Returning,30,5,42207.2,5,4,4,13,Champions
+CUST0237,Customer_237,Jaipur,Returning,5,5,38662.7,5,4,4,13,Champions
+CUST0118,Customer_118,Mumbai,New,20,6,39146.1,5,4,4,13,Champions
+CUST0305,Customer_305,Chennai,Returning,5,5,39353.8,5,4,4,13,Champions
+CUST0036,Customer_36,Bangalore,Returning,17,5,39368.25,5,4,4,13,Champions
+CUST0324,Customer_324,Hyderabad,Returning,29,5,40357.5,5,4,4,13,Champions
+CUST0251,Customer_251,Hyderabad,New,85,7,47311.1,4,5,4,13,Champions
+CUST0399,Customer_399,Ahmedabad,VIP,59,5,50906.7,4,4,5,13,Champions
+CUST0106,Customer_106,Chennai,Returning,60,6,52556.45,4,4,5,13,Champions
+CUST0200,Customer_200,Bangalore,New,26,5,46744.15,5,4,4,13,Champions
+CUST0391,Customer_391,Ahmedabad,Returning,71,6,53456.8,4,4,5,13,Champions
+CUST0392,Customer_392,Mumbai,Loyal,90,7,53709.35,3,5,5,13,Champions
+CUST0161,Customer_161,Bangalore,New,114,7,57338.3,3,5,5,13,Champions
+CUST0230,Customer_230,Hyderabad,Loyal,96,6,55271.65,3,5,5,13,Champions
+CUST0413,Customer_413,Kolkata,New,78,5,56484.65,4,4,5,13,Champions
+CUST0260,Customer_260,Delhi,Loyal,147,8,59617.7,3,5,5,13,Champions
+CUST0217,Customer_217,Delhi,Returning,68,6,57557.15,4,4,5,13,Champions
+CUST0333,Customer_333,Pune,Returning,66,6,60758.15,4,4,5,13,Champions
+CUST0304,Customer_304,Hyderabad,New,123,7,59686.2,3,5,5,13,Champions
+CUST0495,Customer_495,Jaipur,New,60,6,59875.85,4,4,5,13,Champions
+CUST0471,Customer_471,Indore,New,63,6,63104.3,4,4,5,13,Champions
+CUST0177,Customer_177,Jaipur,New,36,5,63991.3,4,4,5,13,Champions
+CUST0168,Customer_168,Bangalore,Loyal,149,8,66109.35,3,5,5,13,Champions
+CUST0456,Customer_456,Bangalore,New,108,8,71710.55,3,5,5,13,Champions
+CUST0084,Customer_84,Chennai,VIP,145,11,82029.8,3,5,5,13,Champions
+CUST0155,Customer_155,Ahmedabad,Loyal,105,8,83511.95,3,5,5,13,Champions
+CUST0093,Customer_93,Ahmedabad,New,92,12,86584.45,3,5,5,13,Champions
+CUST0296,Customer_296,Bangalore,Returning,114,7,79269.15,3,5,5,13,Champions
+CUST0153,Customer_153,Kolkata,Loyal,20,7,29358.55,5,5,3,13,Champions
+CUST0160,Customer_160,Chennai,New,12,7,29982.35,5,5,3,13,Champions
+CUST0014,Customer_14,Kolkata,New,18,7,34082.8,5,5,3,13,Champions
+CUST0228,Customer_228,Chennai,Returning,70,7,33623.45,4,5,3,12,Loyal Customers
+CUST0320,Customer_320,Jaipur,Loyal,10,6,33784.75,5,4,3,12,Loyal Customers
+CUST0047,Customer_47,Delhi,Loyal,22,6,29797.3,5,4,3,12,Loyal Customers
+CUST0081,Customer_81,Bangalore,Returning,25,6,29562.3,5,4,3,12,Loyal Customers
+CUST0430,Customer_430,Pune,Returning,21,5,29247.45,5,4,3,12,Loyal Customers
+CUST0428,Customer_428,Indore,Returning,27,6,26163.6,5,4,3,12,Loyal Customers
+CUST0180,Customer_180,Jaipur,New,255,8,97058.1,2,5,5,12,At Risk
+CUST0455,Customer_455,Ahmedabad,Returning,229,6,73098.2,2,5,5,12,At Risk
+CUST0474,Customer_474,Chennai,New,93,6,74530.35,3,4,5,12,Needs Attention
+CUST0197,Customer_197,Mumbai,VIP,171,7,77156.95,2,5,5,12,At Risk
+CUST0208,Customer_208,Hyderabad,Loyal,110,6,64788.8,3,4,5,12,Needs Attention
+CUST0292,Customer_292,Chennai,New,113,6,61091.85,3,4,5,12,Needs Attention
+CUST0038,Customer_38,Bangalore,Loyal,171,7,58162.35,2,5,5,12,At Risk
+CUST0149,Customer_149,Pune,Returning,164,7,59283.7,2,5,5,12,At Risk
+CUST0437,Customer_437,Indore,Loyal,172,7,54223.3,2,5,5,12,At Risk
+CUST0493,Customer_493,Chennai,Returning,188,7,52300,2,5,5,12,At Risk
+CUST0322,Customer_322,Kolkata,Loyal,244,6,52347.35,2,5,5,12,At Risk
+CUST0272,Customer_272,Bangalore,New,125,6,53220.45,3,4,5,12,Needs Attention
+CUST0179,Customer_179,Jaipur,Returning,253,6,51355.2,2,5,5,12,At Risk
+CUST0124,Customer_124,Kolkata,Loyal,107,6,50396.95,3,4,5,12,Needs Attention
+CUST0178,Customer_178,Chennai,Loyal,51,5,49683.9,4,4,4,12,Loyal Customers
+CUST0491,Customer_491,Pune,New,147,7,46665,3,5,4,12,Needs Attention
+CUST0277,Customer_277,Delhi,Loyal,145,7,47447.45,3,5,4,12,Needs Attention
+CUST0096,Customer_96,Ahmedabad,New,146,7,44835.1,3,5,4,12,Needs Attention
+CUST0131,Customer_131,Jaipur,New,44,5,40139.7,4,4,4,12,Loyal Customers
+CUST0275,Customer_275,Chennai,New,57,5,40206,4,4,4,12,Loyal Customers
+CUST0483,Customer_483,Pune,Loyal,43,5,39670.4,4,4,4,12,Loyal Customers
+CUST0249,Customer_249,Chennai,Loyal,56,5,40000.25,4,4,4,12,Loyal Customers
+CUST0496,Customer_496,Chennai,New,80,6,38332.1,4,4,4,12,Loyal Customers
+CUST0485,Customer_485,Chennai,New,40,5,38384.9,4,4,4,12,Loyal Customers
+CUST0432,Customer_432,Jaipur,New,53,5,36412.9,4,4,4,12,Loyal Customers
+CUST0016,Customer_16,Ahmedabad,Loyal,142,8,42388.25,3,5,4,12,Needs Attention
+CUST0484,Customer_484,Bangalore,New,95,8,41090.7,3,5,4,12,Needs Attention
+CUST0442,Customer_442,Pune,New,101,9,41193,3,5,4,12,Needs Attention
+CUST0190,Customer_190,Chennai,Loyal,37,6,42803.6,4,4,4,12,Loyal Customers
+CUST0113,Customer_113,Kolkata,Returning,80,4,42516.95,4,3,4,11,Loyal Customers
+CUST0311,Customer_311,Bangalore,Returning,209,7,43940.7,2,5,4,11,At Risk
+CUST0164,Customer_164,Ahmedabad,New,74,4,43230,4,3,4,11,Loyal Customers
+CUST0035,Customer_35,Ahmedabad,Returning,205,7,41234.4,2,5,4,11,At Risk
+CUST0375,Customer_375,Indore,VIP,240,6,40607.7,2,5,4,11,At Risk
+CUST0345,Customer_345,Bangalore,New,186,8,41287.5,2,5,4,11,At Risk
+CUST0152,Customer_152,Ahmedabad,Returning,25,4,41859.55,5,2,4,11,Potential Loyalists
+CUST0032,Customer_32,Jaipur,New,255,8,41956.85,2,5,4,11,At Risk
+CUST0255,Customer_255,Bangalore,Returning,203,8,36328.2,2,5,4,11,At Risk
+CUST0083,Customer_83,Bangalore,Returning,75,4,36932.1,4,3,4,11,Loyal Customers
+CUST0219,Customer_219,Ahmedabad,Loyal,107,6,37058.6,3,4,4,11,Needs Attention
+CUST0386,Customer_386,Chennai,VIP,35,4,37222.75,5,2,4,11,Potential Loyalists
+CUST0492,Customer_492,Jaipur,Returning,90,6,38249.15,3,4,4,11,Needs Attention
+CUST0210,Customer_210,Delhi,Returning,253,6,38291.1,2,5,4,11,At Risk
+CUST0259,Customer_259,Chennai,VIP,79,4,38320.1,4,3,4,11,Loyal Customers
+CUST0388,Customer_388,Bangalore,Returning,237,6,40429.95,2,5,4,11,At Risk
+CUST0141,Customer_141,Indore,Returning,17,4,38670.9,5,2,4,11,Potential Loyalists
+CUST0299,Customer_299,Pune,New,148,5,44848.35,3,4,4,11,Needs Attention
+CUST0097,Customer_97,Ahmedabad,Returning,119,6,44528.7,3,4,4,11,Needs Attention
+CUST0427,Customer_427,Indore,Returning,140,5,45247.95,3,4,4,11,Needs Attention
+CUST0383,Customer_383,Delhi,Returning,25,4,44696.25,5,2,4,11,Potential Loyalists
+CUST0033,Customer_33,Hyderabad,Loyal,22,4,48917.3,5,2,4,11,Potential Loyalists
+CUST0245,Customer_245,Chennai,Returning,130,4,50448.65,3,3,5,11,Needs Attention
+CUST0261,Customer_261,Jaipur,New,265,6,51384.55,1,5,5,11,At Risk
+CUST0315,Customer_315,Hyderabad,VIP,285,6,51974.4,1,5,5,11,At Risk
+CUST0128,Customer_128,Indore,Loyal,185,5,52737.9,2,4,5,11,At Risk
+CUST0468,Customer_468,Bangalore,New,307,7,54734.9,1,5,5,11,At Risk
+CUST0239,Customer_239,Jaipur,Loyal,106,5,54749.75,3,3,5,11,Needs Attention
+CUST0034,Customer_34,Chennai,Loyal,202,6,56250.95,2,4,5,11,At Risk
+CUST0100,Customer_100,Chennai,Returning,337,6,66672.65,1,5,5,11,At Risk
+CUST0372,Customer_372,Chennai,Loyal,298,9,69350.45,1,5,5,11,At Risk
+CUST0364,Customer_364,Bangalore,Returning,65,6,26109.7,4,4,3,11,Loyal Customers
+CUST0024,Customer_24,Kolkata,Loyal,35,6,26110.6,4,4,3,11,Loyal Customers
+CUST0048,Customer_48,Kolkata,Returning,159,7,26542.15,3,5,3,11,Needs Attention
+CUST0475,Customer_475,Pune,New,13,5,20583.5,5,4,2,11,Loyal Customers
+CUST0148,Customer_148,Kolkata,Returning,38,5,28426.25,4,4,3,11,Loyal Customers
+CUST0194,Customer_194,Mumbai,Returning,55,5,33139.25,4,4,3,11,Loyal Customers
+CUST0425,Customer_425,Delhi,Loyal,69,6,35200.95,4,4,3,11,Loyal Customers
+CUST0206,Customer_206,Pune,New,109,7,35419.2,3,5,3,11,Needs Attention
+CUST0374,Customer_374,Bangalore,Loyal,38,5,35986.25,4,4,3,11,Loyal Customers
+CUST0159,Customer_159,Ahmedabad,Returning,48,6,36198.8,4,4,3,11,Loyal Customers
+CUST0220,Customer_220,Mumbai,Returning,16,5,16056.95,5,4,2,11,Loyal Customers
+CUST0301,Customer_301,Kolkata,Returning,29,5,17891.75,5,4,2,11,Loyal Customers
+CUST0040,Customer_40,Ahmedabad,VIP,21,6,18664.4,5,4,2,11,Loyal Customers
+CUST0031,Customer_31,Indore,Loyal,31,5,19442.55,5,4,2,11,Loyal Customers
+CUST0263,Customer_263,Chennai,New,50,5,19492.2,4,4,2,10,Loyal Customers
+CUST0046,Customer_46,Kolkata,Loyal,65,5,19668.05,4,4,2,10,Loyal Customers
+CUST0440,Customer_440,Bangalore,Loyal,52,6,19904.45,4,4,2,10,Loyal Customers
+CUST0057,Customer_57,Kolkata,New,22,5,13921.3,5,4,1,10,Loyal Customers
+CUST0147,Customer_147,Delhi,Loyal,78,4,36256.2,4,3,3,10,Loyal Customers
+CUST0223,Customer_223,Jaipur,New,239,6,36304.1,2,5,3,10,At Risk
+CUST0291,Customer_291,Jaipur,Returning,88,3,36322.3,4,2,4,10,Potential Loyalists
+CUST0150,Customer_150,Kolkata,New,3,3,35480.2,5,2,3,10,Potential Loyalists
+CUST0238,Customer_238,Jaipur,Returning,255,7,34260.25,2,5,3,10,At Risk
+CUST0061,Customer_61,Pune,Returning,76,4,33696.8,4,3,3,10,Loyal Customers
+CUST0244,Customer_244,Pune,Returning,0,4,32216.8,5,2,3,10,Potential Loyalists
+CUST0371,Customer_371,Bangalore,New,242,6,32602.9,2,5,3,10,At Risk
+CUST0138,Customer_138,Chennai,New,142,6,32818.55,3,4,3,10,Needs Attention
+CUST0094,Customer_94,Indore,New,126,5,29285,3,4,3,10,Needs Attention
+CUST0232,Customer_232,Mumbai,Returning,23,4,26042.65,5,2,3,10,Potential Loyalists
+CUST0490,Customer_490,Ahmedabad,Returning,75,4,28745,4,3,3,10,Loyal Customers
+CUST0135,Customer_135,Chennai,Returning,138,5,28802.3,3,4,3,10,Needs Attention
+CUST0481,Customer_481,Delhi,Returning,35,4,31546.75,5,2,3,10,Potential Loyalists
+CUST0382,Customer_382,Pune,VIP,26,3,26170.2,5,2,3,10,Potential Loyalists
+CUST0189,Customer_189,Indore,Returning,128,6,26233.1,3,4,3,10,Needs Attention
+CUST0051,Customer_51,Pune,Returning,42,5,25306.65,4,4,2,10,Loyal Customers
+CUST0157,Customer_157,Kolkata,Returning,16,4,25572.25,5,2,3,10,Potential Loyalists
+CUST0212,Customer_212,Bangalore,Returning,212,5,53594.4,2,3,5,10,At Risk
+CUST0294,Customer_294,Delhi,Returning,97,4,53244.9,3,2,5,10,Potential Loyalists
+CUST0069,Customer_69,Kolkata,New,216,5,50009.35,2,3,5,10,At Risk
+CUST0464,Customer_464,Ahmedabad,New,137,4,45609.1,3,3,4,10,Needs Attention
+CUST0466,Customer_466,Chennai,New,209,5,44686.1,2,4,4,10,At Risk
+CUST0240,Customer_240,Chennai,New,177,6,38897.35,2,4,4,10,At Risk
+CUST0349,Customer_349,Chennai,Returning,201,5,39034.7,2,4,4,10,At Risk
+CUST0448,Customer_448,Chennai,VIP,179,5,39194.5,2,4,4,10,At Risk
+CUST0381,Customer_381,Jaipur,New,209,5,40278.05,2,4,4,10,At Risk
+CUST0140,Customer_140,Pune,Loyal,131,4,39695.8,3,3,4,10,Needs Attention
+CUST0441,Customer_441,Delhi,Returning,318,6,37108.15,1,5,4,10,At Risk
+CUST0469,Customer_469,Hyderabad,Returning,475,6,36485.75,1,5,4,10,At Risk
+CUST0289,Customer_289,Ahmedabad,Returning,142,4,41977.95,3,3,4,10,Needs Attention
+CUST0090,Customer_90,Kolkata,VIP,105,4,41841.7,3,3,4,10,Needs Attention
+CUST0426,Customer_426,Kolkata,Loyal,192,6,40533.9,2,4,4,10,At Risk
+CUST0395,Customer_395,Pune,Returning,163,5,41261.4,2,4,4,10,At Risk
+CUST0414,Customer_414,Mumbai,Loyal,73,3,42963.35,4,2,4,10,Potential Loyalists
+CUST0207,Customer_207,Mumbai,Loyal,118,5,44324.45,3,3,4,10,Needs Attention
+CUST0357,Customer_357,Pune,Returning,125,5,42517.6,3,3,4,10,Needs Attention
+CUST0278,Customer_278,Ahmedabad,Loyal,41,4,42882.4,4,2,4,10,Potential Loyalists
+CUST0145,Customer_145,Hyderabad,Returning,240,5,42778,2,3,4,9,At Risk
+CUST0309,Customer_309,Kolkata,Returning,189,4,42433.05,2,3,4,9,At Risk
+CUST0167,Customer_167,Delhi,Loyal,236,4,41283.6,2,3,4,9,At Risk
+CUST0241,Customer_241,Hyderabad,Returning,223,5,40985.4,2,3,4,9,At Risk
+CUST0059,Customer_59,Kolkata,Loyal,214,5,42383.1,2,3,4,9,At Risk
+CUST0476,Customer_476,Jaipur,Loyal,216,5,36558.6,2,3,4,9,At Risk
+CUST0169,Customer_169,Kolkata,Returning,99,4,37254.05,3,2,4,9,Potential Loyalists
+CUST0287,Customer_287,Pune,Returning,162,4,38177,2,3,4,9,At Risk
+CUST0431,Customer_431,Chennai,Returning,199,4,40481.35,2,3,4,9,At Risk
+CUST0444,Customer_444,Kolkata,VIP,232,5,45223.3,2,3,4,9,At Risk
+CUST0236,Customer_236,Hyderabad,New,215,4,46549.8,2,3,4,9,At Risk
+CUST0105,Customer_105,Chennai,New,170,4,47444.15,2,3,4,9,At Risk
+CUST0163,Customer_163,Jaipur,Returning,344,4,50291.7,1,3,5,9,At Risk
+CUST0325,Customer_325,Indore,New,171,4,48948.9,2,3,4,9,At Risk
+CUST0001,Customer_1,Delhi,New,391,5,53810.85,1,3,5,9,At Risk
+CUST0130,Customer_130,Delhi,Returning,558,4,55684.6,1,3,5,9,At Risk
+CUST0235,Customer_235,Chennai,Returning,56,3,25652.15,4,2,3,9,Potential Loyalists
+CUST0098,Customer_98,Chennai,New,8,3,24245.15,5,2,2,9,Potential Loyalists
+CUST0376,Customer_376,Pune,New,135,5,24804.6,3,4,2,9,Needs Attention
+CUST0415,Customer_415,Kolkata,Returning,32,4,25032.3,5,2,2,9,Potential Loyalists
+CUST0438,Customer_438,Chennai,Returning,67,4,26290.05,4,2,3,9,Potential Loyalists
+CUST0089,Customer_89,Mumbai,New,124,5,25949.35,3,3,3,9,Needs Attention
+CUST0293,Customer_293,Indore,Returning,85,4,26676.95,4,2,3,9,Potential Loyalists
+CUST0497,Customer_497,Ahmedabad,Returning,16,4,20592.55,5,2,2,9,Potential Loyalists
+CUST0262,Customer_262,Mumbai,New,14,4,21344.5,5,2,2,9,Potential Loyalists
+CUST0403,Customer_403,Pune,Loyal,32,3,22039.2,5,2,2,9,Potential Loyalists
+CUST0473,Customer_473,Indore,Loyal,10,3,22377.3,5,2,2,9,Potential Loyalists
+CUST0423,Customer_423,Ahmedabad,Returning,78,4,22525,4,3,2,9,Loyal Customers
+CUST0401,Customer_401,Ahmedabad,New,20,3,22735.15,5,2,2,9,Potential Loyalists
+CUST0144,Customer_144,Indore,New,119,6,22874.3,3,4,2,9,Needs Attention
+CUST0361,Customer_361,Chennai,Loyal,13,3,23199.3,5,2,2,9,Potential Loyalists
+CUST0011,Customer_11,Delhi,New,25,3,23806.55,5,2,2,9,Potential Loyalists
+CUST0095,Customer_95,Hyderabad,Returning,155,6,24066.6,3,4,2,9,Needs Attention
+CUST0192,Customer_192,Ahmedabad,Loyal,107,4,29776.95,3,3,3,9,Needs Attention
+CUST0300,Customer_300,Indore,Loyal,177,5,32069.85,2,4,3,9,At Risk
+CUST0027,Customer_27,Mumbai,New,54,3,29951.7,4,2,3,9,Potential Loyalists
+CUST0246,Customer_246,Delhi,Loyal,134,4,29951.8,3,3,3,9,Needs Attention
+CUST0418,Customer_418,Jaipur,Loyal,50,4,30076.7,4,2,3,9,Potential Loyalists
+CUST0319,Customer_319,Chennai,Loyal,112,5,30305.35,3,3,3,9,Needs Attention
+CUST0369,Customer_369,Kolkata,Loyal,111,4,30410,3,3,3,9,Needs Attention
+CUST0478,Customer_478,Hyderabad,Returning,80,3,30536.8,4,2,3,9,Potential Loyalists
+CUST0186,Customer_186,Mumbai,New,102,5,30613.75,3,3,3,9,Needs Attention
+CUST0498,Customer_498,Jaipur,Returning,145,4,28803.8,3,3,3,9,Needs Attention
+CUST0313,Customer_313,Jaipur,VIP,180,5,28145,2,4,3,9,At Risk
+CUST0446,Customer_446,Mumbai,Returning,47,4,28462,4,2,3,9,Potential Loyalists
+CUST0256,Customer_256,Delhi,Loyal,45,3,28485,4,2,3,9,Potential Loyalists
+CUST0045,Customer_45,Jaipur,New,47,4,29463.3,4,2,3,9,Potential Loyalists
+CUST0279,Customer_279,Indore,New,193,5,32488.35,2,4,3,9,At Risk
+CUST0378,Customer_378,Jaipur,Returning,189,5,32087.2,2,4,3,9,At Risk
+CUST0044,Customer_44,Delhi,New,42,3,31455.95,4,2,3,9,Potential Loyalists
+CUST0216,Customer_216,Indore,VIP,53,4,32196.6,4,2,3,9,Potential Loyalists
+CUST0127,Customer_127,Indore,New,176,6,33486.35,2,4,3,9,At Risk
+CUST0310,Customer_310,Delhi,Returning,142,4,33644.25,3,3,3,9,Needs Attention
+CUST0143,Customer_143,Hyderabad,New,56,4,35216.1,4,2,3,9,Potential Loyalists
+CUST0343,Customer_343,Pune,Returning,126,4,33779.4,3,3,3,9,Needs Attention
+CUST0340,Customer_340,Delhi,Returning,105,4,34193.25,3,3,3,9,Needs Attention
+CUST0276,Customer_276,Chennai,Loyal,184,5,35679.9,2,4,3,9,At Risk
+CUST0373,Customer_373,Delhi,Returning,155,5,16237.25,3,4,2,9,Needs Attention
+CUST0420,Customer_420,Ahmedabad,New,9,3,16367.1,5,2,2,9,Potential Loyalists
+CUST0257,Customer_257,Chennai,Returning,0,4,16423.2,5,2,2,9,Potential Loyalists
+CUST0248,Customer_248,Bangalore,New,19,4,18228.1,5,2,2,9,Potential Loyalists
+CUST0042,Customer_42,Delhi,Loyal,132,6,19032.25,3,4,2,9,Needs Attention
+CUST0193,Customer_193,Hyderabad,New,155,5,17796.15,3,4,2,9,Needs Attention
+CUST0480,Customer_480,Pune,New,77,4,16530.75,4,3,2,9,Loyal Customers
+CUST0229,Customer_229,Delhi,New,150,5,16620.55,3,4,2,9,Needs Attention
+CUST0202,Customer_202,Pune,Loyal,35,4,16740,5,2,2,9,Potential Loyalists
+CUST0075,Customer_75,Delhi,New,2,3,16940.1,5,2,2,9,Potential Loyalists
+CUST0367,Customer_367,Delhi,VIP,37,3,16431.45,4,2,2,8,Potential Loyalists
+CUST0390,Customer_390,Indore,Loyal,35,2,16450.1,5,1,2,8,Potential Loyalists
+CUST0146,Customer_146,Pune,Returning,68,3,17921.75,4,2,2,8,Potential Loyalists
+CUST0467,Customer_467,Mumbai,Returning,82,3,17057.65,4,2,2,8,Potential Loyalists
+CUST0062,Customer_62,Jaipur,New,30,2,17138,5,1,2,8,Potential Loyalists
+CUST0459,Customer_459,Ahmedabad,Returning,184,5,17641,2,4,2,8,Cannot Lose Them
+CUST0264,Customer_264,Delhi,Returning,65,4,17688,4,2,2,8,Potential Loyalists
+CUST0247,Customer_247,Delhi,Loyal,144,4,17760.25,3,3,2,8,Needs Attention
+CUST0472,Customer_472,Pune,Returning,174,5,18953.55,2,4,2,8,Cannot Lose Them
+CUST0225,Customer_225,Bangalore,Loyal,58,4,19913.75,4,2,2,8,Potential Loyalists
+CUST0205,Customer_205,Mumbai,Loyal,30,3,15414.45,5,2,1,8,Potential Loyalists
+CUST0422,Customer_422,Kolkata,Loyal,30,3,14046.1,5,2,1,8,Potential Loyalists
+CUST0412,Customer_412,Kolkata,Returning,17,3,10913.6,5,2,1,8,Potential Loyalists
+CUST0122,Customer_122,Mumbai,Loyal,97,3,33645.35,3,2,3,8,Potential Loyalists
+CUST0396,Customer_396,Pune,New,182,4,33765.65,2,3,3,8,At Risk
+CUST0126,Customer_126,Bangalore,VIP,193,4,34029.45,2,3,3,8,At Risk
+CUST0410,Customer_410,Kolkata,New,224,5,29326.9,2,3,3,8,At Risk
+CUST0339,Customer_339,Indore,VIP,89,4,28100.9,3,2,3,8,Potential Loyalists
+CUST0110,Customer_110,Kolkata,New,204,4,30424.05,2,3,3,8,At Risk
+CUST0281,Customer_281,Delhi,New,234,5,32077.3,2,3,3,8,At Risk
+CUST0454,Customer_454,Bangalore,Returning,123,3,32084,3,2,3,8,Potential Loyalists
+CUST0449,Customer_449,Mumbai,New,168,4,31738.25,2,3,3,8,At Risk
+CUST0085,Customer_85,Chennai,Returning,227,4,31235.15,2,3,3,8,At Risk
+CUST0288,Customer_288,Delhi,New,234,5,31697,2,3,3,8,At Risk
+CUST0025,Customer_25,Jaipur,Returning,82,3,23837.65,4,2,2,8,Potential Loyalists
+CUST0335,Customer_335,Kolkata,Returning,44,3,24051.3,4,2,2,8,Potential Loyalists
+CUST0451,Customer_451,Bangalore,Loyal,56,3,23364.3,4,2,2,8,Potential Loyalists
+CUST0104,Customer_104,Delhi,Loyal,58,3,22809.3,4,2,2,8,Potential Loyalists
+CUST0182,Customer_182,Kolkata,New,38,4,22698.5,4,2,2,8,Potential Loyalists
+CUST0457,Customer_457,Mumbai,Loyal,125,5,20453.7,3,3,2,8,Needs Attention
+CUST0284,Customer_284,Chennai,Loyal,96,4,20820.95,3,3,2,8,Needs Attention
+CUST0123,Customer_123,Hyderabad,Loyal,72,4,20969.85,4,2,2,8,Potential Loyalists
+CUST0434,Customer_434,Bangalore,Returning,106,5,21050.95,3,3,2,8,Needs Attention
+CUST0125,Customer_125,Ahmedabad,Loyal,157,3,26874.15,3,2,3,8,Potential Loyalists
+CUST0285,Customer_285,Kolkata,Returning,257,4,27464.95,2,3,3,8,At Risk
+CUST0137,Customer_137,Pune,VIP,41,4,25134.1,4,2,2,8,Potential Loyalists
+CUST0233,Customer_233,Bangalore,Returning,59,4,24180,4,2,2,8,Potential Loyalists
+CUST0068,Customer_68,Chennai,Loyal,123,5,23630.45,3,3,2,8,Needs Attention
+CUST0015,Customer_15,Delhi,Returning,149,3,25483,3,2,3,8,Potential Loyalists
+CUST0316,Customer_316,Bangalore,Loyal,530,4,47844.7,1,3,4,8,At Risk
+CUST0295,Customer_295,Pune,Returning,186,3,48527,2,2,4,8,Needs Attention
+CUST0006,Customer_6,Kolkata,New,305,5,45514.4,1,3,4,8,At Risk
+CUST0334,Customer_334,Delhi,Loyal,429,4,45551.4,1,3,4,8,At Risk
+CUST0404,Customer_404,Mumbai,New,317,5,40056.2,1,3,4,8,At Risk
+CUST0053,Customer_53,Hyderabad,New,310,4,38708.7,1,3,4,8,At Risk
+CUST0314,Customer_314,Jaipur,Returning,474,4,37853.55,1,3,4,8,At Risk
+CUST0116,Customer_116,Chennai,New,423,5,40582.65,1,3,4,8,At Risk
+CUST0243,Customer_243,Pune,Returning,355,5,40634.35,1,3,4,8,At Risk
+CUST0453,Customer_453,Indore,Returning,303,5,42487.85,1,3,4,8,At Risk
+CUST0397,Customer_397,Hyderabad,VIP,373,5,35162.1,1,3,3,7,At Risk
+CUST0201,Customer_201,Pune,New,354,4,25660.5,1,3,3,7,At Risk
+CUST0017,Customer_17,Ahmedabad,New,214,5,25236.5,2,3,2,7,Needs Attention
+CUST0447,Customer_447,Chennai,New,313,4,27780,1,3,3,7,At Risk
+CUST0384,Customer_384,Chennai,Returning,266,5,26551.65,1,3,3,7,At Risk
+CUST0196,Customer_196,Bangalore,VIP,318,4,26666.9,1,3,3,7,At Risk
+CUST0171,Customer_171,Jaipur,New,181,3,27172.45,2,2,3,7,Needs Attention
+CUST0065,Customer_65,Mumbai,New,290,4,27221,1,3,3,7,At Risk
+CUST0409,Customer_409,Chennai,New,90,3,20689.2,3,2,2,7,Potential Loyalists
+CUST0213,Customer_213,Bangalore,VIP,161,4,21383.35,2,3,2,7,Needs Attention
+CUST0039,Customer_39,Ahmedabad,New,227,4,22817.35,2,3,2,7,Needs Attention
+CUST0198,Customer_198,Ahmedabad,Loyal,86,2,22768.1,4,1,2,7,Potential Loyalists
+CUST0341,Customer_341,Chennai,VIP,243,4,23533.35,2,3,2,7,Needs Attention
+CUST0023,Customer_23,Delhi,Returning,310,4,31126.1,1,3,3,7,At Risk
+CUST0009,Customer_9,Bangalore,Loyal,259,5,28235.3,1,3,3,7,At Risk
+CUST0204,Customer_204,Chennai,Loyal,186,3,28912.95,2,2,3,7,Needs Attention
+CUST0165,Customer_165,Indore,Returning,569,4,29722.2,1,3,3,7,At Risk
+CUST0265,Customer_265,Ahmedabad,Returning,253,3,33583,2,2,3,7,Needs Attention
+CUST0022,Customer_22,Hyderabad,Loyal,404,5,32167.85,1,3,3,7,At Risk
+CUST0115,Customer_115,Mumbai,New,183,3,36083.9,2,2,3,7,Needs Attention
+CUST0170,Customer_170,Hyderabad,VIP,152,2,34114.8,3,1,3,7,Potential Loyalists
+CUST0302,Customer_302,Hyderabad,Returning,159,3,35219.9,2,2,3,7,Needs Attention
+CUST0003,Customer_3,Kolkata,New,26,1,9998,5,1,1,7,Potential Loyalists
+CUST0266,Customer_266,Hyderabad,Loyal,180,5,12177.2,2,4,1,7,Cannot Lose Them
+CUST0389,Customer_389,Kolkata,Returning,137,4,12412.4,3,3,1,7,Needs Attention
+CUST0214,Customer_214,Ahmedabad,New,20,2,12844.9,5,1,1,7,Potential Loyalists
+CUST0298,Customer_298,Kolkata,New,86,3,13073.35,4,2,1,7,Potential Loyalists
+CUST0158,Customer_158,Delhi,New,33,1,8355.25,5,1,1,7,Potential Loyalists
+CUST0119,Customer_119,Bangalore,Returning,101,4,8815.4,3,3,1,7,Needs Attention
+CUST0030,Customer_30,Pune,New,85,3,8875.2,4,2,1,7,Potential Loyalists
+CUST0342,Customer_342,Pune,Loyal,34,2,9534.45,5,1,1,7,Potential Loyalists
+CUST0331,Customer_331,Mumbai,Loyal,31,2,6170.05,5,1,1,7,Potential Loyalists
+CUST0352,Customer_352,Delhi,Returning,11,2,6796,5,1,1,7,Potential Loyalists
+CUST0188,Customer_188,Mumbai,Loyal,2,2,6823.9,5,1,1,7,Potential Loyalists
+CUST0175,Customer_175,Indore,Loyal,80,3,14135.2,4,2,1,7,Potential Loyalists
+CUST0020,Customer_20,Indore,New,120,4,14039.1,3,3,1,7,Needs Attention
+CUST0088,Customer_88,Kolkata,New,56,4,14679.95,4,2,1,7,Potential Loyalists
+CUST0254,Customer_254,Mumbai,Returning,12,1,14951.5,5,1,1,7,Potential Loyalists
+CUST0436,Customer_436,Delhi,Returning,4,2,15528.2,5,1,1,7,Potential Loyalists
+CUST0010,Customer_10,Chennai,New,99,3,15895.2,3,2,2,7,Potential Loyalists
+CUST0424,Customer_424,Kolkata,Returning,104,3,15921,3,2,2,7,Potential Loyalists
+CUST0218,Customer_218,Hyderabad,New,154,3,20061.95,3,2,2,7,Potential Loyalists
+CUST0445,Customer_445,Ahmedabad,Loyal,95,3,18221.9,3,2,2,7,Potential Loyalists
+CUST0494,Customer_494,Kolkata,New,112,3,19602.3,3,2,2,7,Potential Loyalists
+CUST0195,Customer_195,Indore,Loyal,116,3,19007.6,3,2,2,7,Potential Loyalists
+CUST0353,Customer_353,Ahmedabad,New,252,4,19386,2,3,2,7,Needs Attention
+CUST0007,Customer_7,Kolkata,Returning,121,3,19402.1,3,2,2,7,Potential Loyalists
+CUST0358,Customer_358,Chennai,New,25,2,15330.15,5,1,1,7,Potential Loyalists
+CUST0368,Customer_368,Indore,New,281,4,18014.6,1,3,2,6,Needs Attention
+CUST0077,Customer_77,Bangalore,New,275,4,19506.25,1,3,2,6,Needs Attention
+CUST0470,Customer_470,Pune,New,193,3,15604.1,2,2,2,6,Lost Customers
+CUST0329,Customer_329,Pune,Loyal,190,3,15656.75,2,2,2,6,Lost Customers
+CUST0253,Customer_253,Kolkata,New,122,3,15003.2,3,2,1,6,Potential Loyalists
+CUST0080,Customer_80,Mumbai,VIP,249,4,14400.3,2,3,1,6,Needs Attention
+CUST0133,Customer_133,Hyderabad,New,38,2,13290,4,1,1,6,Potential Loyalists
+CUST0101,Customer_101,Mumbai,Returning,210,4,13608.3,2,3,1,6,Needs Attention
+CUST0066,Customer_66,Mumbai,New,52,1,5223.1,4,1,1,6,Potential Loyalists
+CUST0132,Customer_132,Pune,Returning,129,3,5404.15,3,2,1,6,Potential Loyalists
+CUST0211,Customer_211,Jaipur,Loyal,142,3,5619.55,3,2,1,6,Potential Loyalists
+CUST0488,Customer_488,Jaipur,Returning,139,3,3135.4,3,2,1,6,Potential Loyalists
+CUST0054,Customer_54,Delhi,New,134,3,8967.8,3,2,1,6,Potential Loyalists
+CUST0267,Customer_267,Jaipur,VIP,83,2,11219.05,4,1,1,6,Potential Loyalists
+CUST0400,Customer_400,Pune,New,210,4,11941.55,2,3,1,6,Needs Attention
+CUST0303,Customer_303,Jaipur,Returning,281,3,34986,1,2,3,6,Needs Attention
+CUST0203,Customer_203,Chennai,Loyal,391,4,24113.45,1,3,2,6,Needs Attention
+CUST0070,Customer_70,Ahmedabad,Returning,223,3,22820.25,2,2,2,6,Lost Customers
+CUST0154,Customer_154,Chennai,New,316,4,21318.4,1,3,2,6,Needs Attention
+CUST0273,Customer_273,Delhi,New,205,3,20481.25,2,2,2,6,Lost Customers
+CUST0500,Customer_500,Hyderabad,Returning,587,4,22131,1,3,2,6,Needs Attention
+CUST0103,Customer_103,Kolkata,New,405,5,21159.3,1,3,2,6,Needs Attention
+CUST0079,Customer_79,Delhi,New,416,4,25262.2,1,3,2,6,Needs Attention
+CUST0337,Customer_337,Ahmedabad,New,431,4,25102.35,1,3,2,6,Needs Attention
+CUST0021,Customer_21,Pune,New,494,4,24220.4,1,3,2,6,Needs Attention
+CUST0286,Customer_286,Delhi,Returning,305,4,24950.85,1,3,2,6,Needs Attention
+CUST0013,Customer_13,Chennai,Loyal,408,3,36346.45,1,1,4,6,Needs Attention
+CUST0222,Customer_222,Pune,New,314,3,39665.3,1,1,4,6,Needs Attention
+CUST0224,Customer_224,Jaipur,Loyal,469,3,25668.15,1,1,3,5,Needs Attention
+CUST0176,Customer_176,Jaipur,Loyal,303,3,25769.95,1,1,3,5,Needs Attention
+CUST0187,Customer_187,Indore,VIP,256,2,25429,2,1,2,5,Lost Customers
+CUST0486,Customer_486,Bangalore,Loyal,632,2,26028.55,1,1,3,5,Needs Attention
+CUST0377,Customer_377,Mumbai,New,540,3,30297.25,1,1,3,5,Needs Attention
+CUST0037,Customer_37,Mumbai,Loyal,395,3,31725.6,1,1,3,5,Needs Attention
+CUST0306,Customer_306,Jaipur,New,333,3,31896.05,1,1,3,5,Needs Attention
+CUST0166,Customer_166,Bangalore,Loyal,151,2,12234.05,3,1,1,5,Potential Loyalists
+CUST0129,Customer_129,Chennai,New,440,4,11873.1,1,3,1,5,Needs Attention
+CUST0049,Customer_49,Pune,Loyal,123,2,8718.15,3,1,1,5,Potential Loyalists
+CUST0183,Customer_183,Hyderabad,Returning,134,2,8743.45,3,1,1,5,Potential Loyalists
+CUST0398,Customer_398,Delhi,Loyal,109,2,7930.8,3,1,1,5,Potential Loyalists
+CUST0269,Customer_269,Ahmedabad,Returning,248,3,9760.15,2,2,1,5,Lost Customers
+CUST0139,Customer_139,Mumbai,New,108,2,10472.05,3,1,1,5,Potential Loyalists
+CUST0450,Customer_450,Ahmedabad,Loyal,214,3,10510,2,2,1,5,Lost Customers
+CUST0107,Customer_107,Kolkata,New,103,2,4271.2,3,1,1,5,Potential Loyalists
+CUST0359,Customer_359,Indore,New,156,1,6171.2,3,1,1,5,Potential Loyalists
+CUST0055,Customer_55,Delhi,VIP,94,2,5259.45,3,1,1,5,Potential Loyalists
+CUST0330,Customer_330,Delhi,Returning,141,2,6859.55,3,1,1,5,Potential Loyalists
+CUST0405,Customer_405,Bangalore,Returning,225,3,6912.6,2,2,1,5,Lost Customers
+CUST0234,Customer_234,Chennai,Returning,116,2,7106.7,3,1,1,5,Potential Loyalists
+CUST0087,Customer_87,Hyderabad,VIP,162,3,13796.6,2,2,1,5,Lost Customers
+CUST0028,Customer_28,Pune,Returning,147,2,13861.75,3,1,1,5,Potential Loyalists
+CUST0099,Customer_99,Hyderabad,New,136,2,13449.55,3,1,1,5,Potential Loyalists
+CUST0338,Customer_338,Chennai,VIP,163,3,13519.15,2,2,1,5,Lost Customers
+CUST0487,Customer_487,Delhi,New,187,3,14427.6,2,2,1,5,Lost Customers
+CUST0312,Customer_312,Kolkata,Loyal,176,2,16088,2,1,2,5,Lost Customers
+CUST0060,Customer_60,Hyderabad,Loyal,304,1,16992.35,1,1,2,4,Lost Customers
+CUST0270,Customer_270,Delhi,VIP,285,2,17290,1,1,2,4,Lost Customers
+CUST0280,Customer_280,Bangalore,VIP,543,3,20099.45,1,1,2,4,Lost Customers
+CUST0366,Customer_366,Mumbai,Returning,318,3,20321.1,1,1,2,4,Lost Customers
+CUST0012,Customer_12,Pune,Loyal,316,3,20348.3,1,1,2,4,Lost Customers
+CUST0092,Customer_92,Delhi,Loyal,544,2,19066.5,1,1,2,4,Lost Customers
+CUST0112,Customer_112,Hyderabad,Loyal,380,3,18234.65,1,1,2,4,Lost Customers
+CUST0429,Customer_429,Indore,Returning,257,2,15491,2,1,1,4,Lost Customers
+CUST0142,Customer_142,Delhi,Returning,667,1,16428.35,1,1,2,4,Lost Customers
+CUST0063,Customer_63,Delhi,Returning,238,2,13938.3,2,1,1,4,Lost Customers
+CUST0114,Customer_114,Delhi,Returning,275,3,7089,1,2,1,4,Lost Customers
+CUST0385,Customer_385,Bangalore,New,167,2,6096,2,1,1,4,Lost Customers
+CUST0462,Customer_462,Ahmedabad,Returning,180,2,5225.4,2,1,1,4,Lost Customers
+CUST0297,Customer_297,Jaipur,New,198,1,4796,2,1,1,4,Lost Customers
+CUST0380,Customer_380,Pune,New,209,2,3895,2,1,1,4,Lost Customers
+CUST0394,Customer_394,Pune,New,220,2,4216.15,2,1,1,4,Lost Customers
+CUST0460,Customer_460,Hyderabad,Loyal,215,2,5213.2,2,1,1,4,Lost Customers
+CUST0102,Customer_102,Delhi,New,245,1,1797,2,1,1,4,Lost Customers
+CUST0191,Customer_191,Kolkata,Loyal,179,1,662.15,2,1,1,4,Lost Customers
+CUST0271,Customer_271,Hyderabad,New,229,2,9846.65,2,1,1,4,Lost Customers
+CUST0064,Customer_64,Kolkata,New,267,3,8136,1,2,1,4,Lost Customers
+CUST0328,Customer_328,Bangalore,Returning,256,2,12079.8,2,1,1,4,Lost Customers
+CUST0108,Customer_108,Chennai,VIP,373,2,21268.8,1,1,2,4,Lost Customers
+CUST0346,Customer_346,Ahmedabad,Loyal,503,3,20728.5,1,1,2,4,Lost Customers
+CUST0360,Customer_360,Mumbai,VIP,286,2,20553.55,1,1,2,4,Lost Customers
+CUST0002,Customer_2,Hyderabad,New,343,3,21541.1,1,1,2,4,Lost Customers
+CUST0067,Customer_67,Pune,New,289,2,22023.45,1,1,2,4,Lost Customers
+CUST0348,Customer_348,Bangalore,New,528,2,22530.8,1,1,2,4,Lost Customers
+CUST0336,Customer_336,Jaipur,Loyal,514,3,22784.25,1,1,2,4,Lost Customers
+CUST0433,Customer_433,Delhi,Returning,612,1,13092,1,1,1,3,Lost Customers
+CUST0489,Customer_489,Ahmedabad,Returning,555,2,12440,1,1,1,3,Lost Customers
+CUST0026,Customer_26,Kolkata,New,627,2,12559.45,1,1,1,3,Lost Customers
+CUST0268,Customer_268,Ahmedabad,VIP,300,3,11995.4,1,1,1,3,Lost Customers
+CUST0005,Customer_5,Hyderabad,Returning,444,3,11607.45,1,1,1,3,Lost Customers
+CUST0408,Customer_408,Ahmedabad,Returning,324,3,11667.9,1,1,1,3,Lost Customers
+CUST0109,Customer_109,Bangalore,New,579,1,10251.45,1,1,1,3,Lost Customers
+CUST0078,Customer_78,Delhi,Returning,377,2,10997,1,1,1,3,Lost Customers
+CUST0421,Customer_421,Chennai,Returning,278,2,8549.75,1,1,1,3,Lost Customers
+CUST0252,Customer_252,Bangalore,Returning,423,3,9925.4,1,1,1,3,Lost Customers
+CUST0151,Customer_151,Indore,Loyal,459,2,10543.15,1,1,1,3,Lost Customers
+CUST0499,Customer_499,Jaipur,VIP,257,1,10615.5,1,1,1,3,Lost Customers
+CUST0283,Customer_283,Chennai,Returning,652,1,798,1,1,1,3,Lost Customers
+CUST0029,Customer_29,Hyderabad,VIP,276,1,897,1,1,1,3,Lost Customers
+CUST0120,Customer_120,Ahmedabad,Returning,657,1,1707.15,1,1,1,3,Lost Customers
+CUST0350,Customer_350,Mumbai,Loyal,474,1,398,1,1,1,3,Lost Customers
+CUST0250,Customer_250,Ahmedabad,New,301,2,3794,1,1,1,3,Lost Customers
+CUST0379,Customer_379,Chennai,Returning,418,2,3942,1,1,1,3,Lost Customers
+CUST0162,Customer_162,Jaipur,Returning,295,2,5039.6,1,1,1,3,Lost Customers
+CUST0354,Customer_354,Chennai,Returning,263,2,5084.6,1,1,1,3,Lost Customers
+CUST0018,Customer_18,Mumbai,Loyal,312,3,5985,1,1,1,3,Lost Customers
+CUST0071,Customer_71,Indore,New,342,2,7095,1,1,1,3,Lost Customers
+CUST0411,Customer_411,Jaipur,Returning,376,2,7491,1,1,1,3,Lost Customers
+CUST0355,Customer_355,Hyderabad,VIP,277,2,7912.8,1,1,1,3,Lost Customers
+CUST0121,Customer_121,Bangalore,New,312,2,7016.4,1,1,1,3,Lost Customers
+CUST0290,Customer_290,Chennai,Returning,356,3,13944.55,1,1,1,3,Lost Customers
+CUST0347,Customer_347,Hyderabad,Returning,309,2,13959.6,1,1,1,3,Lost Customers
+CUST0136,Customer_136,Indore,Loyal,480,3,14149.15,1,1,1,3,Lost Customers
+CUST0174,Customer_174,Ahmedabad,Loyal,559,1,13493,1,1,1,3,Lost Customers
+CUST0076,Customer_76,Kolkata,Returning,369,3,13305.45,1,1,1,3,Lost Customers
+CUST0074,Customer_74,Delhi,New,597,3,13663.6,1,1,1,3,Lost Customers
+CUST0439,Customer_439,Delhi,Returning,520,3,13743,1,1,1,3,Lost Customers
+CUST0452,Customer_452,Delhi,Loyal,460,1,14595,1,1,1,3,Lost Customers
+CUST0465,Customer_465,Chennai,VIP,361,1,15290.65,1,1,1,3,Lost Customers

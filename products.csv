@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,cost_price
+PROD001,Wireless Earbuds,Electronics,1499,350
+PROD002,Running Shoes,Footwear,2999,600
+PROD003,Yoga Mat,Sports,799,180
+PROD004,Backpack,Bags,1899,450
+PROD005,Smartwatch,Electronics,4999,1200
+PROD006,Face Wash,Beauty,299,60
+PROD007,Notebook Set,Stationery,199,40
+PROD008,Desk Lamp,Home Decor,999,220
+PROD009,Water Bottle,Sports,399,80
+PROD010,Sunglasses,Accessories,1299,300
+PROD011,Bluetooth Speaker,Electronics,2499,580
+PROD012,Casual T-Shirt,Clothing,599,120
+PROD013,Coffee Maker,Kitchen,3499,850
+PROD014,Mouse Pad,Electronics,249,50
+PROD015,Moisturizer,Beauty,499,100
